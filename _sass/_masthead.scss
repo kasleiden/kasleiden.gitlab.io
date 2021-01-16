@@ -1,0 +1,239 @@
+// Masthead
+//
+// Super small header above the content for site name and short description.
+
+.masthead {
+  background-color: #fcfcfc;
+  /*Opacity start*/
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+  filter: alpha(opacity=100);
+  -moz-opacity: 1;
+  -khtml-opacity: 1;
+  opacity: 1;
+  /*Opacity end*/
+
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 99;
+}
+
+.masthead-title {
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 1.5rem;
+  margin-bottom: 1rem;
+  @media (min-width: $middle-breakpoint) {
+    margin-bottom: 0.5rem;
+  }
+  max-width: 14rem;
+  // width: 95%;
+  @media (min-width: $middle-breakpoint) {
+    margin-left: 13%;
+    max-width: 20rem;
+  }
+
+  // margin-right: auto;
+  // padding-left: 1rem;
+  // padding-right: 1rem;
+  color: $black;
+
+  a {
+    color: inherit;
+  }
+
+  small {
+    font-size: 75%;
+    font-weight: 400;
+    /*opacity: .5;*/
+  }
+}
+
+.masthead-title-left {
+  margin-top: 1%;
+  float: left;
+  margin-left: 15%;
+}
+
+.masthead-title-right {
+  margin-top: 1%;
+  float: right;
+  margin-right: 15%;
+}
+
+//hamburger menu
+
+.nav-trigger {
+  position: fixed;
+  clip: rect(0, 0, 0, 0);
+}
+
+.nav-trigger:checked ~ .navigation {
+  width: 100%;
+  display: block;
+
+  @media (min-width: $large-breakpoint) {
+    width: 230px;
+  }
+}
+
+label[for="nav-trigger"] {
+  position: fixed;
+  z-index: 999;
+  background-size: contain;
+  overflow: hidden;
+  margin: -2px;
+  padding: 0;
+  right: 5%;
+  width: 32px;
+  height: 32px;
+  font-size: 0;
+  text-indent: -9999px;
+  cursor: pointer;
+  top: 5px;
+  background-color: transparent;
+  @media (min-width: $large-breakpoint) {
+    top: 15px;
+  }
+}
+
+label[for="nav-trigger"] span {
+  display: block;
+  position: absolute;
+
+  top: 15px;
+  left: 6px;
+  right: 6px;
+  height: 3px;
+  background: black;
+}
+
+label[for="nav-trigger"] span::before,
+label[for="nav-trigger"] span::after {
+  position: absolute;
+  display: block;
+  left: 0;
+  width: 100%;
+  height: 3px;
+  background-color: black;
+  content: "";
+  transition-duration: 0.3s, 0.3s;
+}
+
+label[for="nav-trigger"] span::before {
+  top: -7px;
+}
+
+label[for="nav-trigger"] span::after {
+  bottom: -7px;
+}
+
+.nav-trigger:checked + label {
+}
+
+.nav-trigger:checked + label span {
+  background: none;
+}
+
+.nav-trigger:checked + label span::before {
+  top: 0;
+  transform: rotate(45deg);
+}
+
+.nav-trigger:checked + label span::after {
+  bottom: 0;
+  transform: rotate(-45deg);
+}
+
+.nav-trigger:checked + label span::before,
+.nav-trigger:checked + label span::after {
+  transition-delay: 0s, 0s;
+}
+
+.navigation {
+  list-style: none;
+  background: #000;
+  opacity: 0.8;
+  width: 0px;
+  height: 163px;
+  position: fixed;
+  top: 41px;
+  right: 0%;
+  bottom: 0;
+  z-index: 999;
+  opacity: 0.8;
+  color: black;
+  -webkit-transition: width 0.4s;
+  overflow: hidden;
+  padding: 0px;
+  font-size: 120%;
+  font-weight: 400;
+  text-align: center;
+
+  @media (min-width: $large-breakpoint) {
+    font-size: $large-font-size;
+    top: 51px;
+  }
+}
+
+.navigation li {
+  padding: 5px;
+}
+
+a.nav-link:link,
+a.nav-link:active,
+a.nav-link:visited {
+  color: black;
+}
+
+.menu {
+  margin-bottom: 1.5rem;
+  margin-top: -1rem;
+  max-width: 22rem;
+  @media (min-width: $middle-breakpoint) {
+    margin-top: -4rem;
+  }
+
+  margin-right: auto;
+  margin-left: auto;
+  @media (min-width: $middle-breakpoint) {
+    margin-right: 10%;
+    width: auto;
+  }
+
+  color: $black;
+
+  a {
+    color: inherit;
+  }
+
+  small {
+    margin-top: 1rem;
+    font-size: 75%;
+    font-weight: 400;
+  }
+}
+
+.menu ul {
+  list-style: none;
+  border: 0;
+  width: 100%;
+}
+
+.menu ul li {
+  display: inline-block;
+  float: none;
+}
+
+.menu ul li a {
+  float: left;
+  margin: 0;
+  padding: 1rem 0.3rem;
+}
+
+a.menu-link:link,
+a.menu-link:active,
+a.menu-link:visited {
+  color: black;
+}

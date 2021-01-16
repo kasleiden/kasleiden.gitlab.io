@@ -1,0 +1,48 @@
+---
+layout: default
+title: Team
+---
+<div class="feature">
+  <div class="feature-text movetxt">
+    <h1 class="feature-title">{{ post.title }}</h1>
+    <div class="feature-subtitle">
+      {{ post.excerpt }}
+    </div>
+  </div>
+  <div class="layer">
+    <div class="feature-img" style="background-image: url({{site.baseurl}}/img/jf2.jpg);"></div>
+  </div>
+</div>
+
+<div class="posts-container">
+  <div>
+    <h3>ONZE PROJECTEN</h3>
+  </div>
+  <br />
+  <br />
+    {% for post in site.projects %}
+    {% assign remainder = forloop.index | modulo: 2 %}
+    {% if remainder == 1 %}
+    <div class="row">
+      {% endif %}
+      <div class="column">
+        <div class="article">
+          <div class="article-head">
+            <a href="{{ site.baseurl }}{{ post.url }}">
+              <img src="{{ site.url }}{{post.image}}" />
+            </a>
+          </div>
+          <div class="article-content">
+            <h4>{{post.title}}</h4>
+            <p>{{ post.summary }}</p>
+          </div>
+        </div>
+      </div>
+      {% if remainder == 0 %}
+    </div>
+    {% endif %}
+    {% endfor %}
+  </div>
+  </div>
+</div>
+{% include bottom-menu.html %}

@@ -1,0 +1,42 @@
+# Permalinks
+permalink: pretty
+
+# Setup
+title: Kenniscentrum Angst en Stress jeugd
+tagline:
+url: https://ankeklein.github.io
+paginate: 1
+baseurl: ""
+analytics_id: UA-72478077-1
+# Assets
+#
+# We specify the directory for Jekyll so we can use @imports.
+sass:
+  sass_dir: _sass
+  style: :compressed
+
+# About/contact
+author:
+  name: Anke Klein
+  url: http://ankeklein.nl
+  email: kas@fsw.leidenuniv.nl
+
+collections:
+  staff_members:
+    output: true
+  projects:
+    output: true
+  news:
+    output: true
+  info:
+    output: true  
+
+# Custom vars
+version: 2.0.0
+github:
+  repo: https://github.com/ankeklein
+
+# Gems
+gems:
+  - jekyll-paginate
+  - jekyll-gist

@@ -1,0 +1,29 @@
+---
+layout: default
+title: Presentations
+---
+<div>
+{% for post in site.categories.presentation %}
+	{% if forloop.index > 0 %}
+		<h1 class="post-title">
+	      <a href="{{ site.baseurl }}{{ post.url }}">
+	        {{ post.title }}
+	      </a>
+	    </h1>
+		
+	    <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date_to_string }}</time>
+		{{ post.excerpt }}
+	<hr>
+	{% endif %}	
+	
+{% endfor %}
+</div>
+
+<div id="menu">
+	<a href="mailto:erwin@edegier.nl"><img class="menu-icon" src="{{ site.url }}/img/email.svg"/></a>
+	<a href="https://github.com/erwindeg"><img class="menu-icon" src="{{ site.url }}/img/github.svg"/></a>
+	<a href="https://nl.linkedin.com/in/erwindegier"><img class="menu-icon" src="{{ site.url }}/img/linkedin.svg"/></a>
+	<a href="http://stackoverflow.com/users/4685029/erwin-de-gier"><img class="menu-icon" src="{{ site.url }}/img/stackoverflow.svg"/></a>
+	<a href="https://twitter.com/erwindeg"><img class="menu-icon" src="{{ site.url }}/img/twitter.svg"/></a>
+</div>
+	

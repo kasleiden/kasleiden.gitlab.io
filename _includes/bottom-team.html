@@ -1,0 +1,19 @@
+<div class="posts-container">
+    <div class="row">
+        {% for staff_member in site.staff_members %}
+        {% if page.members contains staff_member.nameid %}
+        <div class="column">
+            <div class="article-bottom">
+                <div class="article-head">
+                    <img src="{{ site.url }}{{staff_member.image}}" />
+                </div>
+                <div class="article-content">
+                    <h4>{{ staff_member.name }}</h4>
+                    <h5>{{ staff_member.title }}</h5>
+                </div>
+            </div>
+        </div>
+        {% endif %}
+        {% endfor %}
+    </div> 
+</div>
