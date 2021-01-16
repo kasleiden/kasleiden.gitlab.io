@@ -3,7 +3,7 @@ nameid: Joelle
 layout: teammember
 name: JOELLE VINK-VAN RIJN
 title: Alumnus
-group: alumni
+group: team
 summary: 
 permalink: /team/joelle
 image: /img/joelle.jpg
