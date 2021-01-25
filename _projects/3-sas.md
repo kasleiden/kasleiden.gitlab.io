@@ -1,7 +1,7 @@
 ---
 layout: post
 title: In je SAS!
-summary: Zie je soms ook zo op tegen het geven van een spreekbeurt, of vind je het lastig om vragen te stellen in de klas of the beantwoorden, misschien is de training In je SAS! wel iets voor jou!
+summary: Zie je soms ook zo op tegen het geven van een spreekbeurt, of vind je het lastig om vragen te stellen of te beantwoorden in de klas, misschien is de training In je SAS! wel iets voor jou!
 permalink: /projects/sas
 category: project
 image: /img/kiba-logo12.jpg
@@ -9,20 +9,20 @@ members: [michiel, sara, joelle]
 ---
 
 #### In je Sas! 
-Sommige leerlingen zien erg op tegen het geven van spreekbeurten, vinden het lastig om in de klas vragen te stellen of te beantwoorden, of hebben moeite hebben met het leggen van contacten en het maken van vrienden. Dit kan het plezier in en buiten school belemmeren en op den duur ook nadelig zijn voor het schoolwerk.
+Sommige leerlingen zien erg op tegen het geven van spreekbeurten, vinden het lastig om in de klas vragen te stellen of te beantwoorden, of hebben moeite met het leggen van contacten en het maken van vrienden. Dit kan het plezier in en buiten school belemmeren en op den duur ook nadelig zijn voor het schoolwerk.
 Wij zien het als onze taak om tieners hierbij te ondersteunen en daarom hebben wij een laagdrempelige groepsinterventie opgezet waarin leerlingen met elkaar aan opdrachten werken om hun verlegenheid in sociale situaties te overwinnen.
 
 <br>
 
 #### Wat houdt de training in?
-•	12 wekelijkse bijeenkomsten in een klein groep na schooltijd
+•	12 wekelijkse bijeenkomsten in een kleine groep na schooltijd
 •	Samen doen we oefeningen en pakken we uitdagingen aan
 Bijvoorbeeld:
 -	Voor een groep spreken
--	Met onbekende een gesprek aangaan
+-	Met onbekenden een gesprek aangaan
 -	Omgaan met verlegenheid
 -	Nieuwe vrienden maken
--	Met bekende en onbekende bellen
+-	Met bekende en onbekende mensen bellen
 •	We werken samen in LUBEC
 •	We werken ook met een app. Met de app kunnen de jongeren door de week in contact blijven met hun groepsbegeleider en groepsgenoten
 
@@ -35,10 +35,10 @@ Bijvoorbeeld:
 <br>
 
 #### Jullie doen dit als onderdeel van onderzoek, wat houdt dat in?
-We zijn benieuwd hoe de jongeren de combinatie van app en bijeenkomsten ervaren. Meedoen in de training betekend dat je ook in dit onderzoek meedoen. Dat houd tin dat je:
+We zijn benieuwd hoe de jongeren de combinatie van app en bijeenkomsten ervaren. Meedoen aand de training betekent dat je ook aan dit onderzoek meedoet. Dat houdt in dat je:
 •	Vier keer naar de universiteit komt om verschillende vragenlijsten in te vullen, en om een gesprek met ons te hebben.
-•	Twee van die vier keer word je ook gevraagd om een korte spreekbeurt te houden voor een virtuele publiek. Met een eye-tracking bril kunnen we je kijkgedrag tijdens de spreekbeurt meten.
-Omdat de training een deel van onderzoek is, betekend dat dat de training kosteloos wordt aangeboden. We vragen jullie alleen voor jullie tijd om ook in het onderzoek deel te nemen.
+•	Twee van die vier keer word je ook gevraagd om een korte spreekbeurt te houden voor een virtueel publiek. Met een eye-tracking bril kunnen we je kijkgedrag tijdens de spreekbeurt meten.
+Omdat de training een deel van onderzoek is, betekent dat dat de training kosteloos wordt aangeboden. We vragen alleen jullie tijd om ook aan het onderzoek deel te nemen.
 
 <br>
 
