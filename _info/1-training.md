@@ -31,7 +31,7 @@ Veel organisaties bieden informatie of ondersteuning voor scholen m.b.t. angst b
 Vanaf 1 februari kunnen leraren en zorgmedewerkers in en rond de school (PO en VO) met vragen terecht bij onze telefonische hulplijn 071 527 5464. 
 Meer info volgt z.s.m.
 
-Wij verzorgen korte presentaties (10-15 min) over angst bij leerlingen en ons aanbod, voor schoolteams of andere organisaties betrokken bij de zorg voor leerlingen. Interesse? Mail naar kas@fsw.leidenuniv.nl. 
+Wij verzorgen korte presentaties (10-15 min) over angst bij leerlingen en over ons aanbod, voor schoolteams of andere organisaties betrokken bij de zorg voor leerlingen. Interesse? Mail naar kas@fsw.leidenuniv.nl. 
 
 Vanaf het voorjaar 2021 organiseren we met enige regelmatig workshops voor leraren, IB'ers en ondersteuningscoördinatoren. Houd onze website en nieuwsbrief in de gaten voor de data en meer informatie, of maak je interesse alvast kenbaar via kas@fsw.leidenuniv.nl. 
 
