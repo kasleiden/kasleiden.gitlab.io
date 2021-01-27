@@ -16,16 +16,17 @@ Wanneer iemand regelmatig zeer angstig is, deze angst buiten proporties is (en i
 
 Angstklachten zijn wereldwijd de meest voorkomende mentale problemen en ontstaan vaak al in de kindertijd. Deze klachten gaan meestal niet vanzelf over en kunnen onbehandeld leiden tot eenzaamheid, andere psychische stoornissen, middelenmisbruik, sociale problemen, verslechterde schoolprestaties of schooluitval.
 
-Stress- en angstklachten worden vaak niet tijdig herkend, omdat ze zich uiten in lichamelijke klachten, teruggetrokken gedrag, of juist in andere gedragsproblemen of schoolweigering, waarbij niet altijd aan onderliggende angsten gedacht wordt. Wanneer jeugdigen pas hulp krijgen op het moment dat klachten escaleren, is vaak een langdurig en kostbaar behandeltraject nodig, waarvoor bovendien lange wachtlijsten zijn. Bij vroegtijdig ingrijpen, kunnen de meeste angstklachten echter goed verholpen worden met bewezen effectieve interventies. 
+Angstklachten worden vaak niet tijdig herkend, omdat ze zich uiten in lichamelijke klachten, teruggetrokken gedrag, of juist in andere gedragsproblemen of schoolweigering, waarbij niet altijd aan onderliggende angsten gedacht wordt. Wanneer jeugdigen pas hulp krijgen op het moment dat klachten escaleren, is vaak een langdurig en kostbaar behandeltraject nodig, waarvoor bovendien lange wachtlijsten zijn. Bij vroegtijdig ingrijpen, kunnen de meeste angstklachten echter goed verholpen worden met bewezen effectieve interventies. 
+
 <br>
 
-### Waar vinden we meer informatie?
+### Waar vind ik meer informatie?
 
 Veel organisaties bieden informatie of ondersteuning voor scholen m.b.t. angst bij leerlingen. Binnenkort delen wij op deze pagina een overzicht. 
 
 <br>
 
-### Wat kan het Kenniscentrum Angst & Stress bij Jeugd voor ons betekenen?  
+### Wat kan het Kenniscentrum Angst & Stress bij Jeugd voor mij betekenen?  
 
 Vanaf 1 februari kunnen leraren en zorgmedewerkers in en rond de school (PO en VO) met vragen terecht bij onze telefonische hulplijn 071 527 5464. 
 Meer info volgt z.s.m.
