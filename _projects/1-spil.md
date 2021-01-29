@@ -11,7 +11,7 @@ members: [leone, michiel, anika, anke, marjolein]
 Doe je ook mee met het SPIL-programma? Scholen, leraren en zorgmedewerkers die met ons mee willen denken of doen zijn van harte welkom!
 <br>
 
-Vanaf 1 februari kunnen leraren en zorgmedewerkers terecht bij onze telefonische hulplijn 071 527 5464. Lees hieronder meer info.  
+Vanaf 1 februari kunnen leraren en zorgmedewerkers terecht bij onze telefonische hulplijn 071 527 5464. Lees hieronder meer info.   
 <br>
 
 Radio LEF maakte een podcast over het SPIL-programma: [luister hier.](https://open.spotify.com/episode/1woeQZApsmgxbpQtfEQPGZ?si=iIYTHGOHTlGYJw-TEfYx5w)
