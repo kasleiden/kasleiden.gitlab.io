@@ -28,11 +28,21 @@ Veel organisaties bieden informatie of ondersteuning voor scholen m.b.t. angst b
 
 ### Wat kan het Kenniscentrum Angst & Stress bij Jeugd voor mij betekenen?  
 
-Vanaf 1 februari kunnen leraren en zorgmedewerkers in en rond de school (PO en VO) met vragen terecht bij onze telefonische hulplijn 071 527 5464. 
-Meer info volgt z.s.m.
+#### Hulplijn
+Vanaf 1 februari 2021 biedt het Kenniscentrum Angst en Stress bij Jeugd een telefonische hulplijn voor leraren en zorgmedewerkers in en rond de school. Zij kunnen bellen met vragen over angst bij leerlingen, zoals: hoe herken je angst? Wat kun je doen in de klas? Waar kan een leerling passende hulp krijgen?
 
+We zijn bereikbaar op 071 527 5464 en houden open spreekuren op maandag, woensdag, donderdag en vrijdag van 15:00-17:00u. Je kunt dan bellen voor korte vragen (max 10 min).
+
+Wil je een vraag of kwestie voorleggen die meer tijd vergt? Dan kun je op dezelfde dagen tussen 14:00-15:00u een aparte afspraak met ons inplannen van een half uur. In overleg zijn ook andere tijdstippen mogelijk. Bel hiervoor tijdens het open spreekuur of stuur een e-mail naar kas@fsw.leidenuniv.nl.
+
+Natuurlijk kun je je vragen ook per e-mail aan ons voorleggen!
+
+<br>
+#### Presentaties
 Wij verzorgen korte presentaties (10-15 min) over angst bij leerlingen en over ons aanbod, voor schoolteams of andere organisaties betrokken bij de zorg voor leerlingen. Interesse? Mail naar kas@fsw.leidenuniv.nl. 
 
+<br>
+#### Workshops
 Vanaf het voorjaar 2021 organiseren we met enige regelmatig workshops voor leraren, IB'ers en ondersteuningscoördinatoren. Houd onze website en nieuwsbrief in de gaten voor de data en meer informatie, of maak je interesse alvast kenbaar via kas@fsw.leidenuniv.nl. 
 
 
