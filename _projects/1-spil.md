@@ -8,10 +8,10 @@ image: /img/spil4.jpg
 members: [leone, michiel, anika, anke, marjolein]
 ---
 
-Doet u ook mee met het SPIL-programma? Scholen, leraren en zorgmedewerkers die met ons mee willen denken of doen zijn van harte welkom!
+Doe je ook mee met het SPIL-programma? Scholen, leraren en zorgmedewerkers die met ons mee willen denken of doen zijn van harte welkom!
 <br>
 
-Vanaf 1 februari kunnen leraren en zorgmedewerkers terecht bij onze telefonische hulplijn 071 527 5464. Meer info volgt online en in onze nieuwsbrief. 
+Vanaf 1 februari kunnen leraren en zorgmedewerkers terecht bij onze telefonische hulplijn 071 527 5464. Lees hieronder meer info.  
 <br>
 
 Radio LEF maakte een podcast over het SPIL-programma: [luister hier.](https://open.spotify.com/episode/1woeQZApsmgxbpQtfEQPGZ?si=iIYTHGOHTlGYJw-TEfYx5w)
@@ -40,10 +40,22 @@ Met dit programma werken we toe naar een duurzame en structurele samenwerking tu
 
 <br>
 
+#### Hulplijn 
+
+Vanaf 1 februari 2021 biedt het Kenniscentrum Angst en Stress bij Jeugd een telefonische hulplijn voor leraren en zorgmedewerkers in en rond de school. Zij kunnen bellen met vragen over angst bij leerlingen, zoals: hoe herken je angst? Wat kun je doen in de klas? Waar kan een leerling passende hulp krijgen?  
+
+We zijn bereikbaar op 071 527 5464 en houden open spreekuren op maandag, woensdag, donderdag en vrijdag van 15:00-17:00u. Je kunt dan bellen voor korte vragen (max 10 min).
+
+Wil je een vraag of kwestie voorleggen die meer tijd vergt? Dan kun je op dezelfde dagen tussen 14:00-15:00u een aparte afspraak met ons inplannen van een half uur. In overleg zijn ook andere tijdstippen mogelijk. Bel hiervoor tijdens het open spreekuur of stuur een e-mail naar kas@fsw.leidenuniv.nl. 
+
+Natuurlijk kun je je vragen ook per e-mail aan ons voorleggen!
+
+<br>
+
 #### Aanmelden
 
-Het programma is nog volop in ontwikkeling, dus gedurende de looptijd (2020-2022) zult u op deze website meer informatie vinden. Wilt u met ons meedenken, meedoen of meer weten?
-Neem contact op met dr. Leone de Voogd via e.l.de.voogd@fsw.leidenuniv.nl of 071-527 5464.
+Het programma is nog volop in ontwikkeling, dus gedurende de looptijd (2020-2022) kun je op deze website meer informatie vinden. Wil je met ons meedenken, meedoen of meer weten?
+Neem contact op met dr. Leone de Voogd, dagelijks projectleider, via kas@fsw.leidenuniv.nl.
 
 Partners: Gemeente Leiden, Leiden Kennisstad, Leiden Education Fieldlab (LEF), Stedelijk Gymnasium Leiden, Vlietland College, De Singel, LUBEC (Universiteit Leiden).
 
