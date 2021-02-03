@@ -22,7 +22,14 @@ Angstklachten worden vaak niet tijdig herkend, omdat ze zich uiten in lichamelij
 
 ### Waar vind ik meer informatie?
 
-Veel organisaties bieden informatie of ondersteuning voor scholen m.b.t. angst bij leerlingen. Binnenkort delen wij op deze pagina een overzicht. 
+Veel organisaties bieden informatie of ondersteuning voor scholen m.b.t. angst bij leerlingen. Het overzicht hieronder vullen wij de komende tijd verder aan. 
+
+#### Kenniscenrum Kinder- en Jeugdpsychiatrie
+Het Kenniscentrum KJP biedt [informatie voor scholen](https://www.kenniscentrum-kjp.nl/scholen/angst/) over angst, wat de school kan doen om het te signaleren, en hoe te reageren. 
+
+#### Nederlands Jeugdinstituut
+Het NJI biedt [algemene uitgebreide informatie](https://www.nji.nl/nl/Kennis/Dossier/Angst) over angst, verschillende angststoornissen en risicofactoren. 
+
 
 <br>
 
