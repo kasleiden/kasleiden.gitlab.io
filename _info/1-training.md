@@ -27,9 +27,11 @@ Veel organisaties bieden informatie of ondersteuning voor scholen m.b.t. angst b
 #### Kenniscenrum Kinder- en Jeugdpsychiatrie
 Het Kenniscentrum KJP biedt [informatie voor scholen](https://www.kenniscentrum-kjp.nl/scholen/angst/) over angst, wat de school kan doen om het te signaleren, en hoe te reageren. 
 
+#### Nederlands Centrum Jeugdgezondheid
+Het NCJ richt zich vooral op professionals binnen de jeugdgezondheidszorg en [deelt o.a. richtlijnen](https://www.ncj.nl/richtlijnen/alle-richtlijnen/richtlijn/angst) over signalering, ondersteuning en toeleiding naar de juiste zorg. Voor zorgmederwerkers in en om school biedt [deze samenvattingskaart](/pdf/samenvattingskaart JGZ-richtlijn angst.pdf) een handig overzicht. 
+
 #### Nederlands Jeugdinstituut
 Het NJI biedt [algemene uitgebreide informatie](https://www.nji.nl/nl/Kennis/Dossier/Angst) over angst, verschillende angststoornissen en risicofactoren. 
-
 
 <br>
 
