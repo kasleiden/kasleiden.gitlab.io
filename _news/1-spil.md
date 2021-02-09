@@ -10,4 +10,6 @@ image: /img/spil4.jpg
 #### Nieuws 
 Vanaf 1 februari kunnen leraren en zorgmedewerkers terecht bij onze telefonische hulplijn 071 527 5464. [Lees meer...](https://kasleiden.nl/projects/spil)
 
+[Lees hier](/pdf/SPIL-nieuwsbrief-feb2021.pdf) onze nieuwsbrief van februari. 
+
 [Luister hier](https://open.spotify.com/episode/1woeQZApsmgxbpQtfEQPGZ?si=iIYTHGOHTlGYJw-TEfYx5w) de podcast van Radio LEF over het SPIL-programma. 
