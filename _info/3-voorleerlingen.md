@@ -44,11 +44,11 @@ Voor jongeren met sociale angst die last hebben van verlegenheid (bijv. moeite o
 
 Wat houdt de training in?
 12 wekelijkse bijeenkomsten, na schooltijd in een groep. 
-Samen doen we oefeningen en pakken we uitdagingen aan. Bijvoorbeeld: 
-•	Voor een groep spreken
-•	Nieuwe vrienden maken
-•	Met onbekenden een gesprek aangaan
-•	Omgaan met verlegenheid
+Samen doen we oefeningen en pakken we uitdagingen aan. Bijvoorbeeld: <br>
+•	Voor een groep spreken <br>
+•	Nieuwe vrienden maken <br>
+•	Met onbekenden een gesprek aangaan <br>
+•	Omgaan met verlegenheid <br>
 
 We werken ook met een app. Met deze app kan je:
 -	Inzicht krijgen in je gedachten, gedrag en gevoelens
@@ -59,13 +59,13 @@ We werken ook met een app. Met deze app kan je:
 #### Kinderen Bedwingen Angst (KIBA) - Voor kinderen en jongeren van 7 tot en met 14 jaar
 Voor kinderen en jongeren die erg bang zijn voor bepaalde dieren, dingen of situaties (bijv. spinnen, wespen, de tandarts, overgeven, clowns, honden, bloed)
 
-Wat houdt de training in?
+Wat houdt de training in? <br>
 7 individuele afspraken, samen met je ouders. Je vormt een team met je trainer om je angst te overwinnen. 
 
-De training bestaat o.a. uit: 
-•	1 voorbereidende sessie: voor welke situatie(s) ben jij bang? 
-•	1 oefensessie van drie uur: hoe kan je hiermee omgaan? 
-•	4 weken zelf oefenen met tips van de trainer of met behulp van een app
+De training bestaat o.a. uit: <br>
+•	1 voorbereidende sessie: voor welke situatie(s) ben jij bang? <br>
+•	1 oefensessie van drie uur: hoe kan je hiermee omgaan? <br>
+•	4 weken zelf oefenen met tips van de trainer of met behulp van een app<br>
 
 <br>
 Meer weten? 
