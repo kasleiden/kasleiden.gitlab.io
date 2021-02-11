@@ -50,9 +50,9 @@ Samen doen we oefeningen en pakken we uitdagingen aan. Bijvoorbeeld: <br>
 •	Met onbekenden een gesprek aangaan <br>
 •	Omgaan met verlegenheid <br>
 
-We werken ook met een app. Met deze app kan je:
-•	Inzicht krijgen in je gedachten, gedrag en gevoelens
-•	Steun krijgen van de trainers en groepsleden gedurende de week
+We werken ook met een app. Met deze app kan je: <br>
+•	Inzicht krijgen in je gedachten, gedrag en gevoelens <br>
+•	Steun krijgen van de trainers en groepsleden gedurende de week <br>
 
 <br> 
 
