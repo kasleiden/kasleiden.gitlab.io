@@ -16,7 +16,7 @@ members: [leone, michiel, anika, anke, marjolein]
 
 ### Waar vind ik meer informatie?
 
-Je kunt op veel plekken informatie vinden over angst. Hieronder verzamelen wij links naar betrouwbare website en organisaties. 
+Je kunt op veel plekken informatie vinden over angst. Hieronder verzamelen wij links naar betrouwbare websites en organisaties. 
 
 #### [Brainwiki - voor jongeren](https://www.brainwiki.nl/angst/)
 Op deze website lees je alles over angst. Hoe zit dat? Heb ik dat? En wie nog meer? Hoe ga ik ermee om? Welke behandeling is er voor mij? Lees over lotgenoten en wat je kunt doen als je in de problemen komt. 
@@ -29,12 +29,13 @@ Ben je soms erg bang? Of ben je vaak bang? Kijk of deze website voor informatie,
 
 <br>
 
-### Wat kan het Kenniscentrum Angst & Stress bij Jeugd voor mij betekenen?  
+### Wat kan het Kenniscentrum Angst & Stress bij Jeugd voor mij doen?  
 
 Veel kinderen en jongeren hebben weleens last van stress en angstige gevoelens. 
 Jij ook? En wil jij hier graag minder last van hebben? 
 Dan zijn de trainingen van het SPIL-programma missschien iets voor jou. 
 <br>
+
 We hebben twee soorten trainingen: 
 
 
@@ -48,17 +49,19 @@ Samen doen we oefeningen en pakken we uitdagingen aan. Bijvoorbeeld:
 •	Nieuwe vrienden maken
 •	Met onbekenden een gesprek aangaan
 •	Omgaan met verlegenheid
+
 We werken ook met een app. Met deze app kan je:
 -	Inzicht krijgen in je gedachten, gedrag en gevoelens
 -	Steun krijgen van de trainers en groepsleden gedurende de week
 
 <br> 
+
 #### Kinderen Bedwingen Angst (KIBA) - Voor kinderen en jongeren van 7 tot en met 14 jaar
 Voor kinderen en jongeren die erg bang zijn voor bepaalde dieren, dingen of situaties (bijv. spinnen, wespen, de tandarts, overgeven, clowns, honden, bloed)
 
 Wat houdt de training in?
-7 individuele afspraken, samen met je ouders. 
-Je vormt een team met je trainer om je angst te overwinnen. 
+7 individuele afspraken, samen met je ouders. Je vormt een team met je trainer om je angst te overwinnen. 
+
 De training bestaat o.a. uit: 
 •	1 voorbereidende sessie: voor welke situatie(s) ben jij bang? 
 •	1 oefensessie van drie uur: hoe kan je hiermee omgaan? 
