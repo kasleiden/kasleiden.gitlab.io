@@ -5,7 +5,7 @@ summary: Hoe kunnen we scholen helpen stress en angst in de klas te herkennen en
 permalink: /projects/spil
 category: project
 image: /img/spil4.jpg
-members: [leone, michiel, anika, anke, marjolein]
+members: [leone, michiel, anika, anke]
 ---
 
 Doe je ook mee met het SPIL-programma? Scholen, leraren en zorgmedewerkers die met ons mee willen denken of doen zijn van harte welkom!
