@@ -5,7 +5,7 @@ summary: Informatie en aanbod voor scholen
 permalink: /info/training
 category: info
 image: /img/spil4.jpg
-members: [leone, michiel, anika, anke, marjolein]
+members: [leone, michiel, anika, anke]
 ---
 
 ### Wat is angst? 
