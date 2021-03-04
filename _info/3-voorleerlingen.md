@@ -12,6 +12,14 @@ members: [leone, michiel, anika, anke]
 
 ### Wat is angst? 
 
+Iedereen is weleens bang. Een angstig gevoel kan heel nuttig zijn. Het is een natuurlijke reactie die je waarschuwt voor gevaar. Je lichaam maakt zich klaar om te reageren, zodat je kunt vluchten of vechten. Je hart gaat bijvoorbeeld sneller kloppen en je spieren spannen zich. Dit is een gezonde reactie. Als je problemen hebt op school, thuis, of met je gezondheid, kun je je daar ook vaak angstig over voelen, maar deze gevoelens verdwijnen meestal weer als je problemen minder worden. 
+
+Je kunt ook vaak bang zijn zonder dat hier een duidelijke oorzaak voor is. Of als het gevaar of het probleem eigenlijk niet zo groot is. Je durft bijvoorbeeld niet naar bepaalde plekken te gaan (een plein of het openbaar vervoer), of bepaalde dingen niet te doen (een spreekbeurt houden, bloed laten prikken). Of je piekert veel over van alles, waardoor je vaak ook niet goed kan slapen of je niet kunt concentreren. 
+
+Als je zo vaak bang bent, hier veel last van hebt en ‘gewone’ of belangrijke dingen niet durft, heb je mogelijk een angststoornis. Door dingen uit de weg te gaan (te vermijden) wordt de angst niet minder, maar vaak juist erger. Zo kan het steeds moeilijker worden om naar school te gaan, vrienden te maken en de houden, leuke dingen te ondernemen of te werken. 
+
+Als je merkt dat je angstgevoelens erger worden, blijf er dan niet mee rondlopen. Hoe eerder je ze aanpakt, hoe makkelijker je er weer vanaf komt. Praat erover met vrienden, je ouders, je leraar, de huisarts of bijvoorbeeld een vertrouwenspersoon op school. 
+
 <br>
 
 ### Waar vind ik meer informatie?
