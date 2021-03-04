@@ -7,8 +7,6 @@ category: info
 image: /img/spil4.jpg
 members: [leone, michiel, anika, anke]
 ---
-### Deze pagina is in ontwikkeling
-
 
 ### Wat is angst? 
 
