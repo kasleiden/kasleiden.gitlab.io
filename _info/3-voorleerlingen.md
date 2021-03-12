@@ -75,6 +75,6 @@ De training bestaat o.a. uit: <br>
 
 <br>
 Meer weten? 
-We horen graag van je! Neem contact met ons op via kas@fsw.leidenuniv.nl of bel ons op 071 527 5464. 
+We horen graag van je! Neem contact met ons op via kas@fsw.leidenuniv.nl. 
 
 
