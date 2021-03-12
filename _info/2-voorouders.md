@@ -40,7 +40,7 @@ Deze website bevat informatie, tips en oefeningen voor kinderen, maar geeft ook 
 NPO Radio 1 verdiepte zich in de talkshow Spraakmakers [een week lang in angst bij kinderen](https://www.nporadio1.nl/spraakmakers/onderwerpen/71875-2021-02-05-verhalen-van-spraakmakers-angst-bij-kinderen-deel-5). Hoe ontwikkelen angsten zich, wat is de impact op een kind en zijn omgeving en hoe pak je angstklachten aan?
 <br>
 
-Radio LEF (Leiden Education Fieldlad) maakte een podcast over ons SPIL-programma: [luister hier](https://open.spotify.com/episode/1woeQZApsmgxbpQtfEQPGZ?si=iIYTHGOHTlGYJw-TEfYx5w).
+Radio LEF (Leiden Education Fieldlab) maakte een podcast over ons SPIL-programma: [luister hier](https://open.spotify.com/episode/1woeQZApsmgxbpQtfEQPGZ?si=iIYTHGOHTlGYJw-TEfYx5w).
 <br>
 
 
