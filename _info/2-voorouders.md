@@ -48,6 +48,8 @@ Radio LEF (Leiden Education Fieldlad) maakte een podcast over ons SPIL-programma
 Heeft je zoon of dochter last van stress en angstige gevoelens en zou hij of zij hier graag minder last van hebben of maak je je als ouder zorgen? 
 Misschien zijn de trainingen van het SPIL-programma is voor hem of haar. 
 <br>
+Meer weten? Neem voor vragen of aanmelden contact met ons op via kas@fsw.leidenuniv.nl. 
+<br>
 
 We hebben twee soorten trainingen: 
 
@@ -77,9 +79,6 @@ We werken ook met een app. Met deze app kan je: <br>
 •	Inzicht krijgen in je gedachten, gedrag en gevoelens <br>
 •	Steun krijgen van de trainers en groepsleden gedurende de week <br>
 
-<br>
-Meer weten? 
-Neem voor vragen of aanmelden contact met ons op via kas@fsw.leidenuniv.nl. 
 
 #### Ondersteuning voor scholen 
 
