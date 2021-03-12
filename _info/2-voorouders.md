@@ -17,7 +17,6 @@ Sommige kinderen en jongeren zijn vaak bang zonder dat hier een duidelijke oorza
 Als een kind regelmatig zeer angstig is, hier veel last van heeft en 'gewone' of belangrijke dingen niet durft, is er mogelijk sprake van een angststoornis. Door dingen uit de weg te gaan (te vermijden) wordt de angst niet minder, maar vaak juist erger. Zo kan het steeds moeilijker worden om naar school te gaan, vrienden te maken en de houden, leuke dingen te ondernemen of te werken. Op lange termijn leidt het vaak ook tot andere psychische en sociale problemen. 
 
 Angst bij kinderen en jongeren is soms moeilijk te herkennen, omdat angstig gedrag niet opvalt en kinderen er lang niet altijd over durven te praten. Het uit zich soms in lichamelijke klachten als buikpijn, hoofdpijn of vermoeidheid. Het kind kan zich ook terugtrekken, weigeren naar school te gaan, of juist boos of opstandig worden. Als je merkt dat je kind erg angstig is, praat er dan over en schakel op tijd hulp in. Hoe eerder je angstklachten aanpakt, hoe groter de kans dat je er weer helemaal vanaf komt. 
-
 <br>
 
 ### Waar vind ik meer informatie?
@@ -63,10 +62,6 @@ De training bestaat o.a. uit: <br>
 •	1 oefensessie van drie uur: hoe kan je hiermee omgaan? <br>
 •	4 weken zelf oefenen met tips van de trainer of met behulp van een app<br>
 
-<br>
-Meer weten? 
-Neem voor vragen of aanmelden contact met ons op via kas@fsw.leidenuniv.nl. 
-
 ##### [In Je Sas! - Voor jongeren van 12 tot en met 17 jaar](https://kasleiden.nl/projects/sas)
 Voor jongeren met sociale angst die last hebben van verlegenheid (bijv. moeite om voor de klas te spreken, met vrienden af te spreken of nieuwe vrienden te maken)
 
@@ -82,7 +77,9 @@ We werken ook met een app. Met deze app kan je: <br>
 •	Inzicht krijgen in je gedachten, gedrag en gevoelens <br>
 •	Steun krijgen van de trainers en groepsleden gedurende de week <br>
 
-<br> 
+<br>
+Meer weten? 
+Neem voor vragen of aanmelden contact met ons op via kas@fsw.leidenuniv.nl. 
 
 #### Ondersteuning voor scholen 
 
