@@ -24,7 +24,7 @@ Angstklachten worden vaak niet tijdig herkend, omdat ze zich uiten in lichamelij
 
 Veel organisaties bieden informatie of ondersteuning voor scholen m.b.t. angst bij leerlingen. Het overzicht hieronder vullen wij de komende tijd verder aan. 
 
-#### Kenniscenrum Kinder- en Jeugdpsychiatrie
+#### Kenniscentrum Kinder- en Jeugdpsychiatrie
 Het Kenniscentrum KJP biedt [informatie voor scholen](https://www.kenniscentrum-kjp.nl/scholen/angst/) over angst, wat de school kan doen om het te signaleren, en hoe te reageren. 
 
 #### Nederlands Centrum Jeugdgezondheid
