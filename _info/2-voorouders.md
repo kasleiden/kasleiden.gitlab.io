@@ -19,6 +19,7 @@ Als een kind regelmatig zeer angstig is, hier veel last van heeft en 'gewone' of
 Angst bij kinderen en jongeren is soms moeilijk te herkennen, omdat angstig gedrag niet opvalt en kinderen er lang niet altijd over durven te praten. Het uit zich soms in lichamelijke klachten als buikpijn, hoofdpijn of vermoeidheid. Het kind kan zich ook terugtrekken, weigeren naar school te gaan, of juist boos of opstandig worden. Als je merkt dat je kind erg angstig is, praat er dan over en schakel op tijd hulp in. Hoe eerder je angstklachten aanpakt, hoe groter de kans dat je er weer helemaal vanaf komt. 
 <br>
 
+<br>
 
 ### Waar vind ik meer informatie?
 
@@ -43,6 +44,7 @@ NPO Radio 1 verdiepte zich in de talkshow Spraakmakers [een week lang in angst b
 Radio LEF (Leiden Education Fieldlab) maakte een podcast over ons SPIL-programma: [luister hier](https://open.spotify.com/episode/1woeQZApsmgxbpQtfEQPGZ?si=iIYTHGOHTlGYJw-TEfYx5w).
 <br>
 
+<br>
 
 ### Wat kan het Kenniscentrum Angst & Stress bij Jeugd voor mij betekenen?  
 
