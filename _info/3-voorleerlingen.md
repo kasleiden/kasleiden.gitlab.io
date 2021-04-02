@@ -30,8 +30,12 @@ Op deze website lees je alles over angst. Hoe zit dat? Heb ik dat? En wie nog me
 #### [Thuisarts - voor jongeren](https://www.thuisarts.nl/angstklachten/ik-ben-vaak-bang-informatie-voor-jongeren)
 Op deze website lees je hoe je angst bij jezelf herkent, wat je kunt doen, wanneer je misschien hulp nodig hebt en waar je deze kunt vinden. 
 
+#### [Jongeren Hulp Online](https://jongerenhulponline.nl/)
+Op zoek naar een luisterend oor? Op deze website vind je verschillende organisaties waar je anoniem en gratis terecht kunt met je hulpvragen, online of telefonisch. 
+
 #### [Bibbers - voor kinderen](https://bibbers.nl/)
 Ben je soms erg bang? Of ben je vaak bang? Kijk of deze website voor informatie, tips en oefeningen. 
+
 
 <br>
 
