@@ -1,5 +1,5 @@
 ---
-nameid: Simone
+nameid: simone
 layout: teammember
 name: SIMONE VOGELAAR
 title: Dagelijks projectleider Stress Less
