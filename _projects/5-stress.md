@@ -24,10 +24,10 @@ Daarom is het belangrijk om jongeren uit te leggen wat stress is, hoe stress ont
 Het doel van de Stress Lessen was om een alledaags onderwerp bij de kop te pakken, namelijk stress. 
 Dit wilden we op een normale manier bespreekbaar maken, waarbij we ook eventuele problemen die leerlingen ervaren met school bespreken, zoals sociale angsten of faalangsten. 
 
-Om dit voor elkaar te krijgen zijn drie psychoeducatieve lessen over stress ontwikkeld. De Stress Lessen zelf hebben drie doelen, namelijk dat leerlingen:
-1) meer kennis krijgen over stress; 
-2) beter stress leren herkennen in hun lichaam; 
-3) meer vaardigheden leren om met stress om te gaan of stress te voorkomen. 
+Om dit voor elkaar te krijgen zijn drie psychoeducatieve lessen over stress ontwikkeld. De Stress Lessen zelf hebben drie doelen, namelijk dat leerlingen: <br>
+1) meer kennis krijgen over stress; <br>
+2) beter stress leren herkennen in hun lichaam;  <br>
+3) meer vaardigheden leren om met stress om te gaan of stress te voorkomen.  <br>
 
 Bij kennis over stress wordt er onder andere ingegaan op wat stress is, wat stressoren zijn, dat stress ook goed kan zijn, maar ook wat de gevolgen zijn van het ervaren van te veel stress. 
 Bij het herkennen van stress wordt een beetje stress opgewekt bij leerlingen door middel van stressspelletjes. 
