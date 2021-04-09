@@ -37,6 +37,7 @@ Tot slot leren leerlingen hoe ze met stress om kunnen gaan of stress kunnen voor
 De Stress Lessen maken onderdeel uit van een groter project, waarbij na afloop van de Stress Lessen aan de leerlingen wordt gevraagd of ze interesse hebben in een vervolgtraining in kleinere groepjes. 
 De leerlingen konden kiezen uit twee trainingen, namelijk een faalangstreductietraing of een sociale vaardigheidstraining. 
 Ongeveer 10 procent van de leerlingen gaf zich op voor één van de vervolgtrainingen. 
+
 <br>
 
 #### Wordt vervolgd
