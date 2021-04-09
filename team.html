@@ -85,5 +85,30 @@ title: TEAM
     {% endfor %}
   </div>
 </div>
+ <hr />
+  <div>
+    <h3>COLLABORATORS</h3>
+  </div>
+  <div class="row">
+    {% for staff_member in site.staff_members %}
+    {%if staff_member.group == "collaborator" %}
+    <div class="column">
+      <div class="article">
+        <div class="article-head">
+           <a href="{{ site.baseurl }}{{ staff_member.url }}">
+                <img src="{{ site.url }}{{staff_member.image}}" />
+              </a>
+        </div>
+        <div class="article-content">
+          <h4>{{ staff_member.name }}</h4>
+          <h5>{{ staff_member.title }}</h5>
+          <p class="article-summary">{{ staff_member.summary }}</p>
+        </div>
+      </div>
+    </div>
+    {% endif %}
+    {% endfor %}
+  </div>
+</div>
 
 {% include bottom-menu.html %}
