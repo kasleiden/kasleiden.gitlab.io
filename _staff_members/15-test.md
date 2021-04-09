@@ -1,12 +1,12 @@
 ---
-nameid: jeanine
+nameid: xxx
 layout: teammember
-name: DR. JEANINE BAARTMANS
-title: Onderzoeker en in opleding tot og/gz-psycholoog
+name: xxx
+title: xxx
 group: alumni
-summary: Jeanine deed haar promotieonderzoek over angst bij kinderen aan de Universiteit van Amsterdam en UvAminds en werd begeleid door Prof. Susan Bögels, Prof. Reinout Wiers, Dr. Bonny van Steensel en Dr. Anke Klein (dagelijks begeleider). 
-permalink: /team/jeanine
-image: /img/jeanine.jpg
+summary: xxx 
+permalink: /team/xxx
+image: /img/jeanine1.jpg
 ---
 
-Jeanine deed haar promotieonderzoek over angst bij kinderen aan de Universiteit van Amsterdam en UvAminds en werd begeleid door Prof. Susan Bögels, Prof. Reinout Wiers, Dr. Bonny van Steensel en Dr. Anke Klein (dagelijks begeleider).
+xxxx
