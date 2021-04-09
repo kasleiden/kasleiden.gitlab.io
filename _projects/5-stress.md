@@ -4,7 +4,7 @@ title: Stress Less
 summary: Wat is stress, hoe herken je het en hoe ga je ermee om? Wij onderzoeken stress lessen en vaardigheidstrainingen voor leerlingen. 
 permalink: /projects/stress
 category: project
-image: /img/kiba-logo12.jpg
+image: /img/spil4.jpg
 members: [michiel, simone,]
 ---
 
