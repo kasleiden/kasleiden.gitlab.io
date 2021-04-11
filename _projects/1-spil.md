@@ -60,7 +60,7 @@ Natuurlijk kun je je vragen ook per e-mail aan ons voorleggen!
 Het programma is nog volop in ontwikkeling, dus gedurende de looptijd (2020-2022) kun je op deze website meer informatie vinden. Wil je met ons meedenken, meedoen of meer weten?
 Neem contact op met dr. Leone de Voogd, dagelijks projectleider, via kas@fsw.leidenuniv.nl.
 
-Partners: Gemeente Leiden, Leiden Kennisstad, Leiden Education Fieldlab (LEF), Stedelijk Gymnasium Leiden, Vlietland College, De Singel, LUBEC (Universiteit Leiden).
+Partners: Gemeente Leiden, Leiden Kennisstad, Leiden Education Fieldlab (LEF), Stedelijk Gymnasium Leiden, Vlietland College, De Singel, Da Vinci College Lammenschans, LUBEC (Universiteit Leiden).
 
 <br>
 
