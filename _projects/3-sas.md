@@ -1,14 +1,14 @@
 ---
 layout: post
-title: In je Sas!
-summary: Zie je soms ook zo op tegen het geven van een spreekbeurt, of vind je het lastig om vragen te stellen of te beantwoorden in de klas, misschien is de training In je Sas! wel iets voor jou!
+title: In Je Sas!
+summary: Zie je soms ook zo op tegen het geven van een spreekbeurt, of vind je het lastig om vragen te stellen of te beantwoorden in de klas, misschien is de training In Je Sas! wel iets voor jou!
 permalink: /projects/sas
 category: project
 image: /img/kiba-logo12.jpg
 members: [michiel, sara, joelle]
 ---
 
-#### In je Sas! 
+#### In Je Sas! 
 Sommige leerlingen zien erg op tegen het geven van spreekbeurten, vinden het lastig om in de klas vragen te stellen of te beantwoorden, of hebben moeite met het leggen van contacten en het maken van vrienden. Dit kan het plezier in en buiten school belemmeren en op den duur ook nadelig zijn voor het schoolwerk.
 Wij zien het als onze taak om tieners hierbij te ondersteunen en daarom hebben wij een laagdrempelige groepsinterventie opgezet waarin leerlingen met elkaar aan opdrachten werken om hun verlegenheid in sociale situaties te overwinnen.
 
