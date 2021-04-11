@@ -19,13 +19,13 @@ Wij zien het als onze taak om tieners hierbij te ondersteunen en daarom hebben w
 - Samen doen we oefeningen en pakken we uitdagingen aan 
 <br> 
 Bijvoorbeeld:
--	Voor een groep spreken
--	Met onbekenden een gesprek aangaan
--	Omgaan met verlegenheid
--	Nieuwe vrienden maken
--	Met bekende en onbekende mensen bellen
--	We werken samen in LUBEC
--	We werken ook met een app. Met de app kunnen de jongeren door de week in contact blijven met hun groepsbegeleider en groepsgenoten
+- Voor een groep spreken
+- Met onbekenden een gesprek aangaan
+- Omgaan met verlegenheid
+- Nieuwe vrienden maken
+- Met bekende en onbekende mensen bellen
+- We werken samen in LUBEC
+- We werken ook met een app. Met de app kunnen de jongeren door de week in contact blijven met hun groepsbegeleider en groepsgenoten
 
 <br>
 
@@ -38,7 +38,8 @@ Bijvoorbeeld:
 #### Jullie doen dit als onderdeel van onderzoek, wat houdt dat in?
 We zijn benieuwd hoe de jongeren de combinatie van app en bijeenkomsten ervaren. Meedoen aand de training betekent dat je ook aan dit onderzoek meedoet. Dat houdt in dat je:
 - Vier keer naar de universiteit komt om verschillende vragenlijsten in te vullen, en om een gesprek met ons te hebben.
-- Twee van die vier keer word je ook gevraagd om een korte spreekbeurt te houden voor een virtueel publiek. Met een eye-tracking bril kunnen we je kijkgedrag tijdens de spreekbeurt meten. <br>
+- Twee van die vier keer word je ook gevraagd om een korte spreekbeurt te houden voor een virtueel publiek. Met een eye-tracking bril kunnen we je kijkgedrag tijdens de spreekbeurt meten. 
+
 Omdat de training een deel van onderzoek is, betekent dat dat de training kosteloos wordt aangeboden. We vragen alleen jullie tijd om ook aan het onderzoek deel te nemen.
 
 <br>
