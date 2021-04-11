@@ -16,8 +16,8 @@ Wij zien het als onze taak om tieners hierbij te ondersteunen en daarom hebben w
 
 #### Wat houdt de training in?
 - 12 wekelijkse bijeenkomsten in een kleine groep na schooltijd
-- Samen doen we oefeningen en pakken we uitdagingen aan 
-<br> 
+- Samen doen we oefeningen en pakken we uitdagingen aan
+
 Bijvoorbeeld:
 - Voor een groep spreken
 - Met onbekenden een gesprek aangaan
@@ -25,7 +25,7 @@ Bijvoorbeeld:
 - Nieuwe vrienden maken
 - Met bekende en onbekende mensen bellen
 - We werken samen in LUBEC
-- We werken ook met een app. Met de app kunnen de jongeren door de week in contact blijven met hun groepsbegeleider en groepsgenoten
+- We werken ook met een app. Met de app kunnen de jongeren door de week in contact blijven met hun groepsbegeleider en groepsgenoten 
 
 <br>
 
