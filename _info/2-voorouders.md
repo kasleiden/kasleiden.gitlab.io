@@ -56,6 +56,7 @@ Meer weten? Neem voor vragen of aanmelden contact met ons op via kas@fsw.leidenu
 <br>
 
 We hebben twee soorten trainingen: 
+<br>
 
 ##### [Kinderen Bedwingen Angst (KIBA) - Voor kinderen en jongeren van 7 tot en met 14 jaar](https://kasleiden.nl/projects/kiba)
 Voor kinderen en jongeren die erg bang zijn voor bepaalde dieren, dingen of situaties (bijv. spinnen, wespen, de tandarts, overgeven, clowns, honden, bloed)
@@ -67,6 +68,7 @@ De training bestaat o.a. uit: <br>
 •	1 voorbereidende sessie: voor welke situatie(s) ben jij bang? <br>
 •	1 oefensessie van drie uur: hoe kan je hiermee omgaan? <br>
 •	4 weken zelf oefenen met tips van de trainer of met behulp van een app<br>
+<br>
 
 ##### [In Je Sas! - Voor jongeren van 12 tot en met 17 jaar](https://kasleiden.nl/projects/sas)
 Voor jongeren met sociale angst die last hebben van verlegenheid (bijv. moeite om voor de klas te spreken, met vrienden af te spreken of nieuwe vrienden te maken)
