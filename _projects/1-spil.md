@@ -65,6 +65,8 @@ Partners: Gemeente Leiden, Leiden Kennisstad, Leiden Education Fieldlab (LEF), S
 <br>
 
 #### Nieuwbrieven
+[nieuwsbrief april 2021](/pdf/SPIL-nieuwsbrief-apr2021.pdf)
+<br>
 [nieuwsbrief februari 2021](/pdf/SPIL-nieuwsbrief-feb2021.pdf)
 <br>
 [nieuwsbrief december 2020](/pdf/SPIL-nieuwsbrief-dec2020.pdf)
