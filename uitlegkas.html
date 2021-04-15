@@ -21,3 +21,34 @@ title: Wie zijn wij
 <h2>Nederlands</h2>
 <h3>Voor kinderen</h3>
 Ons doel is stress- en angstklachten bij kinderen zo vroeg mogelijk te herkennen en te verhelpen, door het verbinden van onderzoek, praktijk, zorg en onderwijs.
+
+    
+</div>
+  <br />
+  <br />
+    {% for post in site.projects %}
+    {% assign remainder = forloop.index | modulo: 2 %}
+    {% if remainder == 1 %}
+    <div class="row">
+      {% endif %}
+      <div class="column">
+        <div class="article">
+          <div class="article-head">
+            <a href="{{ site.baseurl }}{{ post.url }}">
+              <img src="{{ site.url }}{{post.image}}" />
+            </a>
+          </div>
+          <div class="article-content">
+            <h4>{{post.title}}</h4>
+            <p>{{ post.summary }}</p>
+          </div>
+        </div>
+      </div>
+      {% if remainder == 0 %}
+    </div>
+    {% endif %}
+    {% endfor %}
+  </div>
+  </div>
+</div>
+{% include bottom-menu.html %}
