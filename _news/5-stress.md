@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Corona en angst bij kinderen
-summary: Wat is Corona? Is Corona gevaarlijk? Kinderen hebben in deze tijd ook vragen en zorgen rondom Corona. Vind hier filmpjes en betrouwbare informatie speciaal voor kinderen.
+title: Stress less
+summary: Wat is stress, hoe herken je het en hoe ga je ermee om? Wij onderzoeken stress lessen en vaardigheidstrainingen voor leerlingen.
 permalink: /news/stress
 project-url: /projects/stress
 category: news
