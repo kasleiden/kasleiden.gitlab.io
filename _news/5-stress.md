@@ -5,7 +5,7 @@ summary: Wat is stress, hoe herken je het en hoe ga je ermee om? Wij onderzoeken
 permalink: /news/stress
 project-url: /projects/stress
 category: news
-image: /img/spil4.jpg
+image: /img/Banner_StressLess.jpg
 ---
 
 
