@@ -11,8 +11,7 @@ members: [leone, michiel, anika, anke]
 Doe je ook mee met het SPIL-programma? Scholen, leraren en zorgmedewerkers die met ons mee willen denken of doen zijn van harte welkom!
 <br>
 
-Op 20 april organiseren we i.s.m. Het LEF een online 'vonkactiviteit' voor ouders en onderwijsprofessionals over angst bij kinderen. [Meer info en aanmelden](https://www.leidenkennisstad.nl/hetlef/evenement/vonkactiviteit-angst-bij-kinderen-hoe-ga-je-hier-als-school-en-ouders-mee-om/)
-<br> 
+In juni zijn er weer twee focusgroepbijeenkomsten voor leraren en zorgmedewerkers/ondersteuners uit PO en VO. Hoe loopt het SPIL-programma tot nu toe en wat is er nodig in het nieuwe schooljaar? Wil je me ons meedenken? Meld je aan voor een van de (online) bijeenkomsten op donderdag 17 of dinsdag 24 juni van 16:00-17:30u via kas@fsw.leidenuniv.nl.
 
 Vanaf 1 februari kunnen leraren en zorgmedewerkers terecht bij onze telefonische hulplijn 071 527 5464. Lees hieronder meer info.
 <br>
