@@ -8,7 +8,7 @@ category: news
 image: /img/spil4.jpg
 ---
 #### Nieuws 
-Op 20 april organiseren we i.s.m. Het LEF een online 'vonkactiviteit' voor ouders en onderwijsprofessionals over angst bij kinderen. [Meer info en aanmelden.](https://www.leidenkennisstad.nl/hetlef/evenement/vonkactiviteit-angst-bij-kinderen-hoe-ga-je-hier-als-school-en-ouders-mee-om/)
+In juni zijn er weer twee focusgroepbijeenkomsten voor leraren en zorgmedewerkers/ondersteuners uit PO en VO. Hoe loopt het SPIL-programma tot nu toe en wat is er nodig in het nieuwe schooljaar? Wil je me ons meedenken? Meld je aan voor een van de (online) bijeenkomsten op donderdag 17 of dinsdag 24 juni van 16:00-17:30u via kas@fsw.leidenuniv.nl.
 
 [Lees hier](/pdf/SPIL-nieuwsbrief-apr2021.pdf) onze nieuwsbrief van april. 
 
