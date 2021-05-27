@@ -48,6 +48,6 @@ Het onderzoek loopt momenteel nog. We onderzoeken de mogelijkheden om een worksh
 <br>
 
 #### Meer informatie?
-Kijk voor meer informatie op de website van het [Stress Less Project](https://gelijkekansenvooreendiversejeugd.nl/programmas-ouders/stress-less-project/). 
+Kijk voor meer informatie op de website van het [Stress Less Project](https://gelijkekansenvooreendiversejeugd.nl/programmas-ouders/stress-less-project/) of bekijk [dit filmpje](https://vimeo.com/521124275). 
 <br>
 
