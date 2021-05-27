@@ -4,7 +4,7 @@ title: Cool Little Kids
 summary: Hoe kunnen ouders hun verlegen of angstige jonge kind (2-6 jaar) helpen? Wij onderzoeken een oudertraining om angst te voorkomen en te verminderen. 
 permalink: /projects/coolkids
 category: project
-image: /img/Banner_spil4.jpg
+image: /img/spil4.jpg
 members: [michiel]
 ---
 
