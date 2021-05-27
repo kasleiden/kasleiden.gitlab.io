@@ -11,6 +11,8 @@ members: [michiel]
 Cool Little Kids kan ouders helpen om angst en verlegenheid bij hun kind te voorkomen en verminderen. 
 Ouders met verlegen en/of angstige kinderen van 2-6 jaar kunnen nu meedoen aan ons project!
 
+<br>
+
 #### Achtergrond
 Ieder kind is wel eens bang en dat is heel normaal. Een aantal kinderen is én blijft echter zo angstig, waardoor zij een angststoornis ontwikkelen. 
 Ondanks dat er effectieve methodes bestaan ter behandeling van angststoornissen, komen veel kinderen en volwassenen met een angststoornis nooit bij een behandelaar terecht.
@@ -33,14 +35,12 @@ Ouders leren technieken die zij zelf thuis kunnen toepassen. Deze training is oo
 in het voorkomen van angstproblemen tot wel 11 jaar later.
 
 <br>
-
 2)	Een boek met algemene opvoedingstips <br>
 
 Dit boek behandelt verschillende onderwerpen die ouders kunnen helpen. Ook worden er praktische tips besproken die ouders zelf kunnen toepassen. 
 Bijvoorbeeld: hoe kan je als ouder het beste omgaan met de gevoelens van je kind en hoe kun je je kind het beste belonen voor goed gedrag.
 Ouders die deelnemen aan het project worden willekeurig bij 1 van de 2 programma’s ingedeeld. Vlak voor de deelname aan het programma en op 
 3 momenten na het programma wordt hen gevraagd om een vragenlijst in te vullen en deel te nemen aan een interview over de mogelijke angsten van hun kind. 
-
 
 <br>
 
