@@ -5,7 +5,7 @@ summary: Hoe kunnen ouders hun verlegen of angstige jonge kind (2-6 jaar) helpen
 permalink: /projects/coollittlekids
 category: project
 image: /img/spil4.jpg
-members: [michiel]
+members: [michiel, nina]
 ---
 
 Cool Little Kids kan ouders helpen om angst en verlegenheid bij hun kind te voorkomen en verminderen. 
