@@ -23,4 +23,4 @@ Het KibA programma is beschikbaar bij de volgende instellingen: <br>
 
 [Klik hier](/pdf/kiba flyer.pdf) om de kiba flyer te downloaden
 <br>
-[klik hier](/pdf/kiba poster.pdf) om de kiba poster te downloaden
+[Klik hier](/pdf/kiba poster.pdf) om de kiba poster te downloaden
