@@ -14,7 +14,8 @@ members: [michiel, anke, annelieke, recep, yolinda, amal, fabienne]
 #### Nieuws
 Vanaf 1 maart is het KibA programma gestart. Meer informatie over dit programma kunt u lezen door op de banner te klikken of u kunt ons natuurlijk ook altijd bellen op 071-5276673 of mailen naar kiba@fsw.leidenuniv.nl.
 <br>
-Het KiBa programma is beschikbaar bij de volgende instellingen: <br>
+<br>
+Het KibA programma is beschikbaar bij de volgende instellingen: <br>
 - Uvaminds in Amsterdam
 - Leids Universitair Behandel en Expertise Centrum in Leiden
 - Psychologenprakijkt Kuin in Haarlem (vanaf september)
