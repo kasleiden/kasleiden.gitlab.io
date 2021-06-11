@@ -20,7 +20,7 @@ for English see below
 Kinderen met een specifieke fobie zijn heel bang voor bepaalde voorwerpen, dieren of situaties. Sommige kinderen zijn bijvoorbeeld erg bang voor spinnen, honden, wespen, harde geluiden, het krijgen van een prik, hoogtes of kleine ruimtes. Veel kinderen hebben last van een specifieke fobie, en dat kan het leven thuis, op school en daarbuiten best moeilijk maken. 
 <br> 
 
-Samen met een groot internationaal team hebben we het KibA programma ontwkkeld om kinderen met een specifieke fobie zo goed mogelijk te kunnen helpen. Met het KibA programma onderzoeken we of we de behandeling van kinderen met een specifieke fobie nog verder kunnen verbeteren met behulp van een oefenprogramma. Binnen dit onderzoek bieden we een behandeling aan waarvan we al weten dat deze voor de meeste kinderen met een specifieke fobie goed helpt.
+Samen met een groot internationaal team hebben we het KibA programma ontwikkeld om kinderen met een specifieke fobie zo goed mogelijk te kunnen helpen. Met het KibA programma onderzoeken we of we de behandeling van kinderen met een specifieke fobie nog verder kunnen verbeteren met behulp van een oefenprogramma. Binnen dit onderzoek bieden we een behandeling aan waarvan we al weten dat deze voor de meeste kinderen met een specifieke fobie goed helpt.
 
 <br> 
 <br>
@@ -55,7 +55,7 @@ Op dit moment doen vier instellingen in Nederland mee aan het programma:
 - Accare locatie in Groningen (vanaf september)
 
 <br>
-Het KibA programma valt onder de jeugdzorg. Dit betekent dat het KibA programma met een verwijzing van de huisarts gratis is. Op dit moment is in Nederland de jeugdzorg via de gemeente geregeld. Dit betekent dat de instellingen afspraken maken met de gemeentes over vergoedingen. Op dit moment hebben we de instellingen waarmee we samenwerken afspraken met de volgende gemeenten:
+Behandeling voor kinderen met een specifieke fobie en dus ook het KibA programma valt onder de jeugdzorg. Dit betekent dat het KibA programma gratis is met een verwijzing van de huisarts of van het ouder en kind centrum. Op dit moment is in Nederland de jeugdzorg via de gemeente geregeld. Dit betekent dat de instellingen afspraken maken met de gemeentes over vergoedingen. Op dit moment hebben we de instellingen waarmee we samenwerken afspraken met de volgende gemeenten:
 - Amsterdam <br>
 - Aalsmeer <br>
 - Amstelveen <br> 
@@ -66,7 +66,7 @@ Het KibA programma valt onder de jeugdzorg. Dit betekent dat het KibA programma 
 - Uithoorn <br>
 - Utrecht West<br>
 - Zaanstreek- Waterland
-- Woont u in een andere gemeente en wilt u toch graag meedoen? Bel ons gerust, vaak kunnen de instellingen waarmee wij samenwerken afspraken maken met de gemeente waar u woont. U kunt hierover contact met ons opnemen.
+- Woont u in een andere gemeente en wilt u toch graag meedoen? Bel ons gerust, soms kunnen de instellingen waarmee wij samenwerken afspraken maken met de gemeente waar u woont. U kunt hierover contact met ons opnemen.
 <br>
 <br>
 <br>
