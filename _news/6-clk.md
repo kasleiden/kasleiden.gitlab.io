@@ -5,7 +5,7 @@ summary: Cool Little Kids kan ouders helpen om angst en verlegenheid bij hun kin
 permalink: /news/kiba
 project-url: /projects/kiba
 category: news
-image: /img/kiba-logo2.jpg
+image: /img/banner CLK.png
 members: [michiel, anke, annelieke, recep, yolinda, amal, fabienne]
 ---
 
