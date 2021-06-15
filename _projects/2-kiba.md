@@ -59,9 +59,12 @@ Behandeling voor kinderen met een specifieke fobie en dus ook het KibA programma
 - Amsterdam <br>
 - Aalsmeer <br>
 - Amstelveen <br> 
+- Bloemendaal <br>
 - Diemen <br>
 - Gooi- en Vechtstreek <br>
 - Haarlem <br>
+- Haarlemmermeer <br>
+- Heemstede <br>
 - Ouder-amstel <br>
 - Uithoorn <br>
 - Utrecht West<br>
