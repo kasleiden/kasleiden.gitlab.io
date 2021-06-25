@@ -8,4 +8,4 @@ category: news
 image: /img/kiba-logo12.jpg
 ---
 
-
+In het najaar zullen nieuwe groepen beginnen: wees snel en meld uw kind alvast aan voor een intake of een kennismakingsgesprek om mee te doen!
