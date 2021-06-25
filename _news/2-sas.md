@@ -7,6 +7,8 @@ project-url: /projects/sas
 category: news
 image: /img/kiba-logo12.jpg
 ---
+
+
 <br>
 #### Nieuws
 In het najaar zullen nieuwe groepen beginnen: wees snel en meld uw kind alvast aan voor een intake of een kennismakingsgesprek om mee te doen!
