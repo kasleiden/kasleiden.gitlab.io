@@ -9,7 +9,6 @@ image: /img/spil4.jpg
 ---
 <br>
 #### Nieuws 
-<br>
 [Lees hier](/pdf/SPIL-nieuwsbrief-apr2021.pdf) onze nieuwsbrief van april. 
 
 <br>
