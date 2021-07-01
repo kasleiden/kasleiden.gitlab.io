@@ -2,7 +2,7 @@
 nameid: janna
 layout: teammember
 name: DR. JANNA MARIE
-title: postdoc
+title: Senior onderzoeker
 group: team
 summary: Janna Marie is docent en onderzoeker bij de afdeling onderwijs en ontwikkelingspsychologie en gespecialiseerd in angst bij kinderen.
 permalink: /team/janna
