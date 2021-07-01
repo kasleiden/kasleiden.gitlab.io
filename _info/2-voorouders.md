@@ -22,20 +22,29 @@ Angst bij kinderen en jongeren is soms moeilijk te herkennen, omdat angstig gedr
 <br>
 
 ### Waar vind ik meer informatie?
-
 Veel organisaties bieden informatie of ondersteuning voor ouders m.b.t. angst bij kinderen. Het overzicht hieronder vullen wij de komende tijd verder aan. 
+<br>
+<br>
 
 #### Kenniscentrum Kinder- en Jeugdpsychiatrie
 Het Kenniscentrum KJP biedt [informatie voor ouders en jongeren](https://www.kenniscentrum-kjp.nl/ouders-jongeren/angst/) over wat angst is, hoe je het kunt herkennen en welke behandelingen er zijn. 
+<br>
+<br>
 
 #### Opvoeden.nl
 Deze website van Opvoedinformatie Nederland geeft informatie voor ouders over veel thema's, waaronder [angst](https://www.opvoeden.nl/angstig-gedrag-476/) en [angststoornissen](https://www.opvoeden.nl/angststoornissen-197/) bij kinderen en [angst](https://www.opvoeden.nl/bang-777/), [angststoornissen](https://www.opvoeden.nl/angststoornissen-1281/) en [stress](https://www.opvoeden.nl/stress-758/) bij jongeren. 
+<br>
+<br>
 
 #### Thuisarts
 Op [deze website](https://www.thuisarts.nl/angst-bij-kinderen) lees je hoe je angst bij je kind herkent, wat je kunt doen, wanneer je kind misschien hulp nodig hebt en waar je deze kunt vinden.
+<br>
+<br>
 
 #### Bibbers 
 Deze website bevat informatie, tips en oefeningen voor kinderen, maar geeft ook [tips voor ouders](https://bibbers.nl/voor-volwassenen/) om met de angst van hun kind om te gaan en samen oefeningen te doen. 
+<br>
+<br>
 
 #### Artikelen, filmpjes, podcasts, radio-uitzendingen en meer... 
 NPO Radio 1 verdiepte zich in de talkshow Spraakmakers [een week lang in angst bij kinderen](https://www.nporadio1.nl/spraakmakers/onderwerpen/71875-2021-02-05-verhalen-van-spraakmakers-angst-bij-kinderen-deel-5). Hoe ontwikkelen angsten zich, wat is de impact op een kind en zijn omgeving en hoe pak je angstklachten aan?
@@ -57,7 +66,8 @@ Meer weten? Neem voor vragen of aanmelden contact met ons op via kas@fsw.leidenu
 
 We hebben twee soorten trainingen: 
 <br>
-
+<br>
+<br>
 ##### [Kinderen Bedwingen Angst (KIBA) - Voor kinderen en jongeren van 7 tot en met 14 jaar](https://kasleiden.nl/projects/kiba)
 Voor kinderen en jongeren die erg bang zijn voor bepaalde dieren, dingen of situaties (bijv. spinnen, wespen, de tandarts, overgeven, clowns, honden, bloed)
 
@@ -69,7 +79,8 @@ De training bestaat o.a. uit: <br>
 •	1 oefensessie van drie uur: hoe kan je hiermee omgaan? <br>
 •	4 weken zelf oefenen met tips van de trainer of met behulp van een app<br>
 <br>
-
+<br>
+<br>
 ##### [In Je Sas! - Voor jongeren van 12 tot en met 17 jaar](https://kasleiden.nl/projects/sas)
 Voor jongeren met sociale angst die last hebben van verlegenheid (bijv. moeite om voor de klas te spreken, met vrienden af te spreken of nieuwe vrienden te maken)
 
@@ -85,7 +96,8 @@ We werken ook met een app. Met deze app kan je: <br>
 •	Inzicht krijgen in je gedachten, gedrag en gevoelens <br>
 •	Steun krijgen van de trainers en groepsleden gedurende de week <br>
 
-
+<br>
+<br>
 #### Ondersteuning voor scholen 
 
 Leraren en zorgmedewerkers in en rond de school kunnen veel betekenen voor leerlingen met angst.<br>
