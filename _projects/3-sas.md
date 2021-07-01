@@ -5,7 +5,7 @@ summary: Zie je soms ook zo op tegen het geven van een spreekbeurt, of vind je h
 permalink: /projects/sas
 category: project
 image: /img/kiba-logo12.jpg
-members: [michiel, sara, dayenne]
+members: [michiel, sara, Dayenne]
 ---
 
 #### In Je Sas! 
