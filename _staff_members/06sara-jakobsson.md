@@ -1,7 +1,7 @@
 ---
 nameid: sara
 layout: teammember
-name: SARA JAKOBSSON
+name: SARA JAKOBSSON MSc.
 title: Dagelijks projectleider In Je Sas!
 group: team
 summary: Sara is dagelijks projectleider op het project In Je Sas! Daarnaast is ze junior onderzoeker op het gebied van sociale angst bij de afdeling Ontwikkelings- en Onderwijspsychologie aan de Universiteit Leiden.
