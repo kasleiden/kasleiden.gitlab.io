@@ -9,8 +9,8 @@ image: /img/spil4.jpg
 ---
 <br>
 #### Nieuws 
-[Lees hier](/pdf/SPIL-nieuwsbrief-apr2021.pdf) onze nieuwsbrief van april. 
+[Lees hier](/pdf/SPIL-nieuwsbrief-jul2021.pdf) onze nieuwsbrief van juli. 
 
-Sinds 1 februari kunnen leraren en zorgmedewerkers terecht bij onze telefonische hulplijn 071 527 5464. [Lees meer...](https://kasleiden.nl/projects/spil)
+Van 9 juli t/m 5 september is onze telefonische hulplijn beperkt bereikbaar i.v.m. vakantie. We blijven echter per e-mail bereikbaar, dus stuur een bericht naar kas@fsw.leidenuniv.nl en we bellen je z.s.m. terug. [Lees meer...](https://kasleiden.nl/projects/spil)
 
 
