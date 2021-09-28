@@ -2,7 +2,7 @@
 nameid: jasmin
 layout: teammember
 name: JASMIN RAHEMENIA
-title: Research Master Stagiaire
+title: Stagiaire KibA
 group: team
 summary: Jasmin is Research Master Stagiare Developmental Psychology, Universiteit Leiden
 permalink: /team/jasmin
