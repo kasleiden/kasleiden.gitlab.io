@@ -11,6 +11,6 @@ image: /img/spil4.jpg
 #### Nieuws 
 [Lees hier](/pdf/SPIL-nieuwsbrief-jul2021.pdf) onze nieuwsbrief van juli. 
 
-Van 9 juli t/m 5 september is onze telefonische hulplijn beperkt bereikbaar i.v.m. vakantie. We blijven echter per e-mail bereikbaar, dus stuur een bericht naar kas@fsw.leidenuniv.nl en we bellen je z.s.m. terug. [Lees meer...](https://kasleiden.nl/projects/spil)
+Vanaf 1 september is de openingstijd van onze telefonische hulplijn verruimd! We zijn nu elke werkdag van 9.00 - 17.00 uur bereikbaar voor alle vragen [Lees meer...](https://kasleiden.nl/projects/spil)
 
 
