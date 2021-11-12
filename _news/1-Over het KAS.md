@@ -15,7 +15,7 @@ members: [michiel, anke, anika]
 8 december: Move More Festival 
 <br>
 <br>
-Onze telefonische hulplijn is van maandag tot vrijdag geopend 9u tot 5u.
+Onze telefonische hulplijn is van maandag tot vrijdag geopend van 9u tot 5u.
 <br>
 Voor vragen kunt u mailen naar kas@fsw.leidenuniv.nl.
 
