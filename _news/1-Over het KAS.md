@@ -5,7 +5,7 @@ summary: Wij delen informatie over angst & stress bij jeugd op onze website en d
 permalink: news/kas
 project-url: /projects/kas
 category: over het KAS
-image:
+image:overhet.jpg
 members: [michiel, anke, anika]
 ---
 
@@ -15,6 +15,7 @@ members: [michiel, anke, anika]
 8 december: Move More Festival 
 <br>
 Onze telefonische hulplijn is van maandag tot vrijdag geopend 9u tot 5u.
+<br>
 Voor vragen kunt u mailen naar kas@fsw.leidenuniv.nl.
 
 
