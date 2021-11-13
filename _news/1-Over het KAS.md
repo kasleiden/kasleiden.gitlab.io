@@ -3,7 +3,7 @@ layout: post
 title: Over het Kenniscentrum Angst en Stress bij Jeugd
 summary: Ons missie is om stress- en angstklachten bij kinderen zo vroeg mogelijk te herkennen en te verhelpen, door het verbinden van onderzoek, praktijk, zorg en onderwijs. Wij delen informatie over angst & stress bij jeugd op onze website en verzorgen onder meer presentaties en workshops voor scholen en trainingen voor leerlingen. <a href="/team"> Lees verder </a>
 permalink: /news/kas
-project-url: 
+project-url: /team
 category: KAS
 image: /img/overhet1.jpg
 members: [michiel, anke, anika]
