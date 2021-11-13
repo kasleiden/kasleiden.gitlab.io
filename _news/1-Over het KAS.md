@@ -12,7 +12,7 @@ members: [michiel, anke, anika]
 
 <br>
 ### Agenda
-8 december: Move More Festival 
+8 december: Move More Festival georganiseerd door het LEF.  
 <br>
 <br>
 Onze telefonische hulplijn is van maandag tot vrijdag geopend van 9u tot 5u.
