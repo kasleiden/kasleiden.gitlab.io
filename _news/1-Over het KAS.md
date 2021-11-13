@@ -5,7 +5,7 @@ summary: Wij delen informatie over angst & stress bij jeugd op onze website en d
 permalink: /news/kas
 project-url: /projects/kas
 category: KAS
-image: /img/overhet.jpg
+image: /img/overhet1.jpg
 members: [michiel, anke, anika]
 ---
 
