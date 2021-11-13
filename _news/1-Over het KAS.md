@@ -12,7 +12,7 @@ members: [michiel, anke, anika]
 
 <br>
 ### Agenda
-8 december: Move More Festival georganiseerd door het LEF.[Klik hier voor meer informatie en meld je aan!](https://www.leidenkennisstad.nl/hetlef/evenement/move-more-festival/)
+8 december: Move More Festival georganiseerd door het LEF. [Klik hier voor meer informatie en meld je aan!](https://www.leidenkennisstad.nl/hetlef/evenement/move-more-festival/)
 <br>
 <br>
 Onze telefonische hulplijn is van maandag tot vrijdag geopend van 9u tot 5u.
