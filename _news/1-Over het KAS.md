@@ -15,6 +15,7 @@ members: [michiel, anke, anika]
 <b> 8 december </b>: Move More Festival georganiseerd door het LEF. [Klik hier voor meer informatie en meld je aan!](https://www.leidenkennisstad.nl/hetlef/evenement/move-more-festival/)
 <br>
 <br>
+<br>
 Onze telefonische hulplijn is van maandag tot vrijdag geopend van 9u tot 5u.
 Voor vragen kunt u mailen naar kas@fsw.leidenuniv.nl.
 
