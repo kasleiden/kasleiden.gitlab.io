@@ -17,7 +17,6 @@ members: [michiel, anke, anika]
 <b>23 mei van 15:00-17:00</b>: Themaworkshop over angst met als specifiek thema de kracht van positief feedback van leeftijdsgenoten en sociale angst. Deze workshop zal verzorgd worden door Dr. Anne Miers. [Klik hier](kas@fsw.leidenuniv.nl) om u direct aan te melden. 
 
 
-Voor vragen kunt u ook mailen naar kas@fsw.leidenuniv.nl of bellen op 071–527 5464.
 
 
 
