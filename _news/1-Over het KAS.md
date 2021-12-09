@@ -14,11 +14,11 @@ members: [michiel, anke, anika]
 ### Agenda
 <b> 8 december</b>: Move More Festival georganiseerd door het LEF. [Klik hier voor meer informatie en meld je aan!](https://www.leidenkennisstad.nl/hetlef/evenement/move-more-festival/)
 <br>
-Op 22 februari van 15:00-17:00 verzorgen we de themaworkshop over de aangeboren kwetsbaarheid voor het ontwikkelen van sociale angst. Deze workshop zal verzorgd worden door Dr. Janna Marie Bas-Hoogendam. [Klik hier] om u direct aan te melden. (kas@fsw.leidenuniv.nl)
+22 februari van 15:00-17:00: themaworkshop over de aangeboren kwetsbaarheid voor het ontwikkelen van sociale angst. Deze workshop zal verzorgd worden door Dr. Janna Marie Bas-Hoogendam. [Klik hier](kas@fsw.leidenuniv.nl)om u direct aan te melden.
 <br>
-Op 24 maart van 15:00-17:00 verzorgen we een themaworkshop over de mentale gezondheid tijdens de adolescentie en breinontwikkeling. Deze workshop zal verzorgd worden door Dr. Marieke Bos. [Klik hier] om u direct aan te melden. (kas@fsw.leidenuniv.nl)
+24 maart van 15:00-17:00: themaworkshop over de mentale gezondheid tijdens de adolescentie en breinontwikkeling. Deze workshop zal verzorgd worden door Dr. Marieke Bos. [Klik hier](kas@fsw.leidenuniv.nl)om u direct aan te melden. (kas@fsw.leidenuniv.nl)
 <br>
-Op 23 mei van 15:00-17:00 verzorgen we een themaworkshop over angst met als specifiek thema de kracht van positief feedback van leeftijdsgenoten en sociale angst. Deze workshop zal verzorgd worden door Dr. Anne Miers. [Klik hier] om u direct aan te melden. (kas@fsw.leidenuniv.nl)
+23 mei van 15:00-17:00: themaworkshop over angst met als specifiek thema de kracht van positief feedback van leeftijdsgenoten en sociale angst. Deze workshop zal verzorgd worden door Dr. Anne Miers. [Klik hier](kas@fsw.leidenuniv.nl)om u direct aan te melden. 
 
 <br>
 <br>
