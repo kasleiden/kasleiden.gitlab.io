@@ -1,7 +1,7 @@
 ---
 layout: post
 title: AGENDA
-summary: Het Kenniscentrum Angst en Stress verzorgt lezingen, workshops, trainingen en heeft behandelprogramma's voor kinderen die last hebben van angsten. Hier vindt u onze agenda:
+summary: Het Kenniscentrum Angst en Stress verzorgt lezingen, workshops, trainingen en heeft behandelprogramma's voor kinderen die last hebben van angsten. Hier vindt u onze agenda: <a href="/team"> Lees verder </a>
 permalink: /news/kas
 project-url: /team
 category: KAS
