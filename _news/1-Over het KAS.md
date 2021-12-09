@@ -12,7 +12,15 @@ members: [michiel, anke, anika]
 
 [Lees hier](/pdf/KAS-Nieuwsbrief-December-2021.pdf) onze nieuwsbrief van december. 
 <br>
+<br>
 
+Ons aanbod: <br>
+- Speciaal voor al het onderwijspersoneel in de regio Leiden draaien we het SPIL programma. In het kader van dit programma verzorgen we workshops, lezingen en trainingen over angst en stress bij kinderen en jeugdigen.
+<br>
+- Speciaal voor kinderen tussen de 7 en 14 jaar met een specifieke angst hebben wij het KInderen bedwingen angst (KibA) programma ontwikkeld. 
+<br>
+- Speciaal voor jongeren tussen de 12 en 17 jaar met een sociale angst hebben wij het InjeSas! programma ontwikkeld.
+<br>
 
 Onze telefonische hulplijn is beschikbaar op alle werkdagen van 9.00 - 17.00 uur. Voor vragen kunt u ook mailen naar kas@fsw.leidenuniv.nl. 
 
