@@ -14,7 +14,7 @@ members: [michiel, anke, anika]
 
 
 Ons aanbod: 
-- Speciaal voor al het onderwijspersoneel draaien we het <a href="/projects/spil"> SPIL programma</a>. In het kader van dit programma verzorgen we workshops, lezingen en trainingen over angst en stress bij kinderen en jeugdigen.
+- Speciaal voor al het onderwijspersoneel draaien we het <a href="/projects/spil"> SPIL programma.</a> In het kader van dit programma verzorgen we workshops, lezingen en trainingen over angst en stress bij kinderen en jeugdigen.
 <br>
 - Speciaal voor kinderen tussen de 7 en 14 jaar met een specifieke angst hebben wij het <a href="/projects/kiba"> KInderen bedwingen angst (KibA)</a> programma ontwikkeld. 
 <br>
