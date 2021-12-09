@@ -9,7 +9,6 @@ image: /img/overhet1.jpg
 members: [michiel, anke, anika]
 ---
 
-
 [Lees hier](/pdf/KAS-Nieuwsbrief-December-2021.pdf) onze nieuwsbrief van december. 
 <br>
 <br>
