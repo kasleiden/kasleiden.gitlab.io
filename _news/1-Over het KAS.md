@@ -14,11 +14,11 @@ members: [michiel, anke, anika]
 <br>
 <br>
 ### Agenda
-<b>22 februari van 15:00-17:00</b>: themaworkshop over de aangeboren kwetsbaarheid voor het ontwikkelen van sociale angst. Deze workshop zal verzorgd worden door Dr. Janna Marie Bas-Hoogendam. [Klik hier](kas@fsw.leidenuniv.nl) om u direct aan te melden.
+<b>22 februari van 15:00-17:00</b>: Themaworkshop over de aangeboren kwetsbaarheid voor het ontwikkelen van sociale angst. Deze workshop zal verzorgd worden door Dr. Janna Marie Bas-Hoogendam. [Klik hier](kas@fsw.leidenuniv.nl) om u direct aan te melden.
 <br>
-<b>24 maart van 15:00-17:00</b>: themaworkshop over de mentale gezondheid tijdens de adolescentie en breinontwikkeling. Deze workshop zal verzorgd worden door Dr. Marieke Bos. [Klik hier](kas@fsw.leidenuniv.nl) om u direct aan te melden. (kas@fsw.leidenuniv.nl)
+<b>24 maart van 15:00-17:00</b>: Themaworkshop over de mentale gezondheid tijdens de adolescentie en breinontwikkeling. Deze workshop zal verzorgd worden door Dr. Marieke Bos. [Klik hier](kas@fsw.leidenuniv.nl) om u direct aan te melden. (kas@fsw.leidenuniv.nl)
 <br>
-<b>23 mei van 15:00-17:00</b>: themaworkshop over angst met als specifiek thema de kracht van positief feedback van leeftijdsgenoten en sociale angst. Deze workshop zal verzorgd worden door Dr. Anne Miers. [Klik hier](kas@fsw.leidenuniv.nl) om u direct aan te melden. 
+<b>23 mei van 15:00-17:00</b>: Themaworkshop over angst met als specifiek thema de kracht van positief feedback van leeftijdsgenoten en sociale angst. Deze workshop zal verzorgd worden door Dr. Anne Miers. [Klik hier](kas@fsw.leidenuniv.nl) om u direct aan te melden. 
 
 <br>
 Onze telefonische hulplijn is van maandag tot vrijdag geopend van 9u tot 5u. Voor vragen kunt u mailen naar kas@fsw.leidenuniv.nl.
