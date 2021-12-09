@@ -25,7 +25,9 @@ Op 23 mei van 15:00-17:00 verzorgen we een themaworkshop over angst met als spec
 Onze telefonische hulplijn is van maandag tot vrijdag geopend van 9u tot 5u.
 Voor vragen kunt u mailen naar kas@fsw.leidenuniv.nl.
 
-<
+<br>
+<br>
+[Lees hier](/pdf/SPIL nieuwsbrief September 2021.pdf) onze nieuwsbrief van december. 
 
 
 
