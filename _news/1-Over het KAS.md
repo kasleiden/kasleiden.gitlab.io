@@ -18,7 +18,7 @@ Ons aanbod:
 <br>
 - Speciaal voor kinderen tussen de 7 en 14 jaar met een specifieke angst hebben wij het <a href="/projects/kiba"> KInderen bedwingen angst (KibA) </a> programma ontwikkeld. 
 <br>
-- Speciaal voor jongeren tussen de 12 en 17 jaar met een sociale angst hebben wij het <a href="/projects/injesas"> InjeSas! </a> programma ontwikkeld.
+- Speciaal voor jongeren tussen de 12 en 17 jaar met een sociale angst hebben wij het <a href="/projects/sas"> InjeSas! </a> programma ontwikkeld.
 <br>
 
 Onze telefonische hulplijn is beschikbaar op alle werkdagen van 9.00 - 17.00 uur. Voor vragen kunt u ook mailen naar kas@fsw.leidenuniv.nl. 
