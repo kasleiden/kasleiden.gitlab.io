@@ -11,9 +11,8 @@ members: [michiel, anke, anika]
 
 [Lees hier](/pdf/KAS-Nieuwsbrief-December-2021.pdf) onze nieuwsbrief van december. 
 <br>
+<br>
 
-
-Ons aanbod: 
 - Speciaal voor al het onderwijspersoneel draaien we het <a href="/projects/spil"> SPIL programma.</a> In het kader van dit programma verzorgen we workshops, lezingen en trainingen over angst en stress bij kinderen en jeugdigen.
 <br>
 - Speciaal voor kinderen tussen de 7 en 14 jaar met een specifieke angst hebben wij het <a href="/projects/kiba"> KInderen bedwingen angst (KibA)</a> programma ontwikkeld. 
