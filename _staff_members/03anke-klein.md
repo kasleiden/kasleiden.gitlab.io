@@ -20,7 +20,7 @@ Na haar promotie werkte ze als postdoc aan de Universiteit van Amsterdam waar ze
 
 #### Beurzen
 
-Anke heeft verschillende beurzen ontvangen met een totale waarde van meer dan 3.2M euro:
+Anke heeft verschillende beurzen ontvangen met een totale waarde van meer dan 3.7M euro:
 
 - 2020 IIE Scholar Rescue Fund toegekend aan Dr. Uysal (Supervisor)
 - 2019 Hestia beurs, NWO (PI)
@@ -44,12 +44,13 @@ Anke heeft verschillende beurzen ontvangen met een totale waarde van meer dan 3.
 <br>
   
 #### Begeleiding promovendi
-
-- A. Hagen De combinatie van een-sessie behandeling met een app voor het behandelen van kinderen met een specifieke fobie, 2019 - nu
-- N. Wolters Sociale relaties, eenzaamheid, angst en depressie over de gehele levensloop, 2018 - nu
-- J. Baartmans De rol van klasgenoten en ouders bij kinderen met sociale angst, 2018 - nu
-- L. Mobach Cognitieve vertekeningen bij kinderen met sociale angst: Meten en behandeluitkomsten, 2017 - nu
-- R. van Niekerk De rol van ouderlijke angst in de overdracht van angst bij kinderen (afgerond)
+- Robin Zimmermann  - Specifieke angsten in de kindertijd: De rol van ouders, 2021- nu 
+- Geraly Bijsterbosch - Door de ogen van het kind: Gezichtherkenning vanuit verschillende perspectieven, 2020 - nu
+- Annelieke Hagen -  De combinatie van een-sessie behandeling met een app voor het behandelen van kinderen met een specifieke fobie, 2019 - nu
+- Nine Wolters - Sociale relaties, eenzaamheid, angst en depressie over de gehele levensloop, 2018 - nu
+- Jeanine Baartmans - De rol van klasgenoten en ouders bij kinderen met sociale angst (afgerond)
+- Lynn Mobach - Cognitieve vertekeningen bij kinderen met sociale angst: Meten en behandeluitkomsten (afgerond)
+- Rianne van Niekerk - De rol van ouderlijke angst in de overdracht van angst bij kinderen (afgerond)
 
 <br>
 
