@@ -2,7 +2,7 @@
 nameid: anne
 layout: teammember
 name: DR. ANNE MIERS
-title: Senior onderzoeker Injesas!
+title: Senior projectadviseur Injesas! en Stresslessen
 group: team
 summary: 
 permalink: /team/anke
