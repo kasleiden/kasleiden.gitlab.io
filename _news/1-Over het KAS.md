@@ -13,7 +13,7 @@ members: [michiel, anke, anika]
 <br>
 <br>
 [Vind hier](/pdf/Folder KAS voor onderwijs.pdf) onze algemene folder voor onderwijspersoneel. 
-[Vind hier](/pdf/KAS-Nieuwsbrief-December-2021.pdf) onze poster over het kiba en injesas! programma. 
+[Vind hier](/pdf/Poster Kiba:KAS.pdf) onze poster over het kiba en injesas! programma. 
 
 #### Aanbod
 - Speciaal voor al het onderwijspersoneel draaien we het <a href="/projects/spil"> SPIL programma.</a> In het kader van dit programma verzorgen we workshops, lezingen en trainingen over angst en stress bij kinderen en jeugdigen.
