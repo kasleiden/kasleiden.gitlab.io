@@ -5,7 +5,7 @@ name: DR. ANNE MIERS
 title: Senior projectadviseur Injesas! en Stressless
 group: team
 summary: 
-permalink: /team/anke
+permalink: /team/anne
 image: /img/anne.jpg
 ---
 
