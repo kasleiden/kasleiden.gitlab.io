@@ -12,7 +12,7 @@ members: [michiel, anke, anika]
 [Lees hier](/pdf/KAS-Nieuwsbrief-December-2021.pdf) onze nieuwsbrief van december. 
 <br>
 <br>
-[Vind hier](/pdf/KAS-Nieuwsbrief-December-2021.pdf) onze algemene folder voor onderwijspersoneel. 
+[Vind hier](/pdf/Folder KAS voor onderwijs.pdf) onze algemene folder voor onderwijspersoneel. 
 [Vind hier](/pdf/KAS-Nieuwsbrief-December-2021.pdf) onze poster over het kiba en injesas! programma. 
 
 #### Aanbod
