@@ -10,11 +10,12 @@ image: /img/anne.jpg
 ---
 
 Anne is senior projectadviseur bij zowel Injesas! als StressLess en is dagelijkse begeleider van Sara Jakobsson en Simone Vogelaar. Daarnaast is ze universitair hoofddocent bij de afdeling Ontwikkelings- en Onderwijspsychologie aan de universiteit Leiden.
-
-
+<br>
+<br>
 #### Kort cv
 Anne Miers is universitair hoofddocent bij de afdeling Ontwikkelings-en-Onderwijspsychologie van het Instituut Psychologie aan de Universiteit Leiden. 
 Miers behaalde haar Bachelor Psychologie in 2001 aan de University College London (UCL). Tussen 2001 en 2003 werkte ze als kwantitatief onderzoekster bij een hoogstaand onderzoeksbureau, The National Centre for Social Research (NatCen), in Londen. Hierna volgde ze de master Child Development aan het Institute of Education, Londen, die ze in 2004 cum laude afrondde. Na het behalen van haar MSc verhuisde ze naar Nederland waar zij is gepromoveerd aan de Universiteit Leiden (2010), op de Social Anxiety and Normal Development Study (SAND). Dit longitudinaal project werd onder de begeleiding van Prof. P. M. Westenberg en dr. A. W. Blöte uitgevoerd tussen 2005 en 2010. Ze werkt of heeft gewerkt met collega’s uit zowel Nederland (Prof. M. Fekkes, Prof. S. Bögels), als internationaal, het Verenigd Koninkrijk (Dr. E. Leigh en Prof. D. Clark) en de Verenigd Staten (Prof. C. Masia-Warner). 
+<br>
 <br>
 <br>
 #### Beurzen en Prijzen
@@ -32,13 +33,15 @@ Miers behaalde haar Bachelor Psychologie in 2001 aan de University College Londo
 <br>
 •	2010. Co-applicant. NWO, FES-Leren Programma 4: De lerende adolescent: Kiezen, beslissen en sociale cognitie to Professor. P. M. Westenberg and A. C. Miers, MSc. “Interpersonal (peer evaluation) and intrapersonal (negative perceptions) influences at school as predictors of social fear in adolescents”. (€75,000) 
 <br>
-
+<br>
+<br>
 #### Links
 [medewerkerspagina Universiteit Leiden](https://www.universiteitleiden.nl/en/staffmembers/anne-miers#tab-12)
 <br>
 [linkedin profiel](https://www.linkedin.com/in/anne-miers-58303312/)
 <br>
 [Twitter](https://twitter.com/AnneMiers/)
+<br>
 <br>
 <br>
 #### Contact
