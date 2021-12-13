@@ -34,11 +34,12 @@ Miers behaalde haar Bachelor Psychologie in 2001 aan de University College Londo
 <br>
 
 #### Links
-medewerkerspagina Universiteit Leiden
+medewerkerspagina Universiteit Leiden 
 Twitter
 LinkedIn
 <br>
 <br>
 #### Contact
 Email: acmiers@fsw.leidenuniv.nl
+<br>
 Tel : 071 527 3688
