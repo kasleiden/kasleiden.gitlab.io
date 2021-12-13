@@ -34,9 +34,11 @@ Miers behaalde haar Bachelor Psychologie in 2001 aan de University College Londo
 <br>
 
 #### Links
-medewerkerspagina Universiteit Leiden 
-Twitter
-LinkedIn
+[medewerkerspagina Universiteit Leiden](https://www.universiteitleiden.nl/en/staffmembers/anne-miers#tab-12)
+<br>
+[linkedin profiel](https://www.linkedin.com/in/anne-miers-58303312/)
+<br>
+[Twitter](https://twitter.com/AnneMiers/)
 <br>
 <br>
 #### Contact
