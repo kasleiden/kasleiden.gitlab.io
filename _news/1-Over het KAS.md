@@ -5,7 +5,7 @@ summary: Het Kenniscentrum Angst en Stress bij jeugd is onderdeel van de univers
 permalink: /news/kas
 project-url: /team
 category: KAS
-image: /img/overhet1.jpg
+image: /img/banner_KASlogo.png
 members: [michiel, anke, anika]
 ---
 
