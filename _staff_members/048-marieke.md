@@ -1,3 +1,16 @@
+---
+nameid: anke
+layout: teammember
+name: DR. ANKE KLEIN
+title: Hoofd onderzoek & ontwikkeling
+group: team
+summary: Anke is medeoprichter van het Kenniscentrum. Ze is hoofdverantwoordelijk voor al het onderzoek en ontwikkeling binnen het kenniscentrum. Daarnaast is ze universitair hoofddocent bij de afdeling Ontwikkelings- en Onderwijspychologie aan de universiteit Leiden.
+permalink: /team/anke
+image: /img/anke2.jpg
+---
+
+
+
 #### kort cv
 Marieke Bo werkt werk als universitair docent bij de afdeling Ontwikkelings- en Onderwijspsychologie van het Insituut 
 Psychologie aan de Universiteit Leiden. Haar onderzoek is gericht op het begrijpen van neurobiologische mechanismes die een rol spelen bij het 
