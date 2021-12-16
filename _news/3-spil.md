@@ -9,7 +9,7 @@ image: /img/spil4.jpg
 ---
 <br>
 #### Nieuws 
-[Lees hier](/pdf/KAS-Nieuwsbrief-December-2021.pdf) onze nieuwsbrief van december. 
+[Lees hier](/pdf/KAS-Nieuwsbrief-December1.pdf) onze nieuwsbrief van december. 
 <br>
 [Lees hier](/pdf/SPIL nieuwsbrief September 2021.pdf) onze nieuwsbrief van september. 
 
