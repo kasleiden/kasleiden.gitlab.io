@@ -9,7 +9,7 @@ image: /img/banner_KASlogo.png
 members: [michiel, anke, anika]
 ---
 
-[Lees hier](/pdf/KAS-Nieuwsbrief-December-2021.pdf) onze nieuwsbrief van december. 
+[Lees hier](/pdf/KAS-Nieuwsbrief-December1.pdf) onze nieuwsbrief van december. 
 <br>
 <br>
 [Vind hier](/pdf/Folder KAS voor onderwijs.pdf) onze algemene folder voor onderwijspersoneel. 
