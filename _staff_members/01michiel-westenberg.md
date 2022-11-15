@@ -2,7 +2,7 @@
 nameid: michiel
 layout: teammember
 name: PROF. MICHIEL WESTENBERG
-title: Hoogleraar 
+title: Medeoprichter 
 group: team
 summary: Michiel is medeoprichter van het Kenniscentrum. Daarnaast is hij hoogleraar bij de afdeling ontwikkelings- en onderwijspychologie aan de universiteit Leiden.
 permalink: /team/michiel
