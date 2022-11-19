@@ -27,7 +27,7 @@ In dit onderzoek richt ze zich specifiek op de rol van puberteitshormonen en hoe
 <br>
 
 #### Contact
-Email: m.g.n.bos@fsw.leidenuniv.nl
+E-mail: m.g.n.bos@fsw.leidenuniv.nl
 <br>
 Tel : 071 527 6624
 
