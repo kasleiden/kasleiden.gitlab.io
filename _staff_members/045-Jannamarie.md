@@ -9,6 +9,8 @@ permalink: /team/janna
 image: /img/janna.jpg
 ---
 
+#### Kort cv
+
 Janna Marie is docent en onderzoeker bij de afdeling Ontwikkelings-en-Onderwijspsychologie van het Instituut Psychologie aan de Universiteit Leiden en de afdeling Psychiatrie van het Leids Universitair Medisch Centrum (LUMC). Ook is zij onderdeel van het Leiden Institute for Brain and Cognition (LIBC). 
 <br>
 
