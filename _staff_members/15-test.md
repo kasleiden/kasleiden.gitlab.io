@@ -3,7 +3,7 @@ nameid: linda
 layout: teammember
 name: DR LINDA VAN DER ZWAAN
 title: Zorgcoördinator Vlietland College
-group: alumni
+group: samenwerkingspartner
 summary: Linda werkt als zorgcoördinator van het Vlietland College mee aan het SPIL-programma
 permalink: /team/linda
 image: /img/linda.jpg
