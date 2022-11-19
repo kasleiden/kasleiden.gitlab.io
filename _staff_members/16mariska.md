@@ -3,7 +3,7 @@ nameid: mariska
 layout: teammember
 name: MARISKA KENTER
 title: Intern begeleider De Singel
-group: alumni
+group: samenwerkingspartner
 summary: Mariska werkt als intern begeleider van De Singel mee aan het SPIL-programma
 permalink: /team/mariska
 image: /img/mariska.jpg
