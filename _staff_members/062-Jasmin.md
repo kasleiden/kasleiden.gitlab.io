@@ -9,7 +9,8 @@ permalink: /team/jasmin
 image: /img/jasmin.jpg
 ---
 
-Mijn naam is Jasmin Rahemenia. Ik werk als student assistent bij het KibA project en loop een klinische stage bij GGZ Delfland. Ik ben in de afrondende fase van mijn Research Master Developmental Psychology aan de Universiteit Leiden. Deze onderzoeksmaster combineer ik met de klinische master kind- en jeugdpsychologie. Mijn droom is om uiteindelijk onderzoek en praktijk te combineren.
+Jasmin is student assistent bij het KibA project. Daarnaast combineert ze de research master Developmental Psychology en de klinische master aan de Universiteit Leiden en loopt ze een klinische stage bij GGZ Delfland.
+
 <br>
 <br>
 Contact: j.rahemenia@fsw.leidenuniv.nl
