@@ -14,7 +14,7 @@ members: [michiel, anke, anika]
 <br>
 [Vind hier](/pdf/Folder KAS voor onderwijs.pdf) onze algemene folder voor onderwijspersoneel. 
 <br>
-[Vind hier](/pdf/Poster Kiba:KAS.pdf) onze poster over het kiba en injesas! programma. 
+[Vind hier](/pdf/Poster Kiba:KAS.pdf) onze poster over het KibA en InJeSas! programma. 
 <br>
 <br>
 
