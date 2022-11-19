@@ -8,7 +8,6 @@ image: /img/kiba-logo2.jpg
 members: [michiel, anke, annelieke, jasmin, merel]
 ---
 
-for English see below
 <br>
 <br>
 <b>Heeft uw kind last van een specifiek angst, bijvoorbeeld een angst voor honden, hoogtes, injecties, onweer, het donker, spinnen of andere dieren? Dan is het KibA programma misschien wel iets voor hem of haar! </b>
