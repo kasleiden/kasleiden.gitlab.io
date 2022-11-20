@@ -1,6 +1,6 @@
 ---
 layout: post
-title: KInderen Bedwingen Angst - Het KIBA project
+title: Kinderen bedwingen Angst - Het KibA project
 summary: Heeft uw kind last van een specifiek angst, bijvoorbeeld een angst voor honden, hoogtes, injecties, onweer, het donker, spinnen of andere dieren? Dan is het KibA programma misschien wel iets voor hem of haar!
 permalink: /news/kiba
 project-url: /projects/kiba
@@ -22,6 +22,6 @@ Het KibA programma is beschikbaar bij de volgende instellingen: <br>
 - Sieverding Psychologie in Heemstede
 - Accare locatie Groningen
 
-[Klik hier](/pdf/kiba flyer.pdf) om de kiba flyer te downloaden
+[Klik hier](/pdf/kiba flyer.pdf) om de KibA flyer te downloaden
 <br>
-[Klik hier](/pdf/kiba poster.pdf) om de kiba poster te downloaden
+[Klik hier](/pdf/kiba poster.pdf) om de KibA poster te downloaden
