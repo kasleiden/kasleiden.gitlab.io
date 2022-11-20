@@ -6,7 +6,7 @@ title: Senior onderzoeker en docent
 group: team
 summary: Marieke werkt werk als universitair docent bij de afdeling Ontwikkelings- en Onderwijspsychologie aan de Universiteit Leiden. Haar onderzoek is gericht op het begrijpen van neurobiologische mechanismes die een rol spelen bij het onstaan en het instand houden van mentale problemen tijdens de adolescentie.
 permalink: /team/marieke
-image: /img/marieke.jpg
+image: /img/marieke1.jpg
 ---
 
 
