@@ -237,3 +237,23 @@ a.menu-link:active,
 a.menu-link:visited {
   color: black;
 }
+
+.dropdown {
+  margin-bottom: 0.5rem;
+  margin-top: -2.5rem;
+  max-width: 3rem;
+  margin-right: auto;
+  margin-left: auto;
+  @media (min-width: $middle-breakpoint) {
+    margin-top: -4.4rem;
+  }
+
+  @media (min-width: $middle-breakpoint) {
+    margin-right: 9%;
+    width: auto;
+  }
+}
+
+.menu-flag{
+  margin: 0px 0px 0px 0px;
+}

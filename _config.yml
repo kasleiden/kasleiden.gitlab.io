@@ -8,6 +8,41 @@ url: https://kasleiden.nl
 paginate: 1
 baseurl: ""
 analytics_id: UA-72478077-1
+
+defaults:
+- scope:
+    path: "_info*/"
+  values:
+    collection_basename: info
+- scope:
+    path: "_projects*/"
+  values:
+    collection_basename: projects
+- scope:
+    path: "_staff_members*/"
+  values:
+    collection_basename: staff_members        
+- scope:
+    path: "_news*/"
+  values:
+    collection_basename: news      
+- scope:
+    path: "*_en/"
+  values:
+    locale: en
+    lang: en-US
+    collection_suffix: _en  
+- scope:
+    path: ""
+  values:
+    locale: default
+    lang: nl-NL    
+- scope:
+    path: "_pages_en/index.*"
+  values:
+    permalink: "/en/"    
+
+
 # Assets
 #
 # We specify the directory for Jekyll so we can use @imports.
@@ -18,16 +53,43 @@ sass:
 # About/contact
 author:
   name: Anke Klein
-  url: http://ankeklein.nl
+  url: http://kasleiden.nl
   email: kas@fsw.leidenuniv.nl
 
+locales:
+  default:
+    baseurl: ""
+    name: Dutch
+    lang: nl-NL
+  en:
+    baseurl: /en
+    name: English
+    lang: en-US 
+
 collections:
+  info:
+    output: true
+  info_en:
+    output: true
+    permalink: /en/info/:path/      
+  pages_en:
+    output: true
+    permalink: /en/:path/  
   staff_members:
     output: true
+  staff_members_en:
+    output: true    
+    permalink: /en/team/:path/     
   projects:
     output: true
+  projects_en:
+    output: true
+    permalink: /en/projects/:path/    
   news:
     output: true
+  news_en:
+    output: true
+    permalink: /en/news/:path/      
   info:
     output: true  
 

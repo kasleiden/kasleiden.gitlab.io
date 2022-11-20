@@ -1,0 +1,112 @@
+---
+layout: default
+title: TEAM
+---
+<div class="feature">
+  <div class="feature-text movetxt">
+    <!-- <time
+      datetime="{{ post.date | date_to_xmlschema }}"
+      class="feature-post-date"
+      >{{ post.date | date_to_string }}</time
+    > -->
+    <h1 class="feature-title">{{ post.title }}</h1>
+    <div class="feature-subtitle">
+      {{ post.excerpt }}
+    </div>
+  </div>
+  <!-- <a class="feature-link" href="{{ site.baseurl }}{{ post.url }}">
+    <div id="readnow">Read Now</div>
+  </a> -->
+  <div class="layer">
+    <div class="feature-img" style="background-image: url({{site.baseurl}}/img/jf2.jpg);"></div>
+  </div>
+</div>
+
+<div class="posts-container">
+  <div>
+    <h3>HET KENNISCENTRUM</h3>
+  </div>
+    Ons doel is stress- en angstklachten bij kinderen zo vroeg mogelijk te herkennen en te verhelpen, door het verbinden van
+    onderzoek, praktijk, zorg en onderwijs. <a href="{{ site.url }}/uitlegkas/">Lees meer over onze missie, visie en activiteiten</a>. 
+  <hr />
+  <div>
+    <h3>ONS TEAM</h3>
+  </div>
+  <br />
+  <br />
+  {% for staff_member in site.staff_members_en %}
+  {% assign remainder = forloop.index | modulo: 4 %}
+    {% if remainder == 1 %}
+    <div class="row">
+    {% endif %}
+      {%if staff_member.group == "team" %}
+        <div class="column-team">
+          <div class="article">
+            <div class="article-head">
+              <a href="{{ site.baseurl }}{{ staff_member.url }}">
+                <img src="{{ site.url }}{{staff_member.image}}" />
+              </a>
+            </div>
+            <div class="article-content">
+              <h4>{{ staff_member.name }}</h4>
+              <h5>{{ staff_member.title }}</h5>
+              <p class="article-summary">{{ staff_member.summary }}</p>
+            </div>
+          </div>
+        </div>
+        {% endif %} 
+    {% if remainder == 0 %}
+    </div>
+    {% endif %}
+    {% endfor %}
+    <hr />
+  <div>
+    <h3>SAMENWERKINGSPARTNERS</h3>
+  </div>
+  <div class="row">
+    {% for staff_member in site.staff_members_en %}
+      {%if staff_member.group == "samenwerkingspartner" %}
+    <div class="column-team">
+      <div class="article">
+        <div class="article-head">
+          <a href="{{ site.baseurl }}{{ staff_member.url }}">
+            <img src="{{ site.url }}{{staff_member.image}}" />
+          </a>
+        </div>
+        <div class="article-content">
+          <h4>{{ staff_member.name }}</h4>
+          <h5>{{ staff_member.title }}</h5>
+          <p class="article-summary">{{ staff_member.summary }}</p>
+        </div>
+      </div>
+    </div>
+    {% endif %}
+    {% endfor %}
+ <hr />
+</div>
+    <div>
+    <h3>AlUMNI</h3>
+  </div>
+  <div class="row">
+    {% for staff_member in site.staff_members_en %}
+      {%if staff_member.group == "alumni" %}
+    <div class="column-team">
+      <div class="article">
+        <div class="article-head">
+          <a href="{{ site.baseurl }}{{ staff_member.url }}">
+            <img src="{{ site.url }}{{staff_member.image}}" />
+          </a>
+        </div>
+        <div class="article-content">
+          <h4>{{ staff_member.name }}</h4>
+          <h5>{{ staff_member.title }}</h5>
+          <p class="article-summary">{{ staff_member.summary }}</p>
+        </div>
+      </div>
+    </div>
+    {% endif %}
+    {% endfor %}
+ <hr />
+</div>
+
+{% include bottom-menu.html %}
