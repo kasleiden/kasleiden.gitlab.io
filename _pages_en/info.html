@@ -1,0 +1,78 @@
+---
+layout: default
+title: Home
+---
+
+<div class="feature">
+  {% assign post = site.posts.first %}
+
+  <div class="feature-text movetxt">
+    <!-- <time
+      datetime="{{ post.date | date_to_xmlschema }}"
+      class="feature-post-date"
+      >{{ post.date | date_to_string }}</time
+    > -->
+    <h1 class="feature-title"></h1>
+    <div class="feature-subtitle">
+    </div>
+  </div>
+  <!-- <a class="feature-link" href="{{ site.baseurl }}{{ post.url }}">
+    <div id="readnow">Read Now</div>
+  </a> -->
+  <div class="layer">
+    <div class="feature-img" style="background-image: url({{site.baseurl}}/img/jf2.jpg);"></div>
+  </div>
+</div>
+
+
+<div class="posts-container">
+  {% for post in site.info_en %}
+  {% assign remainder = forloop.index | modulo: 2 %}
+  {% if remainder == 1 %}
+  <div class="row">
+    {% endif %}
+    <div class="column">
+      <div class="article">
+        <div class="article-head">
+          <a href="{{ site.baseurl }}{{ post.url }}">
+            <img src="{{ site.url }}{{post.image}}" />
+          </a>
+        </div>
+        <div class="article-content">
+          <h4>{{post.title}}</h4>
+          <p>{{post.summary}}</p>
+        </div>
+      </div>
+    </div>
+    {% if remainder == 0 %}
+  </div>
+  {% endif %}
+  {% endfor %}
+</div>
+
+<div class="posts-container">
+  {% for post in site.posts_en %} 
+    {% assign remainder = forloop.index | modulo: 2 %}
+    {% if remainder == 1 %}
+    <div class="row">
+    {% endif %}
+    <div class="column">
+      <div class="article">
+        <div class="article-head">
+            <a href="{{ site.baseurl }}{{ url }}">
+              <img src="{{ site.url }}{{post.image}}" />
+            </a>
+        </div>
+        <div class="article-content">
+          <h4>{{post.title}}</h4>
+          <p>{{post.summary}}</p>
+        </div>
+      </div>
+    </div>
+    {% if remainder == 0 %}
+    </div>
+    {% endif %}
+  {% endfor %}
+</div>
+
+{% include bottom-menu.html %}
