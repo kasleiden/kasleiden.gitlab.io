@@ -2,11 +2,11 @@
 nameid: anika
 layout: teammember
 name: DR. ANIKA BEXKENS
-title: Hoofd zorg & preventie
+title: verantwoordelijk voor zorg
 group: team
-summary: Anika is medeoprichter van het Kenniscentrum. Ze is hoofdverantwoordelijk voor alle zorg en preventieprogramma's binnen het kenniscentrum. Daarnaast is ze universitair hoofddocent bij de afdeling Ontwikkelings- en Onderwijspychologie aan de Universiteit Leiden en klinisch psycholoog bij GGZ Delftland.
+summary: Anika is verantwoordelijk voor alle zorg binnen het kenniscentrum en is medeoprichter van het Kenniscentrum. verantwoordelijk voor alle zorg binnen het kenniscentrum. Daarnaast is ze universitair hoofddocent bij de afdeling Ontwikkelings- en Onderwijspychologie aan de Universiteit Leiden en klinisch psycholoog bij GGZ Delftland.
 permalink: /team/anika
 image: /img/Anika.jpg
 ---
 
-Anika is medeoprichter van het Kenniscentrum. Ze is hoofdverantwoordelijk voor alle zorg en preventieprogramma's binnen het kenniscentrum. Daarnaast is ze universitair hoofddocent bij de afdeling Ontwikkelings- en Onderwijspychologie aan de Universiteit Leiden en klinisch psycholoog bij GGZ Delftland.
+Anika is verantwoordelijk voor alle zorg binnen het kenniscentrum en is medeoprichter van het Kenniscentrum. verantwoordelijk voor alle zorg binnen het kenniscentrum. Daarnaast is ze universitair hoofddocent bij de afdeling Ontwikkelings- en Onderwijspychologie aan de Universiteit Leiden en klinisch psycholoog bij GGZ Delftland
