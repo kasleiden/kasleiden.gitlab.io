@@ -2,11 +2,11 @@
 nameid: michiel
 layout: teammember
 name: PROF. MICHIEL WESTENBERG
-title: Medeoprichter 
+title: Hoofdverantwoordelijk preventie 
 group: team
-summary: Michiel is medeoprichter van het Kenniscentrum. Daarnaast is hij hoogleraar bij de afdeling Ontwikkelings- en Onderwijspychologie aan de Universiteit Leiden.
+summary: Michiel is hoofdverantwoordelijk voor preventie en medeoprichter van het Kenniscentrum. Daarnaast is hij hoogleraar bij de afdeling Ontwikkelings- en Onderwijspychologie aan de Universiteit Leiden.
 permalink: /team/michiel
 image: /img/Michielnieuw.jpg
 ---
 
-Michiel is medeoprichter van het Kenniscentrum. Daarnaast is hij hoogleraar bij de afdeling Ontwikkelings- en Onderwijspychologie en wetenschappelijk directeur van de opleiding Pyschologie aan de Universiteit Leiden.
+Michiel is hoofdverantwoordelijk voor preventie en medeoprichter van het Kenniscentrum. Daarnaast is hij hoogleraar bij de afdeling Ontwikkelings- en Onderwijspychologie aan de Universiteit Leiden.
