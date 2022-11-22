@@ -2,7 +2,7 @@
 nameid: anke
 layout: teammember
 name: DR. ANKE KLEIN
-title: Dagelijkse leiding kenniscentrum
+title: Dagelijkse leiding
 group: team
 summary: Anke heeft de dagelijkse leiding over het kenniscentrum en is medeoprichter. Daarnaast is ze universitair hoofddocent bij de afdeling Ontwikkelings- en Onderwijspychologie aan de Universiteit Leiden.
 permalink: /team/anke
