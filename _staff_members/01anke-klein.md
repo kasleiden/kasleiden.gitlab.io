@@ -2,9 +2,9 @@
 nameid: anke
 layout: teammember
 name: DR. ANKE KLEIN
-title: Hoofd onderzoek & ontwikkeling
+title: Dagelijkse leiding kenniscentrum
 group: team
-summary: Anke is medeoprichter van het Kenniscentrum. Ze is hoofdverantwoordelijk voor al het onderzoek en ontwikkeling binnen het kenniscentrum. Daarnaast is ze universitair hoofddocent bij de afdeling Ontwikkelings- en Onderwijspychologie aan de Universiteit Leiden.
+summary: Anke heeft de dagelijkse leiding over het kenniscentrum en is medeoprichter. Daarnaast is ze universitair hoofddocent bij de afdeling Ontwikkelings- en Onderwijspychologie aan de Universiteit Leiden.
 permalink: /team/anke
 image: /img/anke2.jpg
 ---
