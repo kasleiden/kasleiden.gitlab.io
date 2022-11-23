@@ -2,7 +2,7 @@
 nameid: marieke
 layout: teammember
 name: DR. MARIEKE BOS
-title: Senior onderzoeker en docent
+title: Head of Education
 group: team
 summary: Marieke werkt werk als universitair docent bij de afdeling Ontwikkelings- en Onderwijspsychologie van het Insituut Psychologie aan de Universiteit Leiden. Haar onderzoek is gericht op het begrijpen van neurobiologische mechanismes die een rol spelen bij het onstaan en het instand houden van mentale problemen tijdens de adolescentie.
 permalink: /team/marieke
