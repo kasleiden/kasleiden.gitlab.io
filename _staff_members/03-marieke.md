@@ -21,7 +21,7 @@ In dit onderzoek richt ze zich specifiek op de rol van puberteitshormonen en hoe
 <br>
 
 #### Links
-[medewerkerspagina Universiteit Leiden](https://www.universiteitleiden.nl/medewerkers/marieke-bos#tab-1)
+[Medewerkerspagina Universiteit Leiden](https://www.universiteitleiden.nl/medewerkers/marieke-bos#tab-1)
 <br>
 <br>
 
