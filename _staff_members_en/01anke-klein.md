@@ -37,7 +37,7 @@ Anke has received several grants with a total value of more than 3.7M euros:
 - 2017 Scholarship to host an international symposium, Radboud University (PI)
 - 2016 Niels Stensen Fellowship (PI)
 - 2016 Project scholarship, Stichting PFGV (CoPI)
-- 2010 Project scholarship for PhD-project Ms. van Niekerk, ZonMw, Radboud University, ProPersona (CoPI)
+- 2010 Project scholarship for PhD project Ms. van Niekerk, ZonMw, Radboud University, ProPersona (CoPI)
 - 2009 Outgoing Mobility Scholarship, Radboud University (PI)
 - 2008, 2012, 2014 Erasmus Mundus Travel Fellowships (PI)
 
@@ -71,10 +71,10 @@ Tel: +31 71 527 6673
 
 <br>
 
-#### links
-[medewerkerspagina Universiteit Leiden](https://www.universiteitleiden.nl/medewerkers/anke-klein#tab-2)
+#### Links
+[Staff page Leiden University](https://www.universiteitleiden.nl/medewerkers/anke-klein#tab-2)
 <br>
-[linkedin profiel](https://www.linkedin.com/in/ankeklein/?originalSubdomain=nl)
+[LinkedIn profile](https://www.linkedin.com/in/ankeklein/?originalSubdomain=nl)
 
 
 
