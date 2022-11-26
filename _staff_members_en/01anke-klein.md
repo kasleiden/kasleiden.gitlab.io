@@ -47,7 +47,7 @@ Anke heeft verschillende beurzen ontvangen met een totale waarde van meer dan 3.
 - Robin Zimmermann  - Specifieke angsten in de kindertijd: De rol van ouders, 2021- nu 
 - Geraly Bijsterbosch - Door de ogen van het kind: Gezichtherkenning vanuit verschillende perspectieven, 2020 - nu
 - Annelieke Hagen -  De combinatie van een-sessie behandeling met een app voor het behandelen van kinderen met een specifieke fobie, 2019 - nu
-- Nine Wolters - Sociale relaties, eenzaamheid, angst en depressie over de gehele levensloop, 2018 - nu
+- Nine Wolters - Sociale relaties, eenzaamheid, angst en depressie over de gehele levensloop (afgerond)
 - Jeanine Baartmans - De rol van klasgenoten en ouders bij kinderen met sociale angst (afgerond)
 - Lynn Mobach - Cognitieve vertekeningen bij kinderen met sociale angst: Meten en behandeluitkomsten (afgerond)
 - Rianne van Niekerk - De rol van ouderlijke angst in de overdracht van angst bij kinderen (afgerond)
@@ -65,9 +65,9 @@ Anke heeft verschillende beurzen ontvangen met een totale waarde van meer dan 3.
 
 #### Contact
 
-email: a.m.klein@fsw.leidenuniv.nl
+E-mail: a.m.klein@fsw.leidenuniv.nl
 
-tel: +31 71 527 6673
+Tel: +31 71 527 6673 
 
 <br>
 
@@ -75,5 +75,6 @@ tel: +31 71 527 6673
 [medewerkerspagina Universiteit Leiden](https://www.universiteitleiden.nl/medewerkers/anke-klein#tab-2)
 <br>
 [linkedin profiel](https://www.linkedin.com/in/ankeklein/?originalSubdomain=nl)
+
 
 
