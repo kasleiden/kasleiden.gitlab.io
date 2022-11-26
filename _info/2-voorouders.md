@@ -68,7 +68,7 @@ We hebben twee soorten trainingen:
 <br>
 <br>
 <br>
-##### [Kinderen Bedwingen Angst (KIBA) - Voor kinderen en jongeren van 7 tot en met 14 jaar](https://kasleiden.nl/projects/kiba)
+##### [Kinderen bedwingen Angst (KibA) - Voor kinderen en jongeren van 7 tot en met 14 jaar](https://kasleiden.nl/projects/kiba)
 Voor kinderen en jongeren die erg bang zijn voor bepaalde dieren, dingen of situaties (bijv. spinnen, wespen, de tandarts, overgeven, clowns, honden, bloed).
 
 Wat houdt de training in? <br>
