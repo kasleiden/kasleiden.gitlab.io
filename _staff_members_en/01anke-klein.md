@@ -54,7 +54,7 @@ Anke has received several grants with a total value of more than 3.7M euros:
 
 <br>
 
-#### Registrattions
+#### Registrations
 
 - Basis kwalificatie Onderwijs (BKO)
 - BAPD kwalificatie, Nederlands Instituut voor Psychologen
