@@ -4,17 +4,17 @@ layout: teammember
 name: DR. ANKE KLEIN
 title: Team Lead
 group: team
-summary: Anke is team lead of the Knowlegde center and co-founder. She is also an associate professor at the Department of Development and Educational Psychology at Leiden University.
+summary: Anke is team lead of the knowlegde center and co-founder. She is also an associate professor at the Department of Development and Educational Psychology at Leiden University.
 permalink: /team/anke
 image: /img/anke2.jpg
 ---
 
-#### Kort cv
+#### Short resume 
 
-Anke Klein is universitair hoofddocent bij de afdeling Ontwikkelings-en-Onderwijspsychologie van het Instituut Psychologie aan de Universiteit Leiden.
+Anke Klein is an associate professor at the Department of Development and Educational Psychology at Leiden University.
 
-Ze combineerde de studies Pedagogische Wetenschappen en Psychologie en behaalde drie Master titels in de Klinische Orthopedagogiek, Ontwikkelingspsychologie en een tweejarige Research Master bij de Radboud Universiteit. Ze behaalde haar PhD, Cum Laude, over angst bij kinderen aan dezelfde universiteit (Promotoren: Prof. Mike Rinck, Prof. Eni Becker, Prof Susan Bögels). Tijdens haar PhD project werkte ze intensief samen met Prof. Ron Rapee en Prof. Jennifer Hudson en hun groep. Ze werkte een deel van haar tijd in hun lab in het Centre for Emotional Health, Macquarie University, Sydney, Australië.
-Na haar promotie werkte ze als postdoc aan de Universiteit van Amsterdam waar ze samen met Prof. Reinout Wiers en Dhr. Peter Vonk een groot project leidde naar de effectiviteit van een online CGT-behandeling voor studenten met angst en/of depressieve klachten. In 2016 ontving ze een Niels Stensen Fellowship waarmee ze twee jaar aan de Ruhr Universiteit Bochum in Duitsland werkte in het lab van Prof. Silvia Schneider. In 2018 ontving Anke een prestigieuze 5-jarige ZonMw postdoc fellowship om haar eigen onderzoekslijn en onderzoeksgroep op het gebied van angst bij kinderen verder vorm te geven. In 2019 kwam Anke naar Leiden waar ze samenwerkt met de groep van Michiel Westenberg.
+She combined her studies in Pedagogical Sciences and Psychology and obtained three Master's degrees in Clinical Orthopedagogy, Developmental Psychology and a two-year Research Master's degree at Radboud University. She obtained her PhD, Cum Laude, on childhood anxiety from the same university (Promoters: Prof. Mike Rinck, Prof. Eni Becker, Prof. Susan Bögels). During her PhD project she worked intensively with Prof. Ron Rapee and Prof. Jennifer Hudson and their group. She spent part of her time working in their lab at the Center for Emotional Health, Macquarie University, Sydney, Australia.
+After obtaining her PhD, she worked as a postdoc at the University of Amsterdam, where she worked together with Prof. Reinout Wiers and Mr. Peter Vonk on a major project to support the effectiveness of an online CBT treatment for students with anxiety and/or depressive symptoms. In 2016 she received a Niels Stensen Fellowship with which she worked for two years at the Ruhr University Bochum in Germany in the lab of Prof. Silvia Schneider. In 2018, Anke received a prestigious 5-year ZonMw postdoc fellowship to further shape her own research line and research group in the field of anxiety in children. In 2019, Anke came to Leiden where she collaborates with Michiel Westenberg's group.
 
 <br>
 
