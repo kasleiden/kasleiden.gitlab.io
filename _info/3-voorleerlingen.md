@@ -5,7 +5,7 @@ summary: Informatie en aanbod voor leerlingen
 permalink: /info/training-voorleerlingen
 category: info
 image: /img/spil4.jpg
-members: [leone, michiel, anika, anke]
+members: [michiel, anika, anke]
 ---
 
 ### Wat is angst? 
@@ -50,7 +50,7 @@ We hebben twee soorten trainingen:
 
 
 #### [In Je Sas! - Voor jongeren van 12 tot en met 17 jaar](https://kasleiden.nl/projects/sas)
-Voor jongeren met sociale angst die last hebben van verlegenheid (bijv. moeite om voor de klas te spreken, met vrienden af te spreken of nieuwe vrienden te maken)
+Voor jongeren met sociale angst die last hebben van verlegenheid (bijv. moeite om voor de klas te spreken, met vrienden af te spreken of nieuwe vrienden te maken).
 
 Wat houdt de training in? <br>
 12 wekelijkse bijeenkomsten, na schooltijd in een groep. 
