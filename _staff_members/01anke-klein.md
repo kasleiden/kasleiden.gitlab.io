@@ -67,7 +67,7 @@ Anke heeft verschillende beurzen ontvangen met een totale waarde van meer dan 3.
 
 E-mail: a.m.klein@fsw.leidenuniv.nl
 
-Tel: +31 71 527 6673
+Tel: +31 71 527 6673 
 
 <br>
 
