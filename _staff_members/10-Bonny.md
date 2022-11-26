@@ -4,8 +4,8 @@ layout: teammember
 name: BONNY VAN STEENSEL
 title: Universitair docent
 group: samenwerkingspartner
-summary: 
-permalink: /team/mariska
+summary: Bonny van Steensel is universitair docent bij de afdeling Pedagogische Wetenschappen (Orthopedagogiek) aan de Universiteit van Amsterdam.
+permalink: /team/bonny
 image: /img/foto_bonny.jpg
 ---
 
