@@ -2,9 +2,9 @@
 nameid: anke
 layout: teammember
 name: DR. ANKE KLEIN
-title: Team lead
+title: Team Lead
 group: team
-summary: Anke team lead of the Knowlegde center and co-founder. Daarnaast is ze universitair hoofddocent bij de afdeling Ontwikkelings- en Onderwijspychologie aan de universiteit Leiden.
+summary: Anke is team lead of the Knowlegde center and co-founder. She is also an associate professor at the Department of Development and Educational Psychology at Leiden University.
 permalink: /team/anke
 image: /img/anke2.jpg
 ---
@@ -18,43 +18,43 @@ Na haar promotie werkte ze als postdoc aan de Universiteit van Amsterdam waar ze
 
 <br>
 
-#### Beurzen
+#### Scholarships
 
-Anke heeft verschillende beurzen ontvangen met een totale waarde van meer dan 3.7M euro:
+Anke has received several grants with a total value of more than 3.7M euros:
 
-- 2020 IIE Scholar Rescue Fund toegekend aan Dr. Uysal (Supervisor)
-- 2019 Hestia beurs, NWO (PI)
+- 2020 IIE Scholar Rescue Fund awarded to Dr. Uysal (Supervisor)
+- 2019 Hestia scholarship, NWO (PI)
 - 2019 Incoming Visitor’s Travel Grant, NWO (PI)
-- 2019 Reisbeurs, Radboud Universiteit (PI)
-- 2018 Individuele Postdoc Fellowship, ZonMw (PI)
-- 2018 Joint-PhD fellowship voor Ms. Wolters in samenwerking met Universiteit van Amsterdam en Macquarie University (PI)
-- 2018 Projectbeurs voor PhD project Ms. Baartmans, Universiteit van Amsterdam, UvAminds (CoPI)
+- 2019 Travel scholarship, Radboud University(PI)
+- 2018 Individual Postdoc Fellowship, ZonMw (PI)
+- 2018 Joint-PhD fellowship for Ms. Wolters, a collaboration with University of Amsterdam and Macquarie University (PI)
+- 2018 Project scholarship for PhD project Ms. Baartmans, University of Amsterdam, UvAminds (CoPI)
 - 2017 Distinguished Women Scientists Fund, LNVH (PI)
 - 2017 Van der Gaag Early Career Scientist Fund, KNAW (PI)
-- 2017 Visiting Fellowship voor Prof. Rapee, Radboud Universiteit (PI)
-- 2017 Projectbeurs, Universiteit van Amsterdam (CoPI)
-- 2017 Joint-PhD fellowship voor Ms. Mobach in samenwerking met Radboud Universiteit en Macquarie University (PI)
-- 2017 Beurs om een internationaal symposium te organiseren, Radboud Universiteit (PI)
+- 2017 Visiting Fellowship for Prof. Rapee, Radboud Universiteit (PI)
+- 2017 Project scholarship, University of Amsterdam (CoPI)
+- 2017 Joint-PhD fellowship for Ms. Mobach, a collaboration with Radboud University and Macquarie University (PI)
+- 2017 Scholarship to host an international symposium, Radboud University (PI)
 - 2016 Niels Stensen Fellowship (PI)
-- 2016 Projectbeurs, Stichting PFGV (CoPI)
-- 2010 Projectbeurs voor PhD-project Ms. van Niekerk, ZonMw, Radboud Universiteit, ProPersona (CoPI)
-- 2009 Outgoing Mobility Scholarship, Radboud Universiteit (PI)
+- 2016 Project scholarship, Stichting PFGV (CoPI)
+- 2010 Project scholarship for PhD-project Ms. van Niekerk, ZonMw, Radboud University, ProPersona (CoPI)
+- 2009 Outgoing Mobility Scholarship, Radboud University (PI)
 - 2008, 2012, 2014 Erasmus Mundus Travel Fellowships (PI)
 
 <br>
   
-#### Begeleiding promovendi
-- Robin Zimmermann  - Specifieke angsten in de kindertijd: De rol van ouders, 2021- nu 
-- Geraly Bijsterbosch - Door de ogen van het kind: Gezichtherkenning vanuit verschillende perspectieven, 2020 - nu
-- Annelieke Hagen -  De combinatie van een-sessie behandeling met een app voor het behandelen van kinderen met een specifieke fobie, 2019 - nu
-- Nine Wolters - Sociale relaties, eenzaamheid, angst en depressie over de gehele levensloop (afgerond)
-- Jeanine Baartmans - De rol van klasgenoten en ouders bij kinderen met sociale angst (afgerond)
-- Lynn Mobach - Cognitieve vertekeningen bij kinderen met sociale angst: Meten en behandeluitkomsten (afgerond)
-- Rianne van Niekerk - De rol van ouderlijke angst in de overdracht van angst bij kinderen (afgerond)
+#### Supervision of PhD candidates
+- Robin Zimmermann  - Specific fears in childhood: The role of parents, 2021- now
+- Geraly Bijsterbosch - Through the eyes of the child: Face recognition from different perspectives, 2020 - now
+- Annelieke Hagen -  Combining one-session treatment with an app for treating children with a specific phobia, 2019 - now
+- Nine Wolters - Social relationships, loneliness, anxiety and depression over the life course (completed)
+- Jeanine Baartmans - The role of classmates and parents in children with social anxiety (completed)
+- Lynn Mobach - Cognitive distortions in children with social anxiety: Measurement and treatment outcomes (completed)
+- Rianne van Niekerk - The role of parental anxiety in the transmission of anxiety in children (completed)
 
 <br>
 
-#### Registraties
+#### Registrattions
 
 - Basis kwalificatie Onderwijs (BKO)
 - BAPD kwalificatie, Nederlands Instituut voor Psychologen
