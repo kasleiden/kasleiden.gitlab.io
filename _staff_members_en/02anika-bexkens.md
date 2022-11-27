@@ -4,11 +4,11 @@ layout: teammember
 name: DR. ANIKA BEXKENS
 title: Head Healthcare
 group: team
-summary: Anika is medeoprichter van het Kenniscentrum. Ze is hoofdverantwoordelijk voor alle zorg en preventieprogramma's binnen het kenniscentrum. Daarnaast is ze universitair hoofddocent bij de afdeling Ontwikkelings- en Onderwijspychologie aan de universiteit Leiden en klinisch psycholoog bij GGZ Delfland.
+summary: Anika is a co-founder of the knowledge center. She is primarily responsible for all care and prevention programs within the knowledge center. She is also an associate professor at the Department of Developmental and Educational Psychology at Leiden University and a clinical psychologist at GGZ Delfland.
 image: /img/Anika.jpg
 ---
 
-Anika is medeoprichter van het Kenniscentrum. Ze is hoofdverantwoordelijk voor alle zorg en preventieprogramma's binnen het kenniscentrum. Daarnaast is ze universitair hoofddocent bij de afdeling Ontwikkelings- en Onderwijspychologie aan de universiteit Leiden en klinisch psycholoog bij GGZ Delfland.
+Anika is a co-founder of the knowledge center. She is primarily responsible for all care and prevention programs within the knowledge center. She is also an associate professor at the Department of Developmental and Educational Psychology at Leiden University and a clinical psychologist at GGZ Delfland.
 
 <br>
 
@@ -23,4 +23,4 @@ Tel: +31 71 527 6566
 #### Links
 [Staff member page Leiden University](https://www.universiteitleiden.nl/en/staffmembers/anika-bexkens#tab-1)
 <br>
-[LinkedIn profile](https://www.linkedin.com/in/anikabexkens/?originalSubdomain=nl)
+[LinkedIn profile](https://www.linkedin.com/in/anikabexkens/?originalSubdomain=nl) 
