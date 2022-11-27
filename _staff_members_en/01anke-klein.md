@@ -9,7 +9,7 @@ permalink: /team/anke
 image: /img/anke2.jpg
 ---
 
-#### Short resume  
+#### Short resume
 
 Anke Klein is an associate professor at the Department of Development and Educational Psychology at Leiden University.
 
@@ -75,6 +75,5 @@ Tel: +31 71 527 6673
 [Staff member Leiden University](https://www.universiteitleiden.nl/en/staffmembers/anke-klein#tab-1)
 <br>
 [LinkedIn](https://www.linkedin.com/in/ankeklein/?originalSubdomain=nl)
-
 
 
