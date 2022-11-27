@@ -30,7 +30,7 @@ Tel : +31 71 527 6624
 #### Links
 [Medewerkerspagina Universiteit Leiden](https://www.universiteitleiden.nl/medewerkers/marieke-bos#tab-1)
 <br>
-[LinkedIn profiel](https://www.linkedin.com/in/marieke-bos-29626817/)
+[LinkedIn](https://www.linkedin.com/in/marieke-bos-29626817/)
 
 
 
