@@ -12,16 +12,16 @@ image: /img/marieke.jpg
 
 
 #### Short resume
-Marieke werkt werk als universitair docent bij de afdeling Ontwikkelings- en Onderwijspsychologie van het Insituut 
-Psychologie aan de Universiteit Leiden. Haar onderzoek is gericht op het begrijpen van neurobiologische mechanismes die een rol spelen bij het 
-onstaan en het instand houden van mentale problemen tijdens de adolescentie. Om dit grote vraagstuk beter te begrijpen maakt ze gebruik van allerlei 
-verschillende methodes en technieken, waaronder hersenscans (MRI) en hormonen (puberteitshormonen zoals estradiol en testosteron). 
+Marieke works as an associate professor in the Department of Developmental and Educational Psychology at the Insit. 
+Psychology at Leiden University. Her research focuses on understanding neurobiological mechanisms that play a role in the 
+emergence and maintenance of mental problems during adolescence. To better understand this major issue, she uses a variety of 
+different methods and techniques, including brain scans (MRI) and hormones (puberty hormones such as estradiol and testosterone). 
 <br>
 <br>
-Eén van de onderzoeksvragen die ze de komende periode wil beantwoorden is waarom angstproblemen tijdens de adolescentie meer voorkomt bij meisjes dan bij jongens. 
-In dit onderzoek richt ze zich specifiek op de rol van puberteitshormonen en hoe angst wordt aangeleerd en uitgedoofd. 
+One of the research questions she plans to answer in the coming term is why anxiety problems during adolescence are more common in girls than in boys. 
+In this research, she focuses specifically on the role of pubertal hormones and how anxiety is learned and extinguished. 
 <br>
-<br>
+<br> 
 
 
 #### Contact
