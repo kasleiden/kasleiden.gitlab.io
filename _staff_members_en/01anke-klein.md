@@ -5,6 +5,7 @@ name: DR. ANKE KLEIN
 title: Team Lead
 group: team
 summary: Anke is team lead of the knowlegde center and co-founder. She is also an associate professor at the Department of Development and Educational Psychology at Leiden University.
+permalink: /team/anke
 image: /img/anke2.jpg
 ---
 
@@ -71,9 +72,9 @@ Tel: +31 71 527 6673
 <br>
 
 #### Links
-[Staff member page Leiden University](https://www.universiteitleiden.nl/en/staffmembers/anke-klein#tab-1)
+[Staff member Leiden University](https://www.universiteitleiden.nl/en/staffmembers/anke-klein#tab-1)
 <br>
-[LinkedIn profile](https://www.linkedin.com/in/ankeklein/?originalSubdomain=nl)
+[LinkedIn](https://www.linkedin.com/in/ankeklein/?originalSubdomain=nl)
 
 
 
