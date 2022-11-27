@@ -17,11 +17,11 @@ Psychology at Leiden University. Her research focuses on understanding neurobiol
 emergence and maintenance of mental problems during adolescence. To better understand this major issue, she uses a variety of 
 different methods and techniques, including brain scans (MRI) and hormones (puberty hormones such as estradiol and testosterone). 
 <br>
-<br>
+<br> 
 One of the research questions she plans to answer in the coming term is why anxiety problems during adolescence are more common in girls than in boys. 
 In this research, she focuses specifically on the role of pubertal hormones and how anxiety is learned and extinguished. 
 <br>
-<br> 
+<br>  
 
 
 #### Contact
