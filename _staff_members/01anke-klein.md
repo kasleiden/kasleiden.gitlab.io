@@ -73,6 +73,6 @@ Tel: +31 71 527 6673
 #### Links
 [Medewerkerspagina Universiteit Leiden](https://www.universiteitleiden.nl/medewerkers/anke-klein#tab-2)
 <br>
-[LinkedIn profiel](https://www.linkedin.com/in/ankeklein/?originalSubdomain=nl)
+[LinkedIn](https://www.linkedin.com/in/ankeklein/?originalSubdomain=nl)
 
 
