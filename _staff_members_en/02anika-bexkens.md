@@ -24,4 +24,4 @@ Tel: +31 71 527 6566
 #### Links
 [Staff member page Leiden University](https://www.universiteitleiden.nl/en/staffmembers/anika-bexkens#tab-1)
 <br>
-[LinkedIn profile](https://www.linkedin.com/in/anikabexkens/?originalSubdomain=nl)
+[LinkedIn profile](https://www.linkedin.com/in/anikabexkens/?originalSubdomain=nl) 
