@@ -5,7 +5,6 @@ name: JASMIN RAHEMENIA
 title: Assistent KIBA
 group: team
 summary: Jasmin is student assistent bij het KIBA project.
-permalink: /team/jasmin
 image: /img/jasmin.jpg
 ---
 

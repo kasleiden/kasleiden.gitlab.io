@@ -5,7 +5,6 @@ name: DR. ANNE MIERS
 title: Senior projectadviseur bij Injesas! en StressLess
 group: team
 summary: Anne is senior projectadviseur bij zowel Injesas! als StressLess en is dagelijkse begeleider van Sara Jakobsson en Simone Vogelaar. Daarnaast is ze universitair hoofddocent bij de afdeling Ontwikkelings- en Onderwijspsychologie aan de universiteit Leiden. 
-permalink: /team/anne
 image: /img/anne.jpg
 ---
 

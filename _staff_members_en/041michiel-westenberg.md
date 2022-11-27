@@ -5,7 +5,6 @@ name: PROF. MICHIEL WESTENBERG
 title: Head Prevention
 group: team
 summary: Michiel is medeoprichter van het Kenniscentrum. Daarnaast is hij hoogleraar bij de afdeling ontwikkelings- en onderwijspychologie aan de universiteit Leiden.
-permalink: /team/michiel
 image: /img/Michielnieuw.jpg
 ---
 

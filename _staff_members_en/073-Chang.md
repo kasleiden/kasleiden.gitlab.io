@@ -5,7 +5,6 @@ name: CHANG LIU
 title: junior onderzoeker
 group: team
 summary: Chang is junior onderzoeker bij het Kenniscentrum. Ze doet onderzoek naar vroegsignaleren van angsten en stress bij kinderen met een migratieachtergrond.
-permalink: /team/chang
 image: /img/chang.jpg
 ---
 

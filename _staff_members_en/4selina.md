@@ -5,7 +5,6 @@ name: SELINA BURGARD
 title: Stagiaire KIBA
 group: alumni
 summary: Selina studeert kind- en jeugdpsychologie aan de Universiteit Utrecht en liep stage bij het KIBA-project.
-permalink: /team/selina
 image: /img/selina.jpg
 ---
 

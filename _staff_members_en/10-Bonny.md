@@ -5,7 +5,6 @@ name: BONNY VAN STEENSEL
 title: Universitair docent
 group: samenwerkingspartner
 summary: 
-permalink: /team/mariska
 image: /img/foto_bonny.jpg
 ---
 

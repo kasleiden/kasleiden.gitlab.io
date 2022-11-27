@@ -5,7 +5,6 @@ name: YOLINDA DAVIDSE
 title: Stagiaire KibA
 group: alumni
 summary: Yolinda was masterstudent bij de opleiding School Psychologie aan de Universiteit Leiden en liep stage bij het KibA project.
-permalink: /team/yolinda
 image: /img/yolinda.jpg
 ---
 

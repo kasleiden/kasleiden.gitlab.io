@@ -5,7 +5,6 @@ name: EMMA VAN ERP
 title: Dagelijks projectcoordinator SPIL
 group: alumni
 summary: Emma was dagelijks projectcoördinator op het SPIL-programma.
-permalink: /team/leone
 image: /img/Emma.jpg
 ---
 

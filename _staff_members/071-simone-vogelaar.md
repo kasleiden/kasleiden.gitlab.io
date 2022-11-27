@@ -5,7 +5,6 @@ name: SIMONE VOGELAAR
 title: Dagelijks projectleider Stress Less
 group: team
 summary: Simone is dagelijks projectleider op het Stress Lessen project. Daarnaast is ze junior onderzoeker op het gebied van stress bij de afdeling Ontwikkelings- en Onderwijspsychologie aan de Universiteit Leiden.
-permalink: /team/simone
 image: /img/simone.png
 ---
 

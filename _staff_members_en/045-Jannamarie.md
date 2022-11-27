@@ -5,7 +5,6 @@ name: DR. JANNA MARIE BAS-HOOGENDAM
 title: Senior onderzoeker
 group: team
 summary: Janna Marie is docent en onderzoeker bij de afdeling onderwijs en ontwikkelingspsychologie en gespecialiseerd in hoe angst binnen families voorkomt.
-permalink: /team/janna
 image: /img/janna.jpg
 ---
 
