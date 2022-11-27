@@ -11,6 +11,13 @@ image: /img/Anika.jpg
 
 Anika is verantwoordelijk voor alle zorg binnen het kenniscentrum en is medeoprichter van het Kenniscentrum. Ze is verantwoordelijk voor alle zorg binnen het kenniscentrum. Daarnaast is ze universitair hoofddocent bij de afdeling Ontwikkelings- en Onderwijspychologie van het Instituut Psychologie aan de Universiteit Leiden en klinisch psycholoog bij GGZ Delftland.
 
+#### Contact
+
+E-mail: a.bexkens@fsw.leidenuniv.nl 
+
+Tel: +31 71 527 6566
+
+<br>
 #### Links
 [Medewerkerspagina Universiteit Leiden](https://www.universiteitleiden.nl/medewerkers/anika-bexkens#tab-1)
 <br>
