@@ -20,13 +20,20 @@ In dit onderzoek richt ze zich specifiek op de rol van puberteitshormonen en hoe
 <br>
 <br>
 
+#### Contact
+
+E-mail: m.g.n.bos@fsw.leidenuniv.nl
+
+Tel : +31 71 527 6624
+
+<br> 
+
 #### Links
 [Medewerkerspagina Universiteit Leiden](https://www.universiteitleiden.nl/medewerkers/marieke-bos#tab-1)
 <br>
-<br>
+[LinkedIn profiel](https://www.linkedin.com/in/marieke-bos-29626817/)
 
-#### Contact
-E-mail: m.g.n.bos@fsw.leidenuniv.nl
-<br>
-Tel : 071 527 6624
+
+
+
 
