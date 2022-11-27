@@ -9,7 +9,7 @@ permalink: /team/anke
 image: /img/anke2.jpg
 ---
 
-#### Short resume 
+#### Short resume  
 
 Anke Klein is an associate professor at the Department of Development and Educational Psychology at Leiden University.
 
