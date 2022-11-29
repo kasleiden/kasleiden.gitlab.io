@@ -11,4 +11,4 @@ image: /img/kiba-logo12.jpg
 
 <br>
 #### Nieuws
-In het najaar zullen nieuwe groepen beginnen: wees snel en meld uw kind alvast aan voor een intake of een kennismakingsgesprek om mee te doen!
+Alle InjeSas! groepen vol op dit moment. De wachtlijst is helaas gesloten op dit moment. 
