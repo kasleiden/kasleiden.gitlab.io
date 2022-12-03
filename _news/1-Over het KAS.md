@@ -9,9 +9,6 @@ image: /img/test1.jpeg
 members: [michiel, anke, anika]
 ---
 
-[Lees hier](/pdf/KAS-Nieuwsbrief-December1.pdf) onze nieuwsbrief van december. 
-<br>
-<br>
 [Vind hier](/pdf/Folder KAS voor onderwijs.pdf) onze algemene folder voor onderwijspersoneel. 
 <br>
 [Vind hier](/pdf/Poster Kiba:KAS.pdf) onze poster over het KibA en InJeSas! programma. 
