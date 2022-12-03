@@ -8,7 +8,3 @@ category: news
 image: /img/kiba-logo2.jpg
 members: [michiel, anke, annelieke]
 ---
-
-[Klik hier](/pdf/kiba flyer.pdf) om de KibA flyer te downloaden
-<br>
-[Klik hier](/pdf/kiba poster.pdf) om de KibA poster te downloaden
