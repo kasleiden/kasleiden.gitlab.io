@@ -2,7 +2,7 @@
 layout: post
 title: Stress Less
 summary: Wat is stress, hoe herken je het en hoe ga je ermee om? Wij onderzoeken stress lessen en vaardigheidstrainingen voor leerlingen. 
-permalink: /projects/stress
+permalink: /en/projects/stress
 category: project
 image: /img/Banner_StressLess.jpg
 members: [michiel, simone]

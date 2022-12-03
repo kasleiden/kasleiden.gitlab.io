@@ -2,7 +2,7 @@
 layout: post
 title: In Je Sas!
 summary: Zie je soms ook zo op tegen het geven van een spreekbeurt, of vind je het lastig om vragen te stellen of te beantwoorden in de klas, misschien is de training In Je Sas! wel iets voor jou!
-permalink: /projects/sas
+permalink: /en/projects/sas
 category: project
 image: /img/kiba-logo12.jpg
 members: [michiel, sara, Dayenne]
