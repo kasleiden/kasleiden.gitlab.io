@@ -7,6 +7,7 @@ project-url: /team
 category: KAS
 image: /img/test1.jpeg
 members: [michiel, anke, anika]
+published: false
 ---
 
 [Vind hier](/pdf/Folder KAS voor onderwijs.pdf) onze algemene folder voor onderwijspersoneel. 
