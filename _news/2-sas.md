@@ -8,7 +8,4 @@ category: news
 image: /img/kiba-logo12.jpg
 ---
 
-
-<br>
-#### Nieuws
 Alle InjeSas! groepen zijn vol op dit moment. De wachtlijst is helaas gesloten op dit moment. 
