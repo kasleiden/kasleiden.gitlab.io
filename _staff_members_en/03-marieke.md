@@ -4,7 +4,7 @@ layout: teammember
 name: DR. MARIEKE BOS
 title: Head of Education
 group: team
-summary: Marieke works as an associate professor in the Department of Developmental and Educational Psychology at Leiden University. Her research focuses on understanding neurobiological mechanisms involved in the onset and maintenance of psychological problems during adolescence.
+summary: Marieke works as an assistant professor in the Department of Developmental and Educational Psychology at Leiden University. Her research focuses on understanding neurobiological mechanisms involved in the onset and maintenance of psychological problems during adolescence.
 permalink: /team/marieke
 image: /img/marieke.jpg
 ---
