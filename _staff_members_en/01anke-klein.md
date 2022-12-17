@@ -2,9 +2,9 @@
 nameid: anke
 layout: teammember
 name: DR. ANKE KLEIN
-title: Team Lead
+title: Daily management
 group: team
-summary: Anke is team lead of the knowlegde center and co-founder. She is also an associate professor at the Department of Development and Educational Psychology at Leiden University.
+summary: Anke is the daily manager of the knowlegde center and co-founder. She is also an associate professor at the Department of Development and Educational Psychology at Leiden University.
 permalink: /team/anke
 image: /img/anke2.jpg
 ---
