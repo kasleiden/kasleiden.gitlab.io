@@ -9,5 +9,5 @@ image: /img/lubec.jpg
 ---
 
  
+[klik hier](https://www.universiteitleiden.nl/sociale-wetenschappen/lubec) om naar de website van het LUBEC te gaan. 
 
-https://www.universiteitleiden.nl/sociale-wetenschappen/lubec
