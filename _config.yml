@@ -4,7 +4,7 @@ permalink: pretty
 # Setup
 title: Kenniscentrum Angst en Stress jeugd
 tagline:
-url: https://kasleiden.nl
+url: https://kasjeugd.nl
 paginate: 1
 baseurl: ""
 analytics_id: UA-72478077-1
@@ -53,7 +53,7 @@ sass:
 # About/contact
 author:
   name: Anke Klein
-  url: http://kasleiden.nl
+  url: http://kasjeugd.nl
   email: kas@fsw.leidenuniv.nl
 
 locales:

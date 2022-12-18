@@ -15,6 +15,6 @@ image: /img/spil4.jpg
 
 
 
-Vanaf 1 september is de openingstijd van onze telefonische hulplijn verruimd! We zijn nu elke werkdag van 9.00 - 17.00 uur bereikbaar voor alle vragen. [Lees meer...](https://kasleiden.nl/en/projects/spil)
+Vanaf 1 september is de openingstijd van onze telefonische hulplijn verruimd! We zijn nu elke werkdag van 9.00 - 17.00 uur bereikbaar voor alle vragen. [Lees meer...](https://kasjeugd.nl/en/projects/spil)
 
 

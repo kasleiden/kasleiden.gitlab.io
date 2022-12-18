@@ -49,7 +49,7 @@ Dan zijn de trainingen van het SPIL-programma missschien iets voor jou.
 We hebben twee soorten trainingen: 
 
 
-#### [In Je Sas! - Voor jongeren van 12 tot en met 17 jaar](https://kasleiden.nl/projects/sas)
+#### [In Je Sas! - Voor jongeren van 12 tot en met 17 jaar](https://kasjeugd.nl/projects/sas)
 Voor jongeren met sociale angst die last hebben van verlegenheid (bijv. moeite om voor de klas te spreken, met vrienden af te spreken of nieuwe vrienden te maken).
 
 Wat houdt de training in? <br>
@@ -66,7 +66,7 @@ We werken ook met een app. Met deze app kan je: <br>
 
 <br> 
 
-#### [Kinderen Bedwingen Angst (KibA) - Voor kinderen en jongeren van 7 tot en met 14 jaar](https://kasleiden.nl/projects/kiba)
+#### [Kinderen Bedwingen Angst (KibA) - Voor kinderen en jongeren van 7 tot en met 14 jaar](https://kasjeugd.nl/projects/kiba)
 Voor kinderen en jongeren die erg bang zijn voor bepaalde dieren, dingen of situaties (bijv. spinnen, wespen, de tandarts, overgeven, clowns, honden, bloed).
 
 Wat houdt de training in? <br>

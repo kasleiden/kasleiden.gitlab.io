@@ -68,7 +68,7 @@ We hebben twee soorten trainingen:
 <br>
 <br>
 <br>
-##### [Kinderen Bedwingen Angst (KIBA) - Voor kinderen en jongeren van 7 tot en met 14 jaar](https://kasleiden.nl/projects/kiba)
+##### [Kinderen Bedwingen Angst (KIBA) - Voor kinderen en jongeren van 7 tot en met 14 jaar](https://kasjeugd.nl/projects/kiba)
 Voor kinderen en jongeren die erg bang zijn voor bepaalde dieren, dingen of situaties (bijv. spinnen, wespen, de tandarts, overgeven, clowns, honden, bloed)
 
 Wat houdt de training in? <br>
@@ -81,7 +81,7 @@ De training bestaat o.a. uit: <br>
 <br>
 <br>
 <br>
-##### [In Je Sas! - Voor jongeren van 12 tot en met 17 jaar](https://kasleiden.nl/projects/sas)
+##### [In Je Sas! - Voor jongeren van 12 tot en met 17 jaar](https://kasjeugd.nl/projects/sas)
 Voor jongeren met sociale angst die last hebben van verlegenheid (bijv. moeite om voor de klas te spreken, met vrienden af te spreken of nieuwe vrienden te maken)
 
 Wat houdt de training in? <br>
@@ -101,4 +101,4 @@ We werken ook met een app. Met deze app kan je: <br>
 #### Ondersteuning voor scholen 
 
 Leraren en zorgmedewerkers in en rond de school kunnen veel betekenen voor leerlingen met angst.<br>
-Wij bieden hen verschillende vormen van ondersteuning, zoals een telefonische hulplijn waar zij met vragen over angst terecht kunnen. Ook verzorgen we presentaties en workshops voor scholen. Wijs de school van je kind gerust op ons [aanbod voor scholen](https://kasleiden.nl/info/training). 
+Wij bieden hen verschillende vormen van ondersteuning, zoals een telefonische hulplijn waar zij met vragen over angst terecht kunnen. Ook verzorgen we presentaties en workshops voor scholen. Wijs de school van je kind gerust op ons [aanbod voor scholen](https://kasjeugd.nl/info/training). 
