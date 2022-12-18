@@ -5,7 +5,7 @@ summary: Vanaf september 2023 starten we elk kwartaal een nieuwe <b>Leer te durv
 permalink: /news/leertedurven
 project-url: /projects/leertedurven
 category: news
-image: /img/leertedurven.png
+image: /img/leertedurven1.jpg
 members: [michiel, anke, marieke, anika]
 ---
 
