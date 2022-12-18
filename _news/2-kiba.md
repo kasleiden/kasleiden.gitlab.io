@@ -5,6 +5,6 @@ summary: Heeft uw kind last van een specifiek angst, bijvoorbeeld een angst voor
 permalink: /news/kiba
 project-url: /projects/kiba
 category: news
-image: /img/kiba-logo2.jpg
+image: /img/kiba22.jpg
 members: [michiel, anke, annelieke]
 ---
