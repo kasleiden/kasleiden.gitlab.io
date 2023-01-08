@@ -8,8 +8,7 @@ image: /img/kiba-logo2.jpg
 members: [michiel, anke, annelieke, recep, yolinda, amal, jasmin, merel]
 ---
 
-# Kids Beat Anxiety - the KibA project
-Do you suffer from a specific anxiety, for example the fear of dogs, heights, injections, thunder, the dark, spiders or other animals? If so, the KiBA training might be something for you!
+Do you suffer from a specific anxiety, for example the fear of dogs, heights, injections, thunder, the dark, spiders or other animals? If so, the KibA training might be something for you!
 
 <br>
 
@@ -23,12 +22,10 @@ Children between the age of 7 – 14 can go to five different locations in the N
 
 <br> 
 
-
 #### About the training
 In this project, we investigate whether we can improve the treatment of specific phobias for children with the help of a practice program at home. We compare a training program using a mobile app – supported by a therapist – with a program with instructions from the therapist. A lottery allocates your child to one of the practice programs. When you and your child participate in this project you will visit one of the participating institutions a total of seven times. Participation is free.
 During the training the children will form a team with their therapist to conquer their fear. Your child will learn a lot about the situations he/she is afraid of and will learn how to better cope with this fear. Step by step the children practice conquering their fears and being in control of difficult situations. 
  
-
 <br> 
 
 #### More information of signing up?
