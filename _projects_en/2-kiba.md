@@ -5,7 +5,7 @@ summary: Do you suffer from a specific anxiety, for example the fear of dogs, he
 permalink: /en/projects/kiba
 category: project
 image: /img/kiba-logo2.jpg
-members: [michiel, anke, annelieke, recep, yolinda, amal, jasmin, merel]
+members: [michiel, anke, annelieke, jasmin, amber, merel, britt, laura]
 ---
 
 Do you suffer from a specific anxiety, for example the fear of dogs, heights, injections, thunder, the dark, spiders or other animals? If so, the KibA training might be something for you!
