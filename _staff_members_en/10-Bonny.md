@@ -1,7 +1,7 @@
 ---
 nameid: bonny
 layout: teammember
-name: BONNY VAN STEENSEL
+name: DR. BONNY VAN STEENSEL
 title: Universitair docent
 group: samenwerkingspartner
 summary: 
