@@ -12,15 +12,13 @@ members: [michiel, anke, annelieke, jasmin, amber, merel, britt, laura]
 <b>Heeft uw kind last van een specifiek angst, bijvoorbeeld een angst voor honden, hoogtes, injecties, onweer, het donker, spinnen of andere dieren? Dan is het KibA programma misschien wel iets voor hem of haar! </b>
 
 <br>
-<br>
 
 #### Achtergrond
 Kinderen met een specifieke fobie zijn heel bang voor bepaalde voorwerpen, dieren of situaties. Sommige kinderen zijn bijvoorbeeld erg bang voor spinnen, honden, wespen, harde geluiden, het krijgen van een prik, hoogtes of kleine ruimtes. Veel kinderen hebben last van een specifieke fobie, en dat kan het leven thuis, op school en daarbuiten best moeilijk maken. 
-<br> 
+
 
 Samen met een groot internationaal team hebben we het KibA programma ontwikkeld om kinderen met een specifieke fobie zo goed mogelijk te kunnen helpen. Met het KibA programma onderzoeken we of we de behandeling van kinderen met een specifieke fobie nog verder kunnen verbeteren met behulp van een oefenprogramma. Binnen dit onderzoek bieden we een behandeling aan waarvan we al weten dat deze voor de meeste kinderen met een specifieke fobie goed helpt.
 
-<br> 
 <br>
 
 #### Voor wie?
@@ -32,14 +30,12 @@ Het KibA programma is er voor alle kinderen met een specifieke fobie tussen de 7
 - <b> Overige</b>: clowns, ballonnen, geesten, spoken, knopen
 
 <br>
-<br>
 
 #### Over het KibA programma
 In dit project willen we uitzoeken of we de behandeling voor specifieke fobieën bij kinderen nog verder kunnen verbeteren met behulp van een oefenprogramma voor thuis. We vergelijken een trainingsprogramma met een mobiele app – ondersteund door een therapeut - met een programma met instructies van de therapeut. Er wordt geloot welk oefenprogramma uw kind krijgt. Wanneer u en uw kind meedoen aan dit onderzoek, komen jullie in totaal 7 keer naar één van de deelnemende instellingen. Deelname is gratis.
 
 Tijdens de training vormen de kinderen een team met hun therapeut om hun angst te overwinnen. Uw kind leert veel over de situaties waar hij/zij bang voor is en leert beter met deze angst om te gaan. Stap voor stap oefenen de kinderen met het overwinnen van hun angst en het de baas worden van moeilijke situaties. 
 
-<br> 
 <br>
 
 #### Waar draait het KibA programma en wat kost het?
@@ -66,8 +62,7 @@ Behandeling voor kinderen met een specifieke fobie en dus ook het KibA programma
 - Utrecht West<br>
 - Zaanstreek- Waterland
 - Woont u in een andere gemeente en wilt u toch graag meedoen? Bel ons gerust. Soms kunnen de instellingen waarmee wij samenwerken afspraken maken met de gemeente waar u woont. U kunt hierover contact met ons opnemen.
-<br>
-<br>
+
 <br>
 
 #### Meer informatie of aanmelden?
@@ -84,5 +79,5 @@ E-Mail: kiba@fsw.leidenuniv.nl
 <br>
 <br>
 <br>
-<br>
+
 
