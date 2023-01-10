@@ -4,7 +4,7 @@ title: Voor leerlingen
 summary: Informatie en aanbod voor leerlingen
 permalink: /info/training-voorleerlingen
 category: info
-image: /img/spil4.jpg
+image: /img/spil4.jpg /img/spil4.jpg
 members: [michiel, anika, anke]
 ---
 
@@ -43,10 +43,7 @@ Ben je soms erg bang? Of ben je vaak bang? Kijk of deze website voor informatie,
 
 Veel kinderen en jongeren hebben weleens last van stress en angstige gevoelens. 
 Jij ook? En wil jij hier graag minder last van hebben? 
-Dan zijn de trainingen van het SPIL-programma missschien iets voor jou. 
-<br>
-
-We hebben twee soorten trainingen: 
+Dan zijn de trainingen van het SPIL-programma missschien iets voor jou. We hebben twee soorten trainingen: 
 
 
 #### [In Je Sas! - Voor jongeren van 12 tot en met 17 jaar](https://kasjeugd.nl/projects/sas)
@@ -64,7 +61,6 @@ We werken ook met een app. Met deze app kan je: <br>
 •	Inzicht krijgen in je gedachten, gedrag en gevoelens <br>
 •	Steun krijgen van de trainers en groepsleden gedurende de week <br>
 
-<br> 
 
 #### [Kinderen Bedwingen Angst (KibA) - Voor kinderen en jongeren van 7 tot en met 14 jaar](https://kasjeugd.nl/projects/kiba)
 Voor kinderen en jongeren die erg bang zijn voor bepaalde dieren, dingen of situaties (bijv. spinnen, wespen, de tandarts, overgeven, clowns, honden, bloed).
