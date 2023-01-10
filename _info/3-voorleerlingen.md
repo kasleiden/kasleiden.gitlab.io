@@ -65,7 +65,7 @@ We werken ook met een app. Met deze app kan je: <br>
 #### [Kinderen Bedwingen Angst (KibA) - Voor kinderen en jongeren van 7 tot en met 14 jaar](https://kasjeugd.nl/projects/kiba)
 Voor kinderen en jongeren die erg bang zijn voor bepaalde dieren, dingen of situaties (bijv. spinnen, wespen, de tandarts, overgeven, clowns, honden, bloed).
 
-Wat houdt de training in? <br>
+Wat houdt de training in? <br> 
 7 individuele afspraken, samen met je ouders. Je vormt een team met je trainer om je angst te overwinnen. 
 
 De training bestaat o.a. uit: <br>
