@@ -1,8 +1,8 @@
 ---
 nameid: 
 layout: teammember
-name: 
-title: 
+name: Samenwerkingsverband
+title: Samenwerkingsverband Leiden
 group: collaborators
 summary: 
 image: 
