@@ -6,7 +6,7 @@ permalink: /news/kiba
 project-url: /projects/coollittlekids
 category: news
 image: /img/banner CLK.png
-members: [michiel, anke, annelieke, recep, yolinda, amal, fabienne]
+members: [michiel, anke, leonie, nina]
 ---
 
 
