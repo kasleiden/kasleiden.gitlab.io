@@ -36,7 +36,6 @@ Op zoek naar een luisterend oor? Op deze website vind je verschillende organisat
 #### [Bibbers - voor kinderen](https://bibbers.nl/)
 Ben je soms erg bang? Of ben je vaak bang? Kijk of deze website voor informatie, tips en oefeningen. 
 
-
 <br>
 
 ### Wat kan het Kenniscentrum Angst & Stress bij Jeugd voor mij doen?  
