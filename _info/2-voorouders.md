@@ -98,7 +98,7 @@ We werken ook met een app. Met deze app kan je: <br>
 
 <br>
 <br>
-#### Ondersteuning voor scholen 
+#### Ondersteuning voor scholen
 
 Leraren en zorgmedewerkers in en rond de school kunnen veel betekenen voor leerlingen met angst. Wij bieden hen verschillende vormen van ondersteuning, zoals een telefonische hulplijn waar zij met vragen over angst terecht kunnen. Ook verzorgen we presentaties en workshops voor scholen. Wijs de school van je kind gerust op ons [aanbod voor scholen](https://kasjeugd.nl/info/training). 
 
