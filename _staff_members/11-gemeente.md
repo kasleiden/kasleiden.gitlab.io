@@ -4,7 +4,7 @@ layout: teammember
 name: Gemeente Leiden
 title: Gemeente Leiden
 group: samenwerkingspartner
-summary: Gemeente Leiden
+summary: 
 image: /img/gemeente.png 
 ---
 
