@@ -5,7 +5,7 @@ name: LUBEC
 title: Leids Universitair Behandel en Expertise Centrum 
 group: samenwerkingspartner
 summary: Waar diagnostiek en behandeling hand in hand gaan met wetenschappelijk onderzoek, academisch onderwijs en post-masteropleidingen
-image: /img/lubec.jpg
+image: /img/lubec.jpg 
 ---
 
  
