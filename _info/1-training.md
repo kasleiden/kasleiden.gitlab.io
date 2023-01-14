@@ -64,6 +64,6 @@ Wij verzorgen korte presentaties (10-15 min) over angst bij leerlingen en over o
 <br>
 #### Workshops
 
-Vanaf het voorjaar 2021 organiseren we met enige regelmatig workshops voor leraren, IB'ers en ondersteuningscoördinatoren. Houd onze website en nieuwsbrief in de gaten voor de data en meer informatie, of maak je interesse alvast kenbaar via kas@fsw.leidenuniv.nl. 
+Vanaf het voorjaar 2021 organiseren we met enige regelmatig workshops voor leraren, IB'ers en ondersteuningscoördinatoren. Houd onze website en nieuwsbrief in de gaten voor de data en meer informatie, of maak je interesse alvast kenbaar via kas@fsw.leidenuniv.nl.  
 
 
