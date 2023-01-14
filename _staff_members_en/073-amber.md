@@ -9,4 +9,3 @@ image: /img/amber.jpg
 ---
 
 Amber is student assistent bij het KibA project. 
-
