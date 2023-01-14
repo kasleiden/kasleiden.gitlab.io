@@ -9,3 +9,4 @@ image: /img/bianca.jpg
 ---
 
 Bianca is senior adviseur bij het kenniscentrum en gz-psycholoog. Daarnaast is ze universitair docent bij de afdeling Ontwikkelings- en Onderwijspychologie aan de Universiteit Leiden.
+
