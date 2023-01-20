@@ -57,22 +57,21 @@ Radio LEF (Leiden Education Fieldlab) made a podcast about our SPIL-program: [li
 
 ### What can the Knowledge Center for Anxiety & Stress in Youth do for me?
 
-#### Trainingen voor kinderen en jongeren  
-Heeft je zoon of dochter last van stress en angstige gevoelens en zou hij of zij hier graag minder last van hebben of maak je je als ouder zorgen? 
-Misschien zijn de trainingen van het SPIL-programma is voor hem of haar. 
+#### Training for children and youth
+Does your son or daughter suffer from stress and anxious feelings and would he or she like to suffer less from this or are you worried as a parent? Perhaps the training sessions of the SPIL-program are for him or her.
 <br>
-Meer weten? Neem voor vragen of aanmelden contact met ons op via kas@fsw.leidenuniv.nl. 
+Would you like more information? For questions or registration, please contact us at kas@fsw.leidenuniv.nl.
 <br>
 
-We hebben twee soorten trainingen: 
+We have two types of training:
 <br>
 <br>
 <br>
-##### [Kinderen Bedwingen Angst (KIBA) - Voor kinderen en jongeren van 7 tot en met 14 jaar](https://kasjeugd.nl/projects/kiba)
-Voor kinderen en jongeren die erg bang zijn voor bepaalde dieren, dingen of situaties (bijv. spinnen, wespen, de tandarts, overgeven, clowns, honden, bloed)
+##### [Kids beat Anxiety (KibA) - For children aged 7-14](https://kasjeugd.nl/en/projects/kiba)
+For children and youth who are very afraid of certain animals, things or situations (e.g. spiders, wasps, the dentist, vomiting, clowns, dogs, blood).
 
-Wat houdt de training in? <br>
-7 individuele afspraken, samen met je ouders. Je vormt een team met je trainer om je angst te overwinnen. 
+What does the training entail? <br>
+7 individual appointments, together with your parents. You team up with your trainer to overcome your fear.
 
 De training bestaat o.a. uit: <br>
 •	1 voorbereidende sessie: voor welke situatie(s) ben jij bang? <br>
