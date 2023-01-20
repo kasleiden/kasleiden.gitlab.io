@@ -4,7 +4,7 @@ title: Voor leerlingen
 summary: Informatie en aanbod voor leerlingen
 permalink: /info/training-voorleerlingen
 category: info
-image: /img/spil4.jpg
+image: /img/spil4.jpg 
 members: [michiel, anika, anke]
 ---
 
