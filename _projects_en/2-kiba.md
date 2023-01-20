@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Kids beat Anxiety - the KibA project
+title: Kids beat Anxiety - The KibA project
 summary: Do you suffer from a specific anxiety, for example the fear of dogs, heights, injections, thunder, the dark, spiders or other animals? If so, the KiBA training might be something for you!
 permalink: /en/projects/kiba
 category: project
@@ -31,7 +31,7 @@ During the training the children will form a team with their therapist to conque
 #### More information of signing up?
 To get more information or to sign up we are reachable by phone or e-mail on a daily basis.
 <br>
-Phone number: 071 527 6673
+Phone number: 071-5276673
 <br>
 E-Mail: kiba@fsw.leidenuniv.nl
 <br>
