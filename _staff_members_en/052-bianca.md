@@ -4,9 +4,9 @@ layout: teammember
 name: DR. BIANCA BOYER
 title: Senior adviseur en gz-psycholoog
 group: team
-summary: Bianca is senior adviseur bij het kenniscentrum en gz-psycholoog. Daarnaast is ze universitair docent bij de afdeling Ontwikkelings- en Onderwijspychologie aan de Universiteit Leiden.
+summary: Bianca is a senior advisor at the knowledge center and a healthcare psychologist. She is also an assistant professor at the Department of Development and Educational Psychology at Leiden University.
 image: /img/bianca.jpg
 ---
 
-Bianca is senior adviseur bij het kenniscentrum en gz-psycholoog. Daarnaast is ze universitair docent bij de afdeling Ontwikkelings- en Onderwijspychologie aan de Universiteit Leiden.
+Bianca is a senior advisor at the knowledge center and a healthcare psychologist. She is also an assistant professor at the Department of Development and Educational Psychology at Leiden University.
 
