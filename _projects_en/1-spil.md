@@ -14,6 +14,7 @@ Are you also participating in the SPIL-program? Schools, teachers and care worke
 
 Radio LEF made a podcast about the SPIL-program: [listen here.](https://open.spotify.com/episode/1woeQZApsmgxbpQtfEQPGZ?si=iIYTHGOHTlGYJw-TEfYx5w)
 <br> 
+<br>
 
 #### Background
 
@@ -58,7 +59,7 @@ Partners: Municipality of Leiden, Leiden Kennisstad, Leiden Education Fieldlab (
 <br>
 
 #### Newsletters
-[newsletter September 2021](/pdf/SPIL nieuwsbrief September 2021.pdf)
+[newsletter September 2021](/pdf/SPIL-nieuwsbrief-September-2021.pdf)
 <br>
 [newsletter July 2021](/pdf/SPIL-nieuwsbrief-jul2021.pdf)
 <br>
