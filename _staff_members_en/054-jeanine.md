@@ -2,9 +2,9 @@
 nameid: jeanine
 layout: teammember
 name: DR. JEANINE BAARTMANS
-title: Senior adviseur
+title: Senior advisor
 group: team
-summary: Jeanine is senior adviseur binnen het kenniscentrum. Daarnaast werkt ze als universitair docent bij Pedagogische Wetenschappen aan de Universiteite Leiden en werkt ze als GZ-psycholoog bij het LUBEC.
+summary: Jeanine is a senior advisor at the knowledge centre. She also works as a university lecturer in Pedagogical Sciences at Leiden University and as a health care psychologist at LUBEC.
 image: /img/jeanine.jpg
 ---
 
