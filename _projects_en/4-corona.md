@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Corona en angst bij kinderen
+title: Corona and anxiety in children
 summary: What is corona? Is it dangerous? Children also have questions and concerns about corona.
 permalink: /en/projects/corona
 category: project
