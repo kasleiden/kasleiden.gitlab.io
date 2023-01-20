@@ -2,7 +2,7 @@
 nameid: lubec
 layout: teammember
 name: LUBEC
-title: Leids Universitair Behandel en Expertise Centrum 
+title: Leiden University Treatment and Expertise Center
 group: samenwerkingspartner
 summary: 
 image: /img/lubec.jpg 
