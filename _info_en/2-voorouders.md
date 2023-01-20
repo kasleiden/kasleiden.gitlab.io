@@ -73,31 +73,31 @@ For children and youth who are very afraid of certain animals, things or situati
 What does the training entail? <br>
 7 individual appointments, together with your parents. You team up with your trainer to overcome your fear.
 
-De training bestaat o.a. uit: <br>
-•	1 voorbereidende sessie: voor welke situatie(s) ben jij bang? <br>
-•	1 oefensessie van drie uur: hoe kan je hiermee omgaan? <br>
-•	4 weken zelf oefenen met tips van de trainer of met behulp van een app<br>
+The training includes: <br>
+• 1 preparatory session: which situation(s) are you afraid of? <br>
+• 1 practice session of three hours: how can you handle this? <br>
+• 4 weeks of self-practice with tips from the trainer or using an app<br>
 <br>
 <br>
 <br>
-##### [In Je Sas! - Voor jongeren van 12 tot en met 17 jaar](https://kasjeugd.nl/projects/sas)
-Voor jongeren met sociale angst die last hebben van verlegenheid (bijv. moeite om voor de klas te spreken, met vrienden af te spreken of nieuwe vrienden te maken)
+##### [In Je Sas! - For youth aged 12-17](https://kasjeugd.nl/en/projects/sas)
+For young people with social anxiety who experience shyness (e.g. difficulty speaking in front of class, meeting up with friends or making new friends).
 
-Wat houdt de training in? <br>
-12 wekelijkse bijeenkomsten, na schooltijd in een groep. 
-Samen doen we oefeningen en pakken we uitdagingen aan. Bijvoorbeeld: <br>
-•	Voor een groep spreken <br>
-•	Nieuwe vrienden maken <br>
-•	Met onbekenden een gesprek aangaan <br>
-•	Omgaan met verlegenheid <br>
+What does the training entail? <br>
+12 weekly meetings, after school in a group.
+Together we do exercises and tackle challenges. For example: <br>
+• Speak in front of a group <br>
+• Make new friends <br>
+• Start a conversation with strangers <br>
+• Dealing with Shyness <br>
 
-We werken ook met een app. Met deze app kan je: <br>
-•	Inzicht krijgen in je gedachten, gedrag en gevoelens <br>
-•	Steun krijgen van de trainers en groepsleden gedurende de week <br>
+We also work with an app. With this app you can: <br>
+• Gain insight into your thoughts, behavior and feelings <br>
+• Get support from the trainers and group members during the week <br>
 
 <br>
 <br>
-#### Ondersteuning voor scholen 
+#### Support for schools
 
-Leraren en zorgmedewerkers in en rond de school kunnen veel betekenen voor leerlingen met angst.<br>
-Wij bieden hen verschillende vormen van ondersteuning, zoals een telefonische hulplijn waar zij met vragen over angst terecht kunnen. Ook verzorgen we presentaties en workshops voor scholen. Wijs de school van je kind gerust op ons [aanbod voor scholen](https://kasjeugd.nl/info/training). 
+Teachers and care workers in and around the school can mean a lot to students with anxiety.<br>
+We offer them various forms of support, such as a telephone helpline where they can go with questions about anxiety. We also provide presentations and workshops for schools. Feel free to point your child's school to us [offers for schools](https://kasjeugd.nl/info/training). 
