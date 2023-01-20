@@ -1,6 +1,6 @@
 ---
 layout: post
-title: In Je Sas!
+title: In Je Sas! - Het IJS! project
 summary: Zie je soms ook zo op tegen het geven van een spreekbeurt, of vind je het lastig om vragen te stellen of te beantwoorden in de klas, misschien is de training In Je Sas! wel iets voor jou!
 permalink: /projects/sas
 category: project
