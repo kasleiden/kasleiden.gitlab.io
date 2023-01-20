@@ -1,84 +1,84 @@
 ---
 layout: post
-title: Voor leerlingen
-summary: Informatie en aanbod voor leerlingen
+title: For pupils
+summary: Information and offer for pupils
 permalink: /info/training-voorleerlingen
 category: info
 image: /img/spil4.jpg
-members: [leone, michiel, anika, anke]
+members: [michiel, anika, anke]
 ---
 
-### Wat is angst? 
+### What is anxiety?
 
-Iedereen is weleens bang. Een angstig gevoel kan heel nuttig zijn. Het is een natuurlijke reactie die je waarschuwt voor gevaar. Je lichaam maakt zich klaar om te reageren, zodat je kunt vluchten of vechten. Je hart gaat bijvoorbeeld sneller kloppen en je spieren spannen zich. Dit is een gezonde reactie. Als je problemen hebt op school, thuis, of met je gezondheid, kun je je daar ook vaak angstig over voelen, maar deze gevoelens verdwijnen meestal weer als je problemen minder worden. 
+Everyone is scared sometimes. An anxious feeling can be very helpful. It's a natural reaction that alerts you to danger. Your body is getting ready to respond so you can run or fight. For example, your heart beats faster and your muscles tense. This is a healthy response. If you're having problems at school, at home, or with your health, you may also often feel anxious about them, but these feelings usually subside when your problems subside.
 
-Je kunt ook vaak bang zijn zonder dat hier een duidelijke oorzaak voor is. Of als het gevaar of het probleem eigenlijk niet zo groot is. Je durft bijvoorbeeld niet naar bepaalde plekken te gaan (een plein of het openbaar vervoer), of bepaalde dingen niet te doen (een spreekbeurt houden, bloed laten prikken). Of je piekert veel over van alles, waardoor je vaak ook niet goed kan slapen of je niet kunt concentreren. 
+You can also often be afraid without a clear cause for this. Or if the danger or the problem is actually not that great. For example, you are afraid to go to certain places (a square or public transport), or not to do certain things (give a speech, have your blood drawn). Or you worry a lot about everything, so you often can't sleep well or concentrate.
 
-Als je zo vaak bang bent, hier veel last van hebt en ‘gewone’ of belangrijke dingen niet durft, heb je mogelijk een angststoornis. Door dingen uit de weg te gaan (te vermijden) wordt de angst niet minder, maar vaak juist erger. Zo kan het steeds moeilijker worden om naar school te gaan, vrienden te maken en de houden, leuke dingen te ondernemen of te werken. 
+If you are afraid so often, this bothers you a lot and you don't dare to do 'ordinary' or important things, you may have an anxiety disorder. By avoiding (avoiding) things, the fear does not get less, but often worse. For example, it can become increasingly difficult to go to school, make and keep friends, do fun things or work.
 
-Als je merkt dat je angstgevoelens erger worden, blijf er dan niet mee rondlopen. Hoe eerder je ze aanpakt, hoe makkelijker je er weer vanaf komt. Praat erover met vrienden, je ouders, je leraar, de huisarts of bijvoorbeeld een vertrouwenspersoon op school. 
-
-<br>
-
-### Waar vind ik meer informatie?
-
-Je kunt op veel plekken informatie vinden over angst. Hieronder verzamelen wij links naar betrouwbare websites en organisaties. 
-
-#### [Brainwiki - voor jongeren](https://www.brainwiki.nl/angst/)
-Op deze website lees je alles over angst. Hoe zit dat? Heb ik dat? En wie nog meer? Hoe ga ik ermee om? Welke behandeling is er voor mij? Lees over lotgenoten en wat je kunt doen als je in de problemen komt. 
-
-#### [Thuisarts - voor jongeren](https://www.thuisarts.nl/angstklachten/ik-ben-vaak-bang-informatie-voor-jongeren)
-Op deze website lees je hoe je angst bij jezelf herkent, wat je kunt doen, wanneer je misschien hulp nodig hebt en waar je deze kunt vinden. 
-
-#### [Jongeren Hulp Online](https://jongerenhulponline.nl/)
-Op zoek naar een luisterend oor? Op deze website vind je verschillende organisaties waar je anoniem en gratis terecht kunt met je hulpvragen, online of telefonisch. 
-
-#### [Bibbers - voor kinderen](https://bibbers.nl/)
-Ben je soms erg bang? Of ben je vaak bang? Kijk of deze website voor informatie, tips en oefeningen. 
-
+If you notice your anxiety getting worse, don't keep walking around with it. The sooner you tackle them, the easier it will be to get rid of them. Talk about it with friends, your parents, your teacher, the doctor or, for example, a confidant at school.
 
 <br>
 
-### Wat kan het Kenniscentrum Angst & Stress bij Jeugd voor mij doen?  
+### Where can I find more information?
 
-Veel kinderen en jongeren hebben weleens last van stress en angstige gevoelens. 
-Jij ook? En wil jij hier graag minder last van hebben? 
-Dan zijn de trainingen van het SPIL-programma missschien iets voor jou. 
+You can find information about anxiety in many places. Below we collect links to reliable websites and organizations.
+
+#### [Brainwiki - for youth](https://www.brainwiki.nl/angst/)
+On this website you can read everything about fear. What's up with that? Do I have that? And who else? How do I deal with it? What treatment is there for me? Read about peers and what to do if you get into trouble.
+
+#### [Thuisarts - for youth](https://www.thuisarts.nl/angstklachten/ik-ben-vaak-bang-informatie-voor-jongeren)
+On this website you can read how to recognize fear in yourself, what you can do, when you may need help and where you can find it.
+
+#### [Youth Help Online](https://jongerenhulponline.nl/)
+Looking for a listening ear? On this website you will find various organizations where you can go anonymously and free of charge with your questions for help, online or by telephone.
+
+#### [Bibbers - for children](https://bibbers.nl/)
+Are you sometimes very afraid? Or are you often afraid? Check out this website for information, tips and exercises.
+
+
 <br>
 
-We hebben twee soorten trainingen: 
+### What can the Knowledge Center for Anxiety & Stress in Youth do for me?
+
+Many children and young people sometimes suffer from stress and anxious feelings.
+You too? And would you like to suffer less from this?
+Then the training sessions of the SPIL program might be something for you.
+<br>
+
+We have two types of training:
 
 
-#### [In Je Sas! - Voor jongeren van 12 tot en met 17 jaar](https://kasjeugd.nl/projects/sas)
-Voor jongeren met sociale angst die last hebben van verlegenheid (bijv. moeite om voor de klas te spreken, met vrienden af te spreken of nieuwe vrienden te maken)
+#### [In Je Sas! - for youth aged 12-17](https://kasjeugd.nl/projects/sas)
+For young people with social anxiety who experience shyness (e.g. difficulty speaking in front of class, meeting up with friends or making new friends).
 
-Wat houdt de training in? <br>
-12 wekelijkse bijeenkomsten, na schooltijd in een groep. 
-Samen doen we oefeningen en pakken we uitdagingen aan. Bijvoorbeeld: <br>
-•	Voor een groep spreken <br>
-•	Nieuwe vrienden maken <br>
-•	Met onbekenden een gesprek aangaan <br>
-•	Omgaan met verlegenheid <br>
+What does the training entail? <br>
+12 weekly meetings, after school in a group.
+Together we do exercises and tackle challenges. For example: <br>
+• Speak in front of a group <br>
+• Make new friends <br>
+• Start a conversation with strangers <br>
+• Dealing with Shyness <br>
 
-We werken ook met een app. Met deze app kan je: <br>
-•	Inzicht krijgen in je gedachten, gedrag en gevoelens <br>
-•	Steun krijgen van de trainers en groepsleden gedurende de week <br>
+We also work with an app. With this app you can: <br>
+• Gain insight into your thoughts, behavior and feelings <br>
+• Get support from the trainers and group members during the week <br>
 
 <br> 
 
-#### [Kinderen Bedwingen Angst (KIBA) - Voor kinderen en jongeren van 7 tot en met 14 jaar](https://kasjeugd.nl/projects/kiba)
-Voor kinderen en jongeren die erg bang zijn voor bepaalde dieren, dingen of situaties (bijv. spinnen, wespen, de tandarts, overgeven, clowns, honden, bloed)
+#### [Kids beat Anxiety (KibA) - for children and youth aged 7-14](https://kasjeugd.nl/projects/kiba)
+For children and young people who are very afraid of certain animals, things or situations (e.g. spiders, wasps, the dentist, vomiting, clowns, dogs, blood).
 
-Wat houdt de training in? <br>
-7 individuele afspraken, samen met je ouders. Je vormt een team met je trainer om je angst te overwinnen. 
+What does the training entail? <br>
+7 individual appointments, together with your parents. You team up with your trainer to overcome your fear.
 
-De training bestaat o.a. uit: <br>
-•	1 voorbereidende sessie: voor welke situatie(s) ben jij bang? <br>
-•	1 oefensessie van drie uur: hoe kan je hiermee omgaan? <br>
-•	4 weken zelf oefenen met tips van de trainer of met behulp van een app<br>
+The training includes: <br>
+• 1 preparatory session: which situation(s) are you afraid of? <br>
+• 1 practice session of three hours: how can you handle this? <br>
+• 4 weeks of self-practice with tips from the trainer or using an app<br>
 
 <br>
-Meer weten? 
-We horen graag van je! Neem contact met ons op via kas@fsw.leidenuniv.nl. 
+Would you like more information?
+We would love to hear from you! Please contact us at kas@fsw.leidenuniv.nl.
 
 
