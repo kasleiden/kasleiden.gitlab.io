@@ -5,7 +5,7 @@ summary: Information and offers for parents
 permalink: /info/training-ouders
 category: info
 image: /img/spil4.jpg
-members: [leone, michiel, anika, anke]
+members: [michiel, anika, anke]
 ---
 
 ### What is anxiety?
@@ -42,20 +42,20 @@ You can read about how to recognize anxiety in your child, what you can do, when
 <br>
 
 #### Bibbers 
-Deze website bevat informatie, tips en oefeningen voor kinderen, maar geeft ook [tips voor ouders](https://bibbers.nl/voor-volwassenen/) om met de angst van hun kind om te gaan en samen oefeningen te doen. 
+This website contains information, tips and exercises for children, but also gives [tips for parents](https://bibbers.nl/voor-volwassenen/) to deal with their child's anxiety and to do exercises together.
 <br>
 <br>
 
-#### Artikelen, filmpjes, podcasts, radio-uitzendingen en meer... 
-NPO Radio 1 verdiepte zich in de talkshow Spraakmakers [een week lang in angst bij kinderen](https://www.nporadio1.nl/spraakmakers/onderwerpen/71875-2021-02-05-verhalen-van-spraakmakers-angst-bij-kinderen-deel-5). Hoe ontwikkelen angsten zich, wat is de impact op een kind en zijn omgeving en hoe pak je angstklachten aan?
+#### Articles, videos, podcasts, radio broadcasts and more...
+NPO Radio 1 immersed itself in the talk show Spraakmakers [a week in fear in children](https://www.nporadio1.nl/spraakmakers/onderwerpen/71875-2021-02-05-verhalen-van-spraakmakers-angst-bij-kinderen-deel-5). How do fears develop, what is the impact on a child and his environment and how do you deal with anxiety?
 <br>
 
-Radio LEF (Leiden Education Fieldlab) maakte een podcast over ons SPIL-programma: [luister hier](https://open.spotify.com/episode/1woeQZApsmgxbpQtfEQPGZ?si=iIYTHGOHTlGYJw-TEfYx5w).
+Radio LEF (Leiden Education Fieldlab) made a podcast about our SPIL-program: [listen here](https://open.spotify.com/episode/1woeQZApsmgxbpQtfEQPGZ?si=iIYTHGOHTlGYJw-TEfYx5w).
 <br>
 
 <br>
 
-### Wat kan het Kenniscentrum Angst & Stress bij Jeugd voor mij betekenen?  
+### What can the Knowledge Center for Anxiety & Stress in Youth do for me?
 
 #### Trainingen voor kinderen en jongeren  
 Heeft je zoon of dochter last van stress en angstige gevoelens en zou hij of zij hier graag minder last van hebben of maak je je als ouder zorgen? 
