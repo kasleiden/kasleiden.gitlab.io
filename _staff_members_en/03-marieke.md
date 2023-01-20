@@ -25,7 +25,7 @@ In this research, she focuses specifically on the role of pubertal hormones and 
 
 
 #### Contact
-Email: m.g.n.bos@fsw.leidenuniv.nl
+E-mail: m.g.n.bos@fsw.leidenuniv.nl
 <br>
 Tel : +31 71 527 6624
 
