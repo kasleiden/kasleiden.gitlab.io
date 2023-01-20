@@ -4,8 +4,8 @@ layout: teammember
 name: DR. LEONIE VREEKE
 title: Projectleider Cool Little Kids
 group: team
-summary: Leonie is ontwikkelingspsycholoog en als projectleider eindverantwoordelijk voor het Cool Little Kids project. Daarnaast is ze universitair docent bij de afdeling Ontwikkelings- en Onderwijspychologie aan de universiteit Leiden.
+summary: Leonie is a developmental psychologist and as project leader responsible for the Cool Little Kids project. She is also an assistant professor at the Department of Development and Educational Psychology at Leiden University.
 image: /img/leonie.jpg
 ---
 
-Leonie is ontwikkelingspsycholoog en als projectleider eindverantwoordelijk voor het Cool Little Kids project. Daarnaast is ze universitair docent bij de afdeling Ontwikkelings- en Onderwijspychologie aan de universiteit Leiden.
+Leonie is a developmental psychologist and as project leader responsible for the Cool Little Kids project. She is also an assistant professor at the Department of Development and Educational Psychology at Leiden University.
