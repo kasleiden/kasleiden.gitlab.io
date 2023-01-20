@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Signalering, Preventie & Interventie bij Leerlingen met angst
+title: Identification, Prevention & Intervention in Pupils with Anxiety
 summary: Hoe kunnen we scholen helpen stress en angst in de klas te herkennen en te voorkomen en samen met scholen leerlingen snel de juiste ondersteuning bieden? Doe mee met het SPIL-programma!
 permalink: /en/projects/spil
 category: project
@@ -8,66 +8,67 @@ image: /img/spil4.jpg
 members: [leone, michiel, anika, anke]
 ---
 
-Doe je ook mee met het SPIL-programma? Scholen, leraren en zorgmedewerkers die met ons mee willen denken of doen zijn van harte welkom!
+
+Are you also participating in the SPIL-program? Schools, teachers and care workers who would like to think along or join us are more than welcome!
 <br>
 
-Sinds 1 februari kunnen leraren en zorgmedewerkers terecht bij onze telefonische hulplijn 071 527 5464. Lees hieronder meer info.
+Since February 1, teachers and care workers can contact our telephone helpline +31 715 275 464. For more information, read below.
+
 <br>
 
-Radio LEF maakte een podcast over het SPIL-programma: [luister hier.](https://open.spotify.com/episode/1woeQZApsmgxbpQtfEQPGZ?si=iIYTHGOHTlGYJw-TEfYx5w)
+Radio LEF made a podcast about the SPIL-program: [listen here.](https://open.spotify.com/episode/1woeQZApsmgxbpQtfEQPGZ?si=iIYTHGOHTlGYJw-TEfYx5w)
 
 <br> 
 
-#### Achtergrond
+#### Background
 
-Stress- en angstklachten zijn wereldwijd de meest voorkomende mentale problemen en ontstaan vaak al in de kindertijd. Deze klachten gaan meestal niet vanzelf over en kunnen onbehandeld leiden tot eenzaamheid, andere psychische stoornissen, middelmisbruik, sociale problemen, verslechterde schoolprestaties of schooluitval.
+Worldwide, stress and anxiety complaints are the most common mental health problems and often arise during childhood. These complaints usually do not go away by themselves, and if they are left untreated, these complaints can lead to loneliness, other psychological disorders, substance abuse, social problems, deteriorated school performance or school dropout.
 
-Stress- en angstklachten worden vaak niet tijdig herkend, omdat ze zich uiten in teruggetrokken gedrag, of juist in andere gedragsproblemen of schoolweigering, waarbij niet altijd aan onderliggende angsten gedacht wordt. Wanneer jeugdigen pas hulp krijgen op het moment dat klachten escaleren, is vaak een langdurig en kostbaar behandeltraject nodig, waarvoor bovendien lange wachtlijsten zijn.
+Stress and anxiety complaints are frequently not recognized in time, because they often express themselves in withdrawn behavior, school refusal or other behavioral problems, whereby underlying fears are not always thought of. When juveniles only receive treatment when the complaints escalate, a long and costly treatment is commonly necessary, for which long waiting lists exist.
 
-Leerlingen met stress- en angstklachten worden hierdoor gehinderd in hun ontwikkeling, zowel binnen als buiten de school. Leraren en zorgmedewerkers willen hen graag ondersteunen, maar missen soms de tijd, ruimte, kennis en vaardigheden om op tijd signalen op te pikken en hier goed mee om te gaan.
-
-<br>
-
-#### Doel
-
-Het doel van het SPIL-programma is om in nauwe samenwerking met Leidse scholen stress- en angstklachten bij kinderen en jongeren vroegtijdig op te sporen en te verhelpen. Hiermee willen we een veilig leerklimaat en gezonde sociaal-emotionele ontwikkeling stimuleren en schooluitval voorkomen.
-
-We starten met focusgroepen van leraren en zorgmedewerkers uit het primair en voortgezet onderwijs in Leiden, waarin we onderzoeken op welke wijze we het beste tegemoet kunnen komen aan hun ondersteuningsbehoefte. Wat hebben zij nodig aan kennis, training en ondersteuning om effectief met signalen van stress en angst in de klas om te gaan? En wat is er nodig voor hun leerlingen?
-
-We ontwikkelen een telefonische hulplijn voor leraren en zorgmedewerkers, workshops en andere elementen die uit deze focusgroepen naar voren komen. Ook zullen we samen met scholen leerlingen identificeren die baat kunnen hebben bij een vroege interventie. We bieden kortdurende, laagdrempelige, vernieuwende en wetenschappelijk onderbouwde interventies, speciaal gericht op sociale angst, specifieke fobieën en spreekangst.
-
-Met dit programma werken we toe naar een duurzame en structurele samenwerking tussen Leidse scholen en het Kenniscentrum Angst en Stress bij Jeugd. Gezamenlijk werken we aan nieuwe kennis en interventies, die sneller toegepast kunnen worden in het onderwijs.
+Pupils are hindered in their development, both inside and outside the school, by stress and anxiety complaints. Teachers and care workers would like to support them, but sometimes experience a lack of time, space, knowledge, and skills to pick up the signals in time and to deal with them properly.
 
 <br>
 
-#### Hulplijn 
+#### Goal
 
-Vanaf 1 februari 2021 biedt het Kenniscentrum Angst en Stress bij Jeugd een telefonische hulplijn voor leraren en zorgmedewerkers in en rond de school. Zij kunnen bellen met vragen over angst bij leerlingen, zoals: hoe herken je angst? Wat kun je doen in de klas? Waar kan een leerling passende hulp krijgen?  
+The aim of the SPIL-program is to detect and remedy stress and anxiety complaints in children and youth at an early stage, in close collaboration with schools in Leiden. With the SPIL-program we want to create a safe learning climate and we want to stimulate healthy social-emotional development and we want to prevent school dropout.
 
-We zijn bereikbaar op 071 527 5464 en houden open spreekuren op elke werkdag vanaf 9.00 - 17.00 uur. Je kunt dan bellen voor korte vragen (max 10 min).
+We will start with focus groups of teachers and care workers who work at primary and secondary schools in Leiden. In these focus groups we will investigate in which ways we can best meet the support need of teachers and care workers. What do they need in terms of knowledge, training and support to deal effectively with signals of stress and anxiety in the classroom? And what is needed for their students?
 
-Wil je een vraag of kwestie voorleggen die meer tijd vergt? Bel hiervoor tijdens het open spreekuur of stuur een e-mail naar kas@fsw.leidenuniv.nl. 
+As a result of the focus groups, we have developed a telephone helpline for teachers and care workers, we are setting up workshops, and we generate other elements which fulfill the support need of teachers and care workers. In addition, we will together with schools, identify students who could benefit from early intervention. We offer short-term, accessible, innovative, and scientifically substantiated interventions, which focus on social anxiety, specific phobias and public speaking.
 
-Natuurlijk kun je je vragen ook per e-mail aan ons voorleggen!
-
-<br>
-
-#### Aanmelden
-
-Het programma is nog volop in ontwikkeling, dus gedurende de looptijd (2020-2022) kun je op deze website meer informatie vinden. Wil je met ons meedenken, meedoen of meer weten?
-Neem contact op met Emma van Erp, dagelijks projectleider, via kas@fsw.leidenuniv.nl.
-
-Partners: Gemeente Leiden, Leiden Kennisstad, Leiden Education Fieldlab (LEF), Stedelijk Gymnasium Leiden, Vlietland College, De Singel, Da Vinci College Lammenschans, LUBEC (Universiteit Leiden).
+With this program we aim to work towards a sustainable and structural collaboration between schools in Leiden and the Knowledge Center Anxiety and Stress in Youth. Together we work on new knowledge and interventions that can be applied rapidly in education.
 
 <br>
 
-#### Nieuwbrieven
-[nieuwsbrief september 2021](/pdf/SPIL nieuwsbrief September 2021.pdf)
+#### Helpline
+
+From February 1 2021, the Knowledge Center Anxiety and Stress in Youth will offer a telephone helpline for teachers and care workers in and around the school. They can call when they have questions about fear in students, such as: How do you recognize fear? What can you do in the classroom? Where can a student get appropriate help?
+
+We can be reached on +31 715 275 464 and have open office hours on every working day from 9.00 - 17.00. You can call for short questions (max. 10 min).
+
+Would you like to submit a question or issue that requires more time? For this you can call during the open office hours or send an e-mail to kas@fsw.leidenuniv.nl.
+
+Of course you can also submit your questions to us by e-mail!
+
 <br>
-[nieuwsbrief juli 2021](/pdf/SPIL-nieuwsbrief-jul2021.pdf)
+
+#### Registration
+
+The program is still under development, so you can find more information on this website during the term (2020-2022). Do you want to think along with us, participate or know more? Please contact our daily project manager via kas@fsw.leidenuniv.nl.
+
+Partners: Municipality of Leiden, Leiden Kennisstad, Leiden Education Fieldlab (LEF), Stedelijk Gymnasium Leiden, Vlietland College, De Singel, Da Vinci College Lammenschans, LUBEC (Leiden University).
+
 <br>
-[nieuwsbrief april 2021](/pdf/SPIL-nieuwsbrief-apr2021.pdf)
+
+#### Newsletters
+[nieuwsbrief Seotember 2021](/pdf/SPIL nieuwsbrief September 2021.pdf)
 <br>
-[nieuwsbrief februari 2021](/pdf/SPIL-nieuwsbrief-feb2021.pdf)
+[nieuwsbrief July 2021](/pdf/SPIL-nieuwsbrief-jul2021.pdf)
 <br>
-[nieuwsbrief december 2020](/pdf/SPIL-nieuwsbrief-dec2020.pdf)
+[nieuwsbrief April 2021](/pdf/SPIL-nieuwsbrief-apr2021.pdf)
+<br>
+[nieuwsbrief February 2021](/pdf/SPIL-nieuwsbrief-feb2021.pdf)
+<br>
+[nieuwsbrief December 2020](/pdf/SPIL-nieuwsbrief-dec2020.pdf)
