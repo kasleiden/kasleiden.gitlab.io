@@ -9,49 +9,47 @@ members: [michiel, sara, Dayenne]
 ---
 
 #### In Je Sas!
-Sommige leerlingen zien erg op tegen het geven van spreekbeurten, vinden het lastig om in de klas vragen te stellen of te beantwoorden, of hebben moeite met het leggen van contacten en het maken van vrienden. Dit kan het plezier in en buiten school belemmeren en op den duur ook nadelig zijn voor het schoolwerk.
-Wij zien het als onze taak om tieners hierbij te ondersteunen en daarom hebben wij een laagdrempelige groepsinterventie opgezet waarin leerlingen met elkaar aan opdrachten werken om hun verlegenheid in sociale situaties te overwinnen.
+Some students are very reluctant to give speaking engagements, find it difficult to ask or answer questions in class, or experience difficulties making contacts and making friends. This can hinder fun in and out of school and in the long run also be detrimental to school work. We see it as our task to support teenagers in this and that is why we have set up a low-threshold group intervention in which students work together on assignments to overcome their shyness in social situations.
 
 <br>
 
-#### Wat houdt de training in?
-- 12 wekelijkse bijeenkomsten in een kleine groep na schooltijd
-- Samen doen we oefeningen en pakken we uitdagingen aan
+#### What does the training include?
+- 12 weekly small group meetings after school
+- Together we do exercises and we tackle challenges
 
-Bijvoorbeeld:
-- Voor een groep spreken
-- Met onbekenden een gesprek aangaan
-- Omgaan met verlegenheid
-- Nieuwe vrienden maken
-- Met bekende en onbekende mensen bellen
-- We werken samen in LUBEC
-- We werken ook met een app. Met de app kunnen de jongeren door de week in contact blijven met hun groepsbegeleider en groepsgenoten 
-
-<br>
-
-#### Voor wie?
-- Jongeren die last hebben van verlegenheid
-- Jongeren van 12 tot en met 17 jaar
+For example:
+- Speaking in front of a group
+- Starting a conversation with a stranger
+- Dealing with shyness
+- Making new friends
+- Calling known and unknown people
+- We work together in LUBEC
+- We also work with an app. With the app, youths can stay in touch with their group supervisor and group members during the week
 
 <br>
 
-#### Jullie doen dit als onderdeel van onderzoek, wat houdt dat in?
-We zijn benieuwd hoe de jongeren de combinatie van app en bijeenkomsten ervaren. Meedoen aand de training betekent dat je ook aan dit onderzoek meedoet. Dat houdt in dat je:
-- Vier keer naar de universiteit komt om verschillende vragenlijsten in te vullen, en om een gesprek met ons te hebben.
-- Twee van die vier keer word je ook gevraagd om een korte spreekbeurt te houden voor een virtueel publiek. Met een eye-tracking bril kunnen we je kijkgedrag tijdens de spreekbeurt meten. 
-
-Omdat de training een deel van onderzoek is, betekent dat dat de training kosteloos wordt aangeboden. We vragen alleen jullie tijd om ook aan het onderzoek deel te nemen.
+#### For whom?
+- Young people who suffer from shyness
+- Young people from 12 to 17 years
 
 <br>
 
-#### Hoe gaan we van start?
-Er zal voorafgaand aan het programma eerst een intakegesprek plaatsvinden, waarbij een aantal vragenlijsten zullen worden afgenomen. Daarna zullen wij goed overleggen of we denken dat het programma een goede match is voor jullie, en we vragen jullie om dat ook samen thuis te overleggen!
-Tussen het intakegesprek en de start van het programma zit een periode van een aantal weken. Het programma zal van start gaan wanneer de groepen zich hebben gevuld. De start is dus afhankelijk van het aantal aanmeldingen voor de verschillende leeftijdsgroepen.
+#### You are doing this as part of research, what does that mean?
+We are curious how young people experience the combination of app and meetings. Participating in the training means that you also participate in this research. That means that:
+
+- You will come to the university four times to fill out various questionnaires, and to have a conversation with us.
+- Two of those four times you will also be asked to give a short speech in front of a virtual audience. With eye-tracking glasses we can measure your viewing behavior during the presentation.
+ 
+Because the training is part of a research, the training is offered free of charge. We only ask for your time to participate in the study.
 
 <br>
+
+#### How do we get started?
+An intake interview will take place prior to the program, during which a number of questionnaires will be taken. After that, we will discuss whether we think the program is a good match for you, and we ask you to discuss this together at home as well! There is a period of several weeks between the intake interview and the start of the program. The program will start when the groups have filled up. The start therefore depends on the number of registrations for the different age groups.
+
 <br>
 
-#### Ik wil meedoen!
-Je kunt je aanmelden door te mailen naar kas@fsw.leidenuniv.nl of the bellen naar 071-5275464.
+#### I want to participate!
+You can register by emailing kas@fsw.leidenuniv.nl or calling 071-5275464.
 
 <br>
