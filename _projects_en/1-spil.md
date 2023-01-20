@@ -58,7 +58,7 @@ Partners: Municipality of Leiden, Leiden Kennisstad, Leiden Education Fieldlab (
 <br>
 
 #### Newsletters
-[newsletter Seotember 2021](/pdf/SPIL nieuwsbrief September 2021.pdf)
+[newsletter September 2021](/pdf/SPIL nieuwsbrief September 2021.pdf)
 <br>
 [newsletter July 2021](/pdf/SPIL-nieuwsbrief-jul2021.pdf)
 <br>
