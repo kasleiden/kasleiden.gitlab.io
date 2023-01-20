@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Identification, Prevention & Intervention in Pupils with Anxiety
-summary: Hoe kunnen we scholen helpen stress en angst in de klas te herkennen en te voorkomen en samen met scholen leerlingen snel de juiste ondersteuning bieden? Doe mee met het SPIL-programma!
+summary: How can we help schools recognize and prevent stress and anxiety in the classroom and, together with schools, offer students the right support quickly? Join the SPIL-program!
 permalink: /en/projects/spil
 category: project
 image: /img/spil4.jpg
