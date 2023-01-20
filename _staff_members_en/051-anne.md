@@ -2,13 +2,13 @@
 nameid: anne
 layout: teammember
 name: DR. ANNE MIERS
-title: Senior projectadviseur bij Injesas! en StressLess
+title: Senior project advisor for InJeSas! and StressLess
 group: team
-summary: Anne is a senior project advisor at both InJesSas! and StressLess projects and is the daily supervisor of Sara Jakobsson and Simone Vogelaar. She is also an associate professor at the Department of Developmental and Educational Psychology at Leiden University.
+summary: Anne is a senior project advisor for both the InJesSas! and StressLess projects and is the daily supervisor of Sara Jakobsson and Simone Vogelaar. She is also an associate professor at the Department of Developmental and Educational Psychology at Leiden University.
 image: /img/anne.jpg
 ---
 
-Anne is a senior project advisor at both InJesSas! and StressLess projects and is the daily supervisor of Sara Jakobsson and Simone Vogelaar. She is also an associate professor at the Department of Developmental and Educational Psychology at Leiden University.
+Anne is a senior project advisor for both the InJesSas! and StressLess projects and is the daily supervisor of Sara Jakobsson and Simone Vogelaar. She is also an associate professor at the Department of Developmental and Educational Psychology at Leiden University.
 
 <br>
 #### Short resume <br>
