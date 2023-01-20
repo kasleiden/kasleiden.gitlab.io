@@ -1,43 +1,43 @@
 ---
 layout: post
-title: Voor ouders
-summary: Informatie en aanbod voor ouders
+title: For parents
+summary: Information and offers for parents
 permalink: /info/training-ouders
 category: info
 image: /img/spil4.jpg
 members: [leone, michiel, anika, anke]
 ---
 
-### Wat is angst? 
+### What is anxiety?
 
-Iedereen is weleens bang. Een angstig gevoel kan heel nuttig zijn. Het is een natuurlijke reactie die je waarschuwt voor gevaar. Je lichaam maakt zich klaar om te reageren, zodat je kunt vluchten of vechten. Je hart gaat bijvoorbeeld sneller kloppen en je spieren spannen zich. Dit is een gezonde reactie. Als kinderen problemen hebben op school, thuis, of met hun gezondheid, kunnnen ze zich daar angstig over voelen, maar deze gevoelens verdwijnen meestal weer als de problemen minder worden.
+Everyone is scared sometimes. An anxious feeling can be very helpful. It's a natural reaction that alerts you to danger. Your body is getting ready to respond so you can run or fight. For example, your heart beats faster and your muscles tense. This is a healthy response. If children have problems at school, at home, or with their health, they may feel anxious about it, but these feelings usually subside when the problems subside.
 
-Sommige kinderen en jongeren zijn vaak bang zonder dat hier een duidelijke oorzaak voor is. Of ze zijn veel banger dan nodig is in bepaalde situaties. Je kind durft bijvoorbeeld niet naar bepaalde plekken te gaan (een plein of het openbaar vervoer), of bepaalde dingen niet te doen (een spreekbeurt houden, bloed laten prikken). Of hij of zij piekert veel over van alles, en heeft daarvoor vaak ook problemen met slapen of concentreren. 
+Some children and young people are often afraid without a clear cause. Or they are much more afraid than necessary in certain situations. For example, your child is afraid to go to certain places (a square or public transport), or not to do certain things (give a speech, have a blood test). Or he or she worries a lot about everything, and therefore often has problems sleeping or concentrating.
 
-Als een kind regelmatig zeer angstig is, hier veel last van heeft en 'gewone' of belangrijke dingen niet durft, is er mogelijk sprake van een angststoornis. Door dingen uit de weg te gaan (te vermijden) wordt de angst niet minder, maar vaak juist erger. Zo kan het steeds moeilijker worden om naar school te gaan, vrienden te maken en de houden, leuke dingen te ondernemen of te werken. Op lange termijn leidt het vaak ook tot andere psychische en sociale problemen. 
+If a child is regularly very anxious, suffers greatly from this and does not dare to do 'ordinary' or important things, there may be an anxiety disorder. By avoiding (avoiding) things, the fear does not get less, but often worse. For example, it can become increasingly difficult to go to school, make and keep friends, do fun things or work. In the long term, it often also leads to other psychological and social problems.
 
-Angst bij kinderen en jongeren is soms moeilijk te herkennen, omdat angstig gedrag niet opvalt en kinderen er lang niet altijd over durven te praten. Het uit zich soms in lichamelijke klachten als buikpijn, hoofdpijn of vermoeidheid. Het kind kan zich ook terugtrekken, weigeren naar school te gaan, of juist boos of opstandig worden. Als je merkt dat je kind erg angstig is, praat er dan over en schakel op tijd hulp in. Hoe eerder je angstklachten aanpakt, hoe groter de kans dat je er weer helemaal vanaf komt. 
+Anxiety in children and young people is sometimes difficult to recognize, because anxious behavior goes unnoticed and children do not always dare to talk about it. It sometimes manifests itself in physical complaints such as abdominal pain, headache or fatigue. The child may also withdraw, refuse to go to school, or become angry or rebellious. If you notice that your child is very anxious, talk about it and get help in time. The sooner you treat anxiety symptoms, the greater the chance that you will get rid of them completely.
 <br>
 
 <br>
 
-### Waar vind ik meer informatie?
-Veel organisaties bieden informatie of ondersteuning voor ouders m.b.t. angst bij kinderen. Het overzicht hieronder vullen wij de komende tijd verder aan. 
+### Where can I find more information?
+Many organizations provide information or support for parents regarding childhood anxiety. We will be adding to the overview below in the near future. 
 <br>
 <br>
 
-#### Kenniscentrum Kinder- en Jeugdpsychiatrie
-Het Kenniscentrum KJP biedt [informatie voor ouders en jongeren](https://www.kenniscentrum-kjp.nl/ouders-jongeren/angst/) over wat angst is, hoe je het kunt herkennen en welke behandelingen er zijn. 
+#### Knowledge Center for Child and Adolescent Psychiatry
+The Knowledge Centre KJP offers [information for parents and youth](https://www.kenniscentrum-kjp.nl/ouders-jongeren/angst/) about what anxiety is, how to recognize it and what treatments there are.
 <br>
 <br>
 
 #### Opvoeden.nl
-Deze website van Opvoedinformatie Nederland geeft informatie voor ouders over veel thema's, waaronder [angst](https://www.opvoeden.nl/angstig-gedrag-476/) en [angststoornissen](https://www.opvoeden.nl/angststoornissen-197/) bij kinderen en [angst](https://www.opvoeden.nl/bang-777/), [angststoornissen](https://www.opvoeden.nl/angststoornissen-1281/) en [stress](https://www.opvoeden.nl/stress-758/) bij jongeren. 
+This website of Parenting Information Netherlands provides information for parents on many topics, including [anxiety](https://www.opvoeden.nl/angstig-gedrag-476/) en [anxiety disorders](https://www.opvoeden.nl/angststoornissen-197/) in children and [anxiety](https://www.opvoeden.nl/bang-777/), [anxiety disorders](https://www.opvoeden.nl/angststoornissen-1281/) and [stress](https://www.opvoeden.nl/stress-758/) in youth. 
 <br>
 <br>
 
 #### Thuisarts
-Op [deze website](https://www.thuisarts.nl/angst-bij-kinderen) lees je hoe je angst bij je kind herkent, wat je kunt doen, wanneer je kind misschien hulp nodig hebt en waar je deze kunt vinden.
+You can read about how to recognize anxiety in your child, what you can do, when your child may need help and where you can find it on [this website](https://www.thuisarts.nl/angst-bij-kinderen).
 <br>
 <br>
 
