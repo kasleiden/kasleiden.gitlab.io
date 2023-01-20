@@ -1,34 +1,34 @@
 ---
 layout: post
-title: Voor scholen
-summary: Informatie en aanbod voor scholen
+title: For schools
+summary: Information and offers for schools
 permalink: /info/training
 category: info
 image: /img/spil4.jpg
 members: [leone, michiel, anika, anke]
 ---
 
-### Wat is angst? 
+### What is anxiety?
 
-Angst is een normale en nuttige emotie, die je waarschuwt voor gevaar. Bij leren en jezelf ontwikkelen, hoort ook het aangaan van uitdagingen en soms het overwinnen van angsten. Voor sommigen leerlingen groeien angsten echter uit tot onneembare drempels en allesoverheersende problemen. 
+Fear is a normal and useful emotion that warns you about danger. Developing and developing yourself is also part of challenges and sometimes overcoming fears. For some students, however, fears grow into impregnable thresholds and all -more problems.
 
-Wanneer iemand regelmatig zeer angstig is, deze angst buiten proporties is (en irreëel is), én flinke beperkingen geeft, die het leven sterk ontregelen, spreken we van een angststoornis. 
+When someone is regularly very anxious, this fear is out of proportions (and is unreal), and gives considerable limitations that greatly disrupt life, we speak of an anxiety disorder.
 
-Angstklachten zijn wereldwijd de meest voorkomende mentale problemen en ontstaan vaak al in de kindertijd. Deze klachten gaan meestal niet vanzelf over en kunnen onbehandeld leiden tot eenzaamheid, andere psychische stoornissen, middelenmisbruik, sociale problemen, verslechterde schoolprestaties of schooluitval.
+Fear complaints are the most common mental problems worldwide and often arise in childhood. These complaints usually do not pass on their own and can lead to loneliness, other psychological disorders, substance abuse, social problems, deteriorated school performance or school dropouts.
 
-Angstklachten worden vaak niet tijdig herkend, omdat ze zich uiten in lichamelijke klachten, teruggetrokken gedrag, of juist in andere gedragsproblemen of schoolweigering, waarbij niet altijd aan onderliggende angsten gedacht wordt. Wanneer jeugdigen pas hulp krijgen op het moment dat klachten escaleren, is vaak een langdurig en kostbaar behandeltraject nodig, waarvoor bovendien lange wachtlijsten zijn. Bij vroegtijdig ingrijpen, kunnen de meeste angstklachten echter goed verholpen worden met bewezen effectieve interventies. 
+Anxiety complaints are often not recognized in time, because they manifest themselves in physical complaints, withdrawn behavior, or in other behavioral problems or school refusal, whereby underlying fears are not always considered. When young people only get help when complaints escalate, a long -term and expensive treatment process is often needed, for which there are also long waiting lists. In the event of early intervention, most of the fear complaints can be remedied with proven effective interventions.
 
 <br>
 
-### Waar vind ik meer informatie?
+### Where can I find more information?
 
-Veel organisaties bieden informatie of ondersteuning voor scholen m.b.t. angst bij leerlingen. Het overzicht hieronder vullen wij de komende tijd verder aan. 
+Many organizations provide information or support for schools regarding student anxiety. We will be adding to the overview below in the near future.
 
-#### Kenniscentrum Kinder- en Jeugdpsychiatrie
-Het Kenniscentrum KJP biedt [informatie voor scholen](https://www.kenniscentrum-kjp.nl/scholen/angst/) over angst, wat de school kan doen om het te signaleren, en hoe te reageren. 
+#### Knowledge Center for Child and Adolescent Psychiatry
+The Knowledge Center KJP offers [information for schools](https://www.kenniscentrum-kjp.nl/scholen/angst/) about fear, what the school can do to signal it, and how to respond.
 
-#### Nederlands Centrum Jeugdgezondheid
-Het NCJ richt zich vooral op professionals binnen de jeugdgezondheidszorg en [deelt o.a. richtlijnen](https://www.ncj.nl/richtlijnen/alle-richtlijnen/richtlijn/angst) over signalering, ondersteuning en toeleiding naar de juiste zorg. Voor zorgmederwerkers in en om school biedt [deze samenvattingskaart](/pdf/samenvattingskaart JGZ-richtlijn angst.pdf) een handig overzicht. 
+#### Dutch Center for Youth Health
+The NCJ focuses mainly on professionals within youth healthcare and shares [guidelines](https://www.ncj.nl/richtlijnen/alle-richtlijnen/richtlijn/angst) about identification, support and guidance to the right care. For healthcare workers in and around school [this summary](/pdf/samenvattingskaart JGZ-richtlijn angst.pdf) might be a handy overview.
 
 #### Nederlands Jeugdinstituut
 Het NJI biedt [algemene uitgebreide informatie](https://www.nji.nl/nl/Kennis/Dossier/Angst) over angst, verschillende angststoornissen en risicofactoren. 
