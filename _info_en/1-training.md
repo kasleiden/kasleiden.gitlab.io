@@ -40,7 +40,7 @@ NPO Radio 1 immersed itself in the talk show Spraakmakers [a week in fear in chi
 Radio LEF (Leiden Education Fieldlab) made a podcast about the SPIL-program: [lister here](https://open.spotify.com/episode/1woeQZApsmgxbpQtfEQPGZ?si=iIYTHGOHTlGYJw-TEfYx5w).
 <br>
 
-Ellin Simon & Petra Butler wrote a clear [article about fear in students](/pdf/Simon_2021_LBBO.pdf) for the trade journal 'Beter Guiding' (LBBO) with tips and tricks for teachers.
+Ellin Simon & Petra Butler wrote a clear [article about fear in students](/pdf/Simon_2021_LBBO.pdf) for the journal 'Beter Guiding' (LBBO) with tips and tricks for teachers.
 
 <br>
 
