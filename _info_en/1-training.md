@@ -30,40 +30,39 @@ The Knowledge Center KJP offers [information for schools](https://www.kenniscent
 #### Dutch Center for Youth Health
 The NCJ focuses mainly on professionals within youth healthcare and shares [guidelines](https://www.ncj.nl/richtlijnen/alle-richtlijnen/richtlijn/angst) about identification, support and guidance to the right care. For healthcare workers in and around school [this summary](/pdf/samenvattingskaart JGZ-richtlijn angst.pdf) might be a handy overview.
 
-#### Nederlands Jeugdinstituut
-Het NJI biedt [algemene uitgebreide informatie](https://www.nji.nl/nl/Kennis/Dossier/Angst) over angst, verschillende angststoornissen en risicofactoren. 
+#### Dutch Youth Institute
+The NJI offers [general comprehensive information](https://www.nji.nl/nl/Kennis/Dossier/Angst) about anxiety, various anxiety disorders and risk factors.
 
-#### Artikelen, filmpjes, podcasts, radio-uitzendingen en meer... 
-NPO Radio 1 verdiepte zich in de talkshow Spraakmakers [een week lang in angst bij kinderen](https://www.nporadio1.nl/spraakmakers/onderwerpen/71875-2021-02-05-verhalen-van-spraakmakers-angst-bij-kinderen-deel-5). Hoe ontwikkelen angsten zich, wat is de impact op een kind en zijn omgeving en hoe pak je angstklachten aan?
+#### Articles, videos, podcasts, radio broadcasts and more...
+NPO Radio 1 immersed itself in the talk show Spraakmakers [a week in fear in children](https://www.nporadio1.nl/spraakmakers/onderwerpen/71875-2021-02-05-verhalen-van-spraakmakers-angst-bij-kinderen-deel-5). How do fears develop, what is the impact on a child and his environment and how do you deal with anxiety?
 <br>
 
-Radio LEF (Leiden Education Fieldlab) maakte een podcast over het SPIL-programma: [luister hier](https://open.spotify.com/episode/1woeQZApsmgxbpQtfEQPGZ?si=iIYTHGOHTlGYJw-TEfYx5w).
+Radio LEF (Leiden Education Fieldlab) made a podcast about the SPIL-program: [lister here](https://open.spotify.com/episode/1woeQZApsmgxbpQtfEQPGZ?si=iIYTHGOHTlGYJw-TEfYx5w).
 <br>
 
-Ellin Simon & Petra Butler schreven voor vakblad 'Beter Begeleiden' (LBBO) een helder [artikel over angst bij leerlingen](/pdf/Simon_2021_LBBO.pdf) met tips voor leraren. 
+Ellin Simon & Petra Butler wrote a clear [article about fear in students](/pdf/Simon_2021_LBBO.pdf) for the trade journal 'Beter Guiding' (LBBO) with tips and tricks for teachers.
 
 <br>
 
-### Wat kan het Kenniscentrum Angst & Stress bij Jeugd voor mij betekenen?  
+### What can the Knowledge Center for Anxiety & Stress in Youth do for me?
 
-#### Hulplijn
+#### Helpline
 
-Vanaf 1 februari 2021 biedt het Kenniscentrum Angst en Stress bij Jeugd een telefonische hulplijn voor leraren en zorgmedewerkers in en rond de school. Zij kunnen bellen met vragen over angst bij leerlingen, zoals: hoe herken je angst? Wat kun je doen in de klas? Waar kan een leerling passende hulp krijgen?
+From 1 February 2021, the Knowledge Center for Anxiety and Stress in Youth will offer a telephone helpline for teachers and healthcare workers in and around the school. They can call with questions about anxiety in students, such as: How do you recognize anxiety? What can you do in class? Where can a student get appropriate help?
 
-We zijn bereikbaar op 071 527 5464 en houden open spreekuren op werkdagen van 9:00-17:00u. Je kunt dan bellen voor korte vragen (max 10 min).
+We can be reached on +31 71 527 5464 and have open office hours on working days from 9:00 am to 5:00 pm. You can then call for short questions (max 10 min).
 
-Wil je een vraag of kwestie voorleggen die meer tijd vergt? Dan kun je op dezelfde dagen een aparte afspraak met ons inplannen van een half uur. Bel hiervoor tijdens het open spreekuur of stuur een e-mail naar kas@fsw.leidenuniv.nl.
+Do you want to submit a question or issue that takes more time? Then you can schedule an appointment with us of half an hour on the same days. You can reach us during open consultation hours or send an e-mail to kas@fsw.leidenuniv.nl.
 
-Natuurlijk kun je je vragen ook per e-mail aan ons voorleggen!
+Of course you can also submit your questions to us by e-mail!
 
 <br>
-#### Presentaties
+#### Presentations
 
-Wij verzorgen korte presentaties (10-15 min) over angst bij leerlingen en over ons aanbod, voor schoolteams of andere organisaties betrokken bij de zorg voor leerlingen. Interesse? Mail naar kas@fsw.leidenuniv.nl. 
+We provide short presentations (10-15 min) about anxiety in students and about our offers, for school teams or other organizations involved in the care of students. Interested? Send an e-mail to kas@fsw.leidenuniv.nl.
 
 <br>
 #### Workshops
 
-Vanaf het voorjaar 2021 organiseren we met enige regelmatig workshops voor leraren, IB'ers en ondersteuningscoördinatoren. Houd onze website en nieuwsbrief in de gaten voor de data en meer informatie, of maak je interesse alvast kenbaar via kas@fsw.leidenuniv.nl. 
-
+From spring 2021, we will regularly organize workshops for teachers, IB staff and support coordinators. Keep an eye on our website and newsletter for the dates and more information, or express your interest via kas@fsw.leidenuniv.nl.
 
