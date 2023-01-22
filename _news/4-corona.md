@@ -5,7 +5,7 @@ summary: Wat is corona? Is corona gevaarlijk? Kinderen hebben in deze tijd ook v
 permalink: /news/corona
 project-url: /projects/corona
 category: news
-image: /img/corona.jpg
+image: /img/corona4.png
 ---
 
 
