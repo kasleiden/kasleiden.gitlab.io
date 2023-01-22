@@ -5,7 +5,7 @@ summary: Zie je soms ook zo op tegen het geven van een spreekbeurt, of vind je h
 permalink: /news/sas
 project-url: /projects/sas
 category: news
-image: /img/kiba-logo12.jpg
+image: /img/injesas4.jpg
 ---
 
 Alle InJeSas! groepen zijn vol op dit moment. De wachtlijst is helaas gesloten op dit moment. 
