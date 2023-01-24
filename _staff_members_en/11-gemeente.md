@@ -1,7 +1,7 @@
 ---
 nameid: Municipality Leiden
 layout: teammember
-name: Municipality Leiden
+name: MUNNICIPALITY LEIDEN   
 title: Municipality Leiden
 group: samenwerkingspartner
 summary: 
