@@ -5,7 +5,7 @@ name: Pschologenpraktijk Kuin
 title: Pschologenpraktijk Kuin
 group: samenwerkingspartner
 summary: 
-image: 
+image: /img/leeg.jpeg
 ---
 
  
