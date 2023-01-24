@@ -1,5 +1,5 @@
 ---
-nameid: Samenwerkingsverband 
+nameid: Samenwerkingsverband vo
 layout: teammember
 name: SAMENWERKINGSVERBAND
 title: Samenwerkingsverband Voorgezet Onderwijs Leiden
