@@ -8,6 +8,5 @@ summary: Waar diagnostiek en behandeling hand in hand gaan met wetenschappelijk 
 image: /img/lubec.jpg 
 ---
 
- 
 [klik hier](https://www.universiteitleiden.nl/sociale-wetenschappen/lubec) om naar de website van het LUBEC te gaan. 
 
