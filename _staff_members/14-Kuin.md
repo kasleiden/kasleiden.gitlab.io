@@ -1,8 +1,8 @@
 ---
-nameid: Pschologenprakrijk Kuin
+nameid: Pschologenpraktijk Kuin
 layout: teammember
-name: Pschologenprakrijk Kuin
-title: Pschologenprakrijk Kuin
+name: Pschologenpraktijk Kuin
+title: Pschologenpraktijk Kuin
 group: samenwerkingspartner
 summary: 
 image: 
