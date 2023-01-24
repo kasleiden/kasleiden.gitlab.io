@@ -1,7 +1,7 @@
 ---
 nameid: Collaboration
 layout: teammember
-name: Collaboration
+name: COLLABORATION
 title: Collaboration Secondary Education Leiden
 group: samenwerkingspartner
 summary: 
