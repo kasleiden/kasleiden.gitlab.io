@@ -1,7 +1,7 @@
 ---
 nameid: Psychology Practice Kuin
 layout: teammember
-name: KUIN
+name: KUIN 
 title: Psychology Practice  Kuin
 group: samenwerkingspartner
 summary: 
