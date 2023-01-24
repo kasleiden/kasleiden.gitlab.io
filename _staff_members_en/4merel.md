@@ -3,7 +3,7 @@ nameid: merel
 layout: teammember
 name: MEREL LELIEVELD
 title: Stagiaire KibA
-group: team
+group: alumni
 summary: Merel is masterstudent bij de opleiding school psychologie aan de Universiteit Leiden en loopt stage bij het KIBA project.
 image: /img/merel.jpeg
 ---
