@@ -1,5 +1,5 @@
 ---
-nameid: Samenwerkingsverband 
+nameid: Samenwerkingsverband po
 layout: teammember
 name: SAMENWERKINGSVERBAND
 title: Samenwerkingsverband Primair Onderwijs Leiden
