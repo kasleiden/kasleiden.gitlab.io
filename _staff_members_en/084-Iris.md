@@ -9,3 +9,4 @@ image: /img/iris.jpg
 ---
 
 Iris is psycholoog kind en jeugd bij GGZ Delfland en tevens junior onderzoeker op het project 'Samen angsten aangaan' bij de afdeling Ontwikkelings- en Onderwijspsychologie aan de Universiteit Leiden. 
+
