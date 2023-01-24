@@ -1,5 +1,5 @@
 ---
-nameid: lubec
+nameid: gemeente
 layout: teammember
 name: GEMEENTE 
 title: Gemeente Leiden
