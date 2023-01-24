@@ -1,9 +1,9 @@
 ---
-nameid: lubec
+nameid: Collaboration
 layout: teammember
-name: Samenwerkingsverband 
-title: Samenwerkingsverband Primair Onderwijs Leiden
-group: samenwerkingspartner
+name: Collaboration 
+title: Collaboration Primary Education Leiden
+group: collaborators
 summary: 
 image: /img/PO.jpeg
 ---
