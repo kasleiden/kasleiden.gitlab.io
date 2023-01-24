@@ -2,10 +2,10 @@
 nameid: lubec
 layout: teammember
 name: Samenwerkingsverband 
-title: Samenwerkingsverband Voorgezetonderwijs Leiden
+title: Samenwerkingsverband Voorgezet Onderwijs Leiden
 group: samenwerkingspartner
 summary: 
-image: 
+image: /img/VO.jpeg
 ---
 
  
