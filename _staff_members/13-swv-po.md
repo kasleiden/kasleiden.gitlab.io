@@ -1,7 +1,7 @@
 ---
 nameid: Samenwerkingsverband 
 layout: teammember
-name: Samenwerkingsverband 
+name: SAMENWERKINGSVERBAND
 title: Samenwerkingsverband Primair Onderwijs Leiden
 group: samenwerkingspartner
 summary: 
