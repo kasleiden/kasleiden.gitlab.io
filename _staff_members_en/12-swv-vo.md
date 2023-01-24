@@ -7,5 +7,3 @@ group: collaborators
 summary: 
 image: /img/VO.jpeg
 ---
-
- 
