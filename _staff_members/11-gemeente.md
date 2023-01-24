@@ -1,7 +1,7 @@
 ---
 nameid: lubec
 layout: teammember
-name: Gemeente Leiden
+name: GEMEENTE 
 title: Gemeente Leiden
 group: samenwerkingspartner
 summary: 
