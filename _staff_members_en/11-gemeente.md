@@ -1,11 +1,11 @@
 ---
-nameid: lubec
+nameid: Municipality Leiden
 layout: teammember
 name: Municipality Leiden
 title: Municipality Leiden
 group: samenwerkingspartner
 summary: 
-image: /img/gemeente.png 
+image: /img/gemeente.JPEG
 ---
 
  
