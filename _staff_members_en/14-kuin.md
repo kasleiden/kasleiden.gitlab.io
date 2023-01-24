@@ -1,8 +1,8 @@
 ---
-nameid: Psychology practice Kuin
+nameid: Psychology Practice Kuin
 layout: teammember
-name: Psychology practice Kuin
-title: Psychology practice  Kuin
+name: KUIN
+title: Psychology Practice  Kuin
 group: samenwerkingspartner
 summary: 
 image: /img/leeg.jpeg
