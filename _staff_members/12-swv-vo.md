@@ -1,5 +1,5 @@
 ---
-nameid: lubec
+nameid: Samenwerkingsverband 
 layout: teammember
 name: Samenwerkingsverband 
 title: Samenwerkingsverband Voorgezet Onderwijs Leiden
