@@ -8,4 +8,4 @@ summary: Linda deed als zorgcoördinator mee aan het SPIL programma.
 image: /img/linda.jpg
 ---
 
-Linda deed als zorgcoördinator mee aan het SPIL programma.
+Linda deed als zorgcoördinator van Vlietlang College mee aan het SPIL programma.
