@@ -2,10 +2,10 @@
 nameid: annelieke
 layout: teammember
 name: ANNELIEKE HAGEN
-title: Dagelijks projectleider KibA
+title: Daily project leader KibA
 group: team
-summary: Annelieke is dagelijks projectleider op het KIBA project. Daarnaast is ze junior onderzoeker op het gebied van specifieke angsten bij de afdeling Ontwikkelings- en Onderwijspsychologie aan de Universiteit Leiden.
+summary: Annelieke is daily project leader on the KibA project. She is also a junior researcher in the field of specific fears at the Department of Developmental and Educational Psychology at Leiden University.
 image: /img/annelieke.png
 ---
 
-Annelieke is dagelijks projectleider op het KIBA project. Daarnaast is ze junior onderzoeker op het gebied van specifieke angsten bij de afdeling Ontwikkelings- en Onderwijspsychologie aan de Universiteit Leiden.
+Annelieke is daily project leader on the KibA project. She is also a junior researcher in the field of specific fears at the Department of Developmental and Educational Psychology at Leiden University.
