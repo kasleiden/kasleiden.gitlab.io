@@ -8,5 +8,4 @@ summary: Mariska deed als intern begeleider mee aan het SPIL programma.
 image: /img/mariska.jpg
 ---
 
-
-
+Mariska deed als intern begeleider mee aan het SPIL programma.
