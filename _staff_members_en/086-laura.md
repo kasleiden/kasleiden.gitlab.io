@@ -2,9 +2,9 @@
 nameid: Laura
 layout: teammember
 name: LAURA BAARS
-title: Stagiaire KibA
+title: Intern KibA
 group: team
-summary: Laura is masterstudent bij de opleiding Kind- en Jeugdpsychologie aan de Universiteit Leiden en loopt stage bij het KibA project.
+summary: Laura is a master student at the Child and Adolescent Psychology program at Leiden University and is doing an internship at the KibA project.
 image: /img/Laura.jpeg
 ---
 
