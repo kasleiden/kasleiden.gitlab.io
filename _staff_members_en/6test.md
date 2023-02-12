@@ -2,10 +2,10 @@
 nameid: linda
 layout: teammember
 name: DR. LINDA VAN DER ZWAAN 
-title: Care coordinator Vlietland College
+title: Carecoordinator Vlietland College
 group: alumni
-summary: Linda participated in the SPIL program as care coordinator of the Vlietland College.  
+summary: Linda participated in the SPIL program as care coordinator at Vlietland College.  
 image: /img/linda.jpg
 ---
 
-Linda participated in the SPIL program as care coordinator of the Vlietland College. 
+Linda participated in the SPIL program as care coordinator at Vlietland College. 
