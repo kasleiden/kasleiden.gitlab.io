@@ -13,4 +13,4 @@ My name is Jasmin Rahemenia. I work as a student assistant at the KibA project. 
 <br>
 <br>
 LinkedIn: https://www.linkedin.com/in/jasminrahemenia/
-Contact: j.rahemenia@fsw.leidenuniv.nl
+Contact: j.rahemenia@fsw.leidenuniv.nl 
