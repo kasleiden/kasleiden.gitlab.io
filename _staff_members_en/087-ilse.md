@@ -2,15 +2,13 @@
 nameid: Ilse
 layout: teammember
 name: ILSE SCHOT
-title: Stagiaire KibA
+title: Intern KibA
 group: team
-summary: Ilse is masterstudent bij de opleiding Schoolpsychologie aan de Universiteit Leiden en loopt stage bij het KibA project.
+summary: Ilse is a master student at the School Psychology program at Leiden University and is doing an internship at the KibA project.
 image: /img/Ilse.jpg
 ---
 
 
-Mjn naam is Ilse (Schot), ik ben 22 jaar en ben bezig met mijn master School Psychologie. Ik merk dat ik hier helemaal op mijn plek zit omdat ik graag met kinderen werk en zoveel mogelijk mensen kan helpen. 
-Ik help daarnaast mee met het KiBA project waar ik ook mijn scriptie bij schrijf. In mijn vrije tijd zit ik op voetbal wat ik altijd met veel plezier doe en ook skeeleren vind ik erg leuk !
-Ik hoop volgend jaar een leuke stage te kunnen vinden om meer ervaring op te doen en later ook aan de slag te kunnen op een middelbare school bijvoorbeeld als school psycholoog.  
+My name is Ilse Schot, I am 22 years old and I am doing my master School Psychology. I notice that I feel completely at home here because I like working with children and I can help as many people as possible. I also help with the KibA project where I also write my thesis. In my spare time I play football, which I always enjoy doing and I also enjoy rollerblading! I hope to be able to find a nice internship next year to gain more experience and later also be able to work at a secondary school, for example as a school psychologist. 
 <br>
 <br>
