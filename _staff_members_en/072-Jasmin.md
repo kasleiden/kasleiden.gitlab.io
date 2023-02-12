@@ -2,7 +2,7 @@
 nameid: jasmin
 layout: teammember
 name: JASMIN RAHEMENIA
-title: Assistent KIBA
+title: Assistent KibA
 group: team
 summary: Jasmin is a student assistant at the KibA project.
 image: /img/jasmin.jpg
