@@ -4,8 +4,8 @@ layout: teammember
 name: MARISKA KENTER
 title: Internal supervisor De Singel
 group: alumni
-summary: Mariska works as an internal supervisor at De Singel and participated in the SPIL program.
+summary: Mariska participated in the SPIL program as an internal supervisor at De Singel
 image: /img/mariska.jpg
 ---
 
-Mariska works as an internal supervisor at De Singel and participated in the SPIL program.
+Mariska participated in the SPIL program as an internal supervisor at De Singel.
