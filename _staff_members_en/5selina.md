@@ -8,4 +8,4 @@ summary: Selina did an internship at the KibA project.
 image: /img/selina.jpg
 ---
 
-
+Selina did an internship at the KibA project.
