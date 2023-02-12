@@ -8,6 +8,6 @@ summary: Emma worked as a daily project coordinator of the SPIL program.
 image: /img/Emma.jpeg
 ---
 
-Emma worked as a daily project coordinator of the SPIL program.
+Emma worked as a daily project coordinator of the SPIL program. 
 
 
