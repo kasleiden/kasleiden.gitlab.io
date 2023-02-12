@@ -2,7 +2,7 @@
 nameid: janna
 layout: teammember
 name: DR. JANNA MARIE BAS-HOOGENDAM
-title: Senior onderzoeker
+title: Senior researcher
 group: team
 summary: Janna Marie is a lecturer and researcher at the Department of Educational and Developmental Psychology, specializing in how anxiety occurs within families.
 image: /img/janna.jpg
