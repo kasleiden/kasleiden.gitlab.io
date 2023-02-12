@@ -12,4 +12,5 @@ image: /img/jasmin.jpg
 My name is Jasmin Rahemenia. I work as a student assistant at the KibA project. Originally I have a background in law, but I started the research master Developmental Psychology at Leiden University. I combine this master with clinical courses of the master Child and Youth Psychology. Additionally, I am doing a clinical internship at GGZ Delfland.
 <br>
 <br>
+LinkedIn: https://www.linkedin.com/in/jasminrahemenia/
 Contact: j.rahemenia@fsw.leidenuniv.nl
