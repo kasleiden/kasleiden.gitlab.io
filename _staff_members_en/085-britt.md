@@ -15,4 +15,3 @@ My name is Britt Reijnders. I am 23 years old and I am currently doing my master
 Linkedin: https://www.linkedin.com/in/britt-reijnders-767630132/ 
 <br>
 Contact: b.reijnders@umail.leidenuniv.nl
-
