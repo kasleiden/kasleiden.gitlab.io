@@ -2,11 +2,10 @@
 nameid: Iris
 layout: teammember
 name: IRIS LANGEREIS
-title: Dagelijks projectleider 'Samen angsten aangaan'
+title: Daily project leader Facing Fears Together
 group: team
-summary: Iris is dagelijks projectleider op het project 'samen angsten aangaan'. Iris is psycholoog kind en jeugd bij GGZ Delfland en tevens junior onderzoeker bij de afdeling Ontwikkelings- en Onderwijspsychologie aan de Universiteit Leiden. 
+summary: Iris is daily project leader on the project Facing Fears Together. Iris is a psychologist at GGZ Delfland and also a junior researcher at the Department of Developmental and Educational Psychology at Leiden University.
 image: /img/iris.jpg
 ---
 
-Iris is psycholoog kind en jeugd bij GGZ Delfland en tevens junior onderzoeker op het project 'Samen angsten aangaan' bij de afdeling Ontwikkelings- en Onderwijspsychologie aan de Universiteit Leiden. 
-
+Iris is daily project leader on the project Facing Fears Together. Iris is a psychologist at GGZ Delfland and also a junior researcher at the Department of Developmental and Educational Psychology at Leiden University.
