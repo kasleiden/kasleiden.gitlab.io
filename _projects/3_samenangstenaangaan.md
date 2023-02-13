@@ -23,9 +23,11 @@ Meer weten?
 <br>
 Neem contact op met dr. Anika Bexkens of Iris Langereis
 <br>
-Dr. Anika Bexkens		          	
+Dr. Anika Bexkens	
+<br>
 a.bexkens@fsw.leidenuniv.nl 	
 <br>
 <br>
 Iris Langereis, promovenda
+<br>
 i.langereis@fsw.leidenuniv.nl 
