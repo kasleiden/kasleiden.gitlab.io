@@ -20,7 +20,8 @@ Tijdens de behandeling wordt eerst samen met de therapeut goed uitgezocht waar d
 <br>
 <br>
 <br>
-Meer weten? Neem contact op met dr. Anika Bexkens of Iris Langereis
+Meer weten? 
+Neem contact op met dr. Anika Bexkens of Iris Langereis
 Dr. Anika Bexkens			Iris Langereis, promovenda
 a.bexkens@fsw.leidenuniv.nl 		i.langereis@fsw.leidenuniv.nl 
 
