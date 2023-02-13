@@ -6,7 +6,7 @@ permalink:
 project-url: 
 category: news
 image: /img/projectiris.jpg
-members: [anika, iris]
+members: [anika]
 ---
 
 #### Achtergrond
