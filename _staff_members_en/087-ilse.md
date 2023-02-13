@@ -5,7 +5,7 @@ name: ILSE SCHOT
 title: Intern KibA
 group: team
 summary: Ilse is a master student at the School Psychology program at Leiden University and is doing an internship at the KibA project.
-image: /img/Ilse.jpg
+image: 
 ---
 
 
