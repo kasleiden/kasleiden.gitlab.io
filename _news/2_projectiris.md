@@ -2,13 +2,12 @@
 layout: post
 title: 'Samen angsten aangaan'
 summary: In het project ‘samen angsten aangaan’ doen wij onderzoek naar de verbetering van angstbehandeling voor jongeren met en zonder een licht verstandelijke beperking (LVB). Door een leeftijdsgenoot als buddy deel te laten nemen aan de behandeling hopen wij de effectiviteit van angstbehandeling te vergroten. 
-permalink: /news/sas
-project-url: /projects/sas
+permalink: /news/samenangstenaangaan
+project-url: /projects/samenangstenaangaan
 category: news
-image: /img/injesas4.jpg
+image: /img/projectiris.jpg
 ---
 
-Alle InJeSas! groepen zijn vol op dit moment. De wachtlijst is helaas gesloten op dit moment. 
 
 #### Achtergrond
 Veel jongeren hebben last van angsten, bijvoorbeeld angst voor sociale situaties, angst om te presenteren of angst voor dieren. Ongeveer 30 procent van de jongeren heeft zo veel last van angst dat behandeling binnen de GGZ nodig is. De meest gebruikte behandeling voor angst is het aangaan van je angsten. Dit noemen we ‘exposure’, wat vrij vertaald blootstelling aan de angst betekent. Deze manier van behandeling werkt goed, maar helaas niet voor alle jongeren even goed. Voor jongeren met een licht verstandelijke beperking (LVB) werkt deze manier van behandeling nog minder goed. Uit onderzoek weten we dat jongeren gevoelig zijn voor sociale invloeden van leeftijdsgenoten. Leeftijdsgenoten spelen een grote rol in het dagelijks leven van jongeren en hebben een sterke invloed op het gedrag van jongeren. In het project ‘samen angsten aangaan’ onderzoeken we of leeftijdsgenootjes betrekken in de behandeling de effectiviteit van de behandeling kan vergroten. 
