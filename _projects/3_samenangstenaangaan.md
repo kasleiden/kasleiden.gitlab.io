@@ -5,7 +5,7 @@ summary: In het project ‘samen angsten aangaan’ doen wij onderzoek naar de v
 permalink: /projects/samenangstenaangaan
 category: project
 image: /img/projectiris.jpg
-members: [anika, iris]
+members: [anika, Iris]
 ---
 
 
