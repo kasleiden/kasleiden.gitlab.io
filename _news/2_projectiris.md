@@ -6,7 +6,7 @@ permalink:/news/sas
 project-url: /projects/samenangstenaangaan
 category: news
 image: /img/projectiris.jpg
-members: [anika]
+members: [anke]
 ---
 
 #### Achtergrond
