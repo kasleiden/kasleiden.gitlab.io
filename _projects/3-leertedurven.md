@@ -18,6 +18,7 @@ members: [michiel, anke, anika, marieke, bonny]
 #### Over het Leer the durven! programma
 Het 'Leer te Durven!' programma is in 2013 ontwikkeld door Ellin Simon en Susan Bögels met als doel kinderen met lichte angstklachten zo vroeg mogelijk te kunnen helpen. Inmiddels zijn er al meerdere onderzoeken gedaan naar de effectiviteit van het Leer te durven! programma (https://publicaties.zonmw.nl/interventie-leer-te-durven-leert-kinderen-om-te-gaan-met-angst/) en is het werkboek ook uitgegeven (https://www.lannoo.be/nl/producten/psychologie-algemeen/leer-te-durven-werkboek). Het programma wordt gegeven in een groep en bestaat uit 8 bijeenkomsten van 1,5 uur. Tijdens de training oefenen kinderen met situaties die zij spannend vinden (exposure), leren zij meer zelfvertrouwen te krijgen en meer positief (helpend) te denken. Daarnaast doen de kinderen in de groep ontspannings- en sociale vaardigheidsoefeningen. 
 <br>
+<br>
 
 #### Voor wie?
 Het Leer te durven! programma is speciaal ontwikkeld voor kinderen tussen de 8 en 12 jaar die zich angstig voelen of angstig gedragen, situaties vermijden die ze niet durven aan te gaan, bang zijn om dingen fout te doen, schrikachtig of gestrest overkomen, negatief over zichzelf zijn, erg verlegen zijn en veel piekeren. 
@@ -33,10 +34,12 @@ In Leiden kunnen we dit programma met behulp van een schenking uit het H.M. Derw
 <br>
 
 Amsterdam: https://www.jeugdpreventieamsterdam.nl/?course=leer-te-durven 
+<br>
 Rotterdam: https://www.indigowest.nl/cursussen/cursus/-/leer-te-durven-8-12-jr en https://cjgrijnmond.nl/cursus/rotterdam-leer-te-durven
+<br>
 Zwolle en Kampen: https://www.impluz.nl/training/leer-te-durven
 <br> 
-
+<br>
 #### Meer informatie of aanmelden?
 Voor meer informatie of voor het aanmelden zijn we dagelijks telefonisch of per email bereikbaar. 
 <br>
