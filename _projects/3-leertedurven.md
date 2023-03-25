@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Leer te durven!
-summary: Is uw kind wat teruggetrokken of angstig voor verschillende situaties en zou u het fijn vinden als uw kind meer dingen zou durven en is uw kind tussen de 8 en 12 jaar? Dan is het Leer te durven! programma wel iets voor hem of haar!
+summary: Is uw kind wat teruggetrokken of angstig voor verschillende situaties en zou u het fijn vinden als uw kind meer dingen zou durven? Dan is het Leer te durven! programma wel iets voor hem of haar!
 permalink: /projects/leertedurven
 category: project
 image: /img/leertedurven1.jpg
