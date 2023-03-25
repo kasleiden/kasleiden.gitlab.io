@@ -11,7 +11,7 @@ members: [michiel, anke, marieke, anika]
 
 Is uw kind wat teruggetrokken of angstig voor verschillende situaties en zou u het fijn vinden als uw kind meer dingen zou durven? 
 
-Binnenkort vindt u hier meer informatie over deze training. 
+Klik hier voor meer informatie over dit programma
 
 
 
