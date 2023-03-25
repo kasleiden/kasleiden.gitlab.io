@@ -16,7 +16,7 @@ members: [michiel, anke, anika, marieke, bonny]
 <br>
 
 #### Over het Leer the durven! programma
-Het 'Leer te Durven!' programma is in 2013 ontwikkeld door Ellin Simon en Susan Bögels met als doel kinderen met lichte angstklachten zo vroeg mogelijk te kunnen helpen. Inmiddels zijn er al meerdere onderzoeken gedaan naar de effectiviteit van het Leer te durven! programma (https://publicaties.zonmw.nl/interventie-leer-te-durven-leert-kinderen-om-te-gaan-met-angst/) en is het [werkboek](https://www.lannoo.be/nl/producten/psychologie-algemeen/leer-te-durven-werkboek) werkboek ook uitgegeven. Het programma wordt gegeven in een groep en bestaat uit 8 bijeenkomsten van 1,5 uur. Tijdens de training oefenen kinderen met situaties die zij spannend vinden (exposure), leren zij meer zelfvertrouwen te krijgen en meer positief (helpend) te denken. Daarnaast doen de kinderen in de groep ontspannings- en sociale vaardigheidsoefeningen. 
+Het 'Leer te Durven!' programma is in 2013 ontwikkeld door Ellin Simon en Susan Bögels met als doel kinderen met lichte angstklachten zo vroeg mogelijk te kunnen helpen. Inmiddels zijn er al meerdere onderzoeken gedaan naar de effectiviteit van het Leer te durven! programma en is het [werkboek](https://www.lannoo.be/nl/producten/psychologie-algemeen/leer-te-durven-werkboek) ook uitgegeven. Het programma wordt gegeven in een groep en bestaat uit 8 bijeenkomsten van 1,5 uur. Tijdens de training oefenen kinderen met situaties die zij spannend vinden (exposure), leren zij meer zelfvertrouwen te krijgen en meer positief (helpend) te denken. Daarnaast doen de kinderen in de groep ontspannings- en sociale vaardigheidsoefeningen. 
 <br>
 <br>
 
@@ -30,7 +30,7 @@ Het Leer te durven! programma is speciaal ontwikkeld voor kinderen tussen de 8 e
 De jeugdzorg is sinds een aantal jaar ondergebracht bij de gemeenten. Dit betekent dat u als eerste probeert om zorg te vinden bij uw eigen gemeente. Het Leer te durven! programma draait al op verschillende plekken in Nederland (bijvoorbeeld in [Amsterdam](https://www.jeugdpreventieamsterdam.nl/?course=leer-te-durven), [Rotterdam](https://www.indigowest.nl/cursussen/cursus/-/leer-te-durven-8-12-jr) en [zwolle en Kampen](https://www.impluz.nl/training/leer-te-durven). Woont uw kind niet in een gemeente waar het leer te durven! programma wordt aangeboden, dan kunt u bij ons in Leiden terecht. Het Kenniscentrum angst en stress werkt hierbij samen met het LUBEC, waar het programma zal draaien.
 
 <br>
-In Leiden kunnen we dit programma met behulp van een schenking uit het H.M. Derwort Fonds gratis aanbieden. Mocht u het programma in uw eigen gemeente willen volgen, dan kunt u het beste naar de websites van de gemeente gaan om te bekijken hoe u zich kunt aanmelden en wat de eventuele kosten zijn.
+We kunnen dit programma met behulp van een schenking uit het H.M. Derwort Fonds gratis aanbieden. Mocht u het programma in uw eigen gemeente willen volgen, dan kunt u het beste naar de websites van de gemeente gaan om te bekijken hoe u zich kunt aanmelden en wat de eventuele kosten zijn.
 
 <br> 
 <br>
