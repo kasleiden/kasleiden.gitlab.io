@@ -2,17 +2,16 @@
 nameid: britt
 layout: teammember
 name: BRITT REIJNDERS
-title: Stagiaire KibA
+title: Intern KibA
 group: team
-summary: Britt is masterstudent bij de opleiding School Psychologie aan de Universiteit Leiden en loopt stage bij het KibA project.
+summary: Britt is a master student at the School Psychology program at Leiden University and is doing an internship at the KibA project.
 image: /img/britt.png
 ---
 
-Mijn naam is Britt Reijnders. Ik ben 23 jaar en ben op dit moment bezig met mijn masteropleiding Clinical Child and Adolescent Psychology aan de Universiteit Leiden. Dit jaar schrijf ik mijn scriptie en dit doe ik bij het KibA project. Ik ben vooral geïnteresseerd in de klinische aspecten van mijn studie en om die reden ben ik dan ook erg enthousiast om kennis en ervaring op te mogen doen omtrent specifieke fobieën bij het KibA project! 
+My name is Britt Reijnders. I am 23 years old and I am currently doing my master's program in Child and Adolescent Psychology at Leiden University. This year I am writing my thesis and I am doing this at the KibA project. I am especially interested in the clinical aspects of my studies and for that reason I am very excited to gain knowledge and experience about specific phobias at the KibA project!
 <br>
 <br>
 <br>
 Linkedin: https://www.linkedin.com/in/britt-reijnders-767630132/ 
 <br>
 Contact: b.reijnders@umail.leidenuniv.nl
-

@@ -1,5 +1,5 @@
 ---
-nameid: Collaboration
+nameid: Collaboration 
 layout: teammember
 name: COLLABORATION
 title: Collaboration Primary Education Leiden

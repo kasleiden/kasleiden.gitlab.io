@@ -2,14 +2,12 @@
 nameid: Emma
 layout: teammember
 name: EMMA VAN ERP
-title: Dagelijks projectcoordinator SPIL
+title: Daily project coordinator SPIL program
 group: alumni
-summary: Emma is dagelijks projectcoördinator op het SPIL programma.
+summary: Emma worked as a daily project coordinator of the SPIL program.
 image: /img/Emma.jpeg
 ---
 
-Emma van Erp is dagelijks projectcoördinator van het SPIL programma.
-
-<br>
+Emma worked as a daily project coordinator of the SPIL program. 
 
 

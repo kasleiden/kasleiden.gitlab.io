@@ -4,7 +4,7 @@ layout: teammember
 name: DR. ANIKA BEXKENS
 title: Head Healthcare
 group: team
-summary: Anika is a co-founder of the knowledge center. She is primarily responsible for all care and prevention programs within the knowledge center. She is also an associate professor at the Department of Developmental and Educational Psychology at Leiden University and a clinical psychologist at GGZ Delfland.
+summary: Anika is co-founder of the knowledge center. She is primarily responsible for all care and prevention programs within the knowledge center. She is also an associate professor at the Department of Developmental and Educational Psychology at Leiden University and a clinical psychologist at GGZ Delfland.
 image: /img/Anika.jpg
 ---
 

@@ -5,7 +5,7 @@ name: KUIN
 title: Psychologenpraktijk Kuin
 group: samenwerkingspartner
 summary: 
-image: /img/leeg.jpeg
+image: /img/Kuin.JPEG
 ---
 
  

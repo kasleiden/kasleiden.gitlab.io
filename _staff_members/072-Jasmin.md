@@ -12,4 +12,5 @@ Jasmin is student assistent bij het KibA project. Daarnaast combineert ze de res
 
 <br>
 <br>
+LinkedIn: https://www.linkedin.com/in/jasminrahemenia/
 Contact: j.rahemenia@fsw.leidenuniv.nl

@@ -2,10 +2,10 @@
 nameid: recep
 layout: teammember
 name: DR. RECEP UYSAL
-title: Senior onderzoeker
+title: Senior researcher
 group: alumni
-summary: Recep is psycholoog en promoveerde op het gebied van de positieve psychologie. Hij werkt als senior onderzoeker bij het KIBA project.
+summary: Recep worked as a senior researcher at the KibA project.
 image: /img/recep.jpg
 ---
 
-Recep is psycholoog en promoveerde op het gebied van de positieve psychologie. Hij werkt als senior onderzoeker bij het KIBA project.
+Recep worked as a senior researcher at the KibA project. 

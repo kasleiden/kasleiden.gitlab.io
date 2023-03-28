@@ -2,10 +2,10 @@
 nameid: amber
 layout: teammember
 name: AMBER NOORDERMEER
-title: Assistent KibA
+title: Assistent KibA 
 group: team
-summary: Amber is student assistent bij het KibA project. 
+summary: Amber is a student assistant at the KibA project.
 image: /img/amber.jpg
 ---
 
-Amber is student assistent bij het KibA project. 
+Amber is a student assistant at the KibA project.
