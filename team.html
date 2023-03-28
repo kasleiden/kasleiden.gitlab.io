@@ -65,9 +65,11 @@ title: TEAM
   </div>
   <div class="row">
     {% for staff_member in site.staff_members %}
-      {%if staff_member.group == "samenwerkingspartner" %}
       {% assign remainder = forloop.index | modulo: 4 %}
-    {% if remainder == 1 %}
+      {% if remainder == 1 %}
+      <div class="row">
+        {% endif %}
+        {%if staff_member.group == "samenwerkingspartner" %}
     <div class="column-team">
       <div class="article">
         <div class="article-head">
@@ -82,8 +84,11 @@ title: TEAM
         </div>
       </div>
     </div>
-    {% endif %}
-    {% endfor %}
+        {% endif %}
+        {% if remainder == 0 %}
+        </div>
+        {% endif %}
+        {% endfor %}
  <hr />
 </div>
     <div>
