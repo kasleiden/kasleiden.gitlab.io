@@ -63,7 +63,6 @@ title: TEAM
   <div>
     <h3>SAMENWERKINGSPARTNERS</h3>
   </div>
-  <div class="row">
     {% for staff_member in site.staff_members %}
       {% assign remainder = forloop.index | modulo: 4 %}
       {% if remainder == 1 %}
