@@ -5,7 +5,7 @@ name: DR. ANKE KLEIN
 title: Dagelijkse Leiding
 group: team
 summary: Anke heeft de dagelijkse leiding over het kenniscentrum en is medeoprichter. <br> <br> Daarnaast werkt ze als universitair hoofddocent bij de afdeling Ontwikkelings- en Onderwijspychologie aan de Universiteit Leiden.
-image: /img/anke2.jpg
+image: /img/Anke_nieuw.jpeg
 ---
 
 #### Kort cv
