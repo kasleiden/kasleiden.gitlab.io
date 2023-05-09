@@ -6,7 +6,7 @@ title: Daily management
 group: team
 summary: Anke is the daily manager of the knowlegde center and co-founder. <br> <br> She is also an associate professor at the Department of Development and Educational Psychology at Leiden University.
 permalink: /team/anke
-image: /img/anke2.jpg
+image: /img/Anke_ nieuw.jpg
 ---
 
 #### Short resume
