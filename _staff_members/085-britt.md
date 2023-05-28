@@ -4,7 +4,7 @@ layout: teammember
 name: BRITT REIJNDERS
 title: Stagiaire KibA
 group: team
-summary: Britt is masterstudent bij de opleiding School Psychologie aan de Universiteit Leiden en loopt stage bij het KibA project.
+summary: Britt is masterstudent bij de opleiding Kind- en Jeugdpsychologie aan de Universiteit Leiden en loopt stage bij het KibA project.
 image: /img/britt.png
 ---
 
