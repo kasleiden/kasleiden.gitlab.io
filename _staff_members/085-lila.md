@@ -5,5 +5,5 @@ name: ANGELLE-LILA DE HAAN
 title: Stagiaire KIBA
 group: team
 summary: ANGELLE-LILA is stagiaire bij KIBA
-image: /img/lila.jpg
+image: /img/lila1.jpg
 ---
