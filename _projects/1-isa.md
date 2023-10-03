@@ -4,7 +4,7 @@ title: Interventie voor kinderen met sociale angst - Het ISA project
 summary: Is uw kind bang om in het middelpunt van de aandacht te staan of stom gevonden te worden door anderen? Vermijdt uw kind sociale situaties of voelt uw kind zich enorm ongelukkig wanneer hij/zij het moet doorstaan? Dan is het ISA programma misschien wel iets voor jullie
 permalink: /projects/isa
 category: project
-image: /img/isa.jpg
+image: /img/isa1.jpg
 members: [anke, anika, laura, lynn]
 ---
 
