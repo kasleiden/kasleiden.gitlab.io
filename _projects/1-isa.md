@@ -11,30 +11,35 @@ members: [anke, anika, laura, janna marie, lynn]
 
 
 <br>
-<b>Is uw kind wat teruggetrokken of angstig voor verschillende situaties en zou u het fijn vinden als uw kind meer dingen zou durven? Dan is het Leer te durven! programma wel iets voor hem of haar! </b>
+<b>Is uw kind bang om in het middelpunt van de aandacht te staan of stom gevonden te worden door anderen? Vermijdt uw kind sociale situaties of voelt uw kind zich enorm ongelukkig wanneer hij/zij het moet doorstaan? Dan is het ISA programma misschien wel iets voor jullie! </b>
 
 <br>
 
-#### Over het Leer the durven! programma
-Het 'Leer te Durven!' programma (Simon & Bögels, 2014) heeft als doel kinderen met lichte angstklachten zo vroeg mogelijk te kunnen helpen. Het programma wordt gegeven in een groep en bestaat uit 8 bijeenkomsten van 1,5 uur. Tijdens de training oefenen kinderen met situaties die zij spannend vinden (exposure), leren zij meer zelfvertrouwen te krijgen en meer positief (helpend) te denken. Daarnaast doen de kinderen in de groep ontspannings- en sociale vaardigheidsoefeningen. Het Kenniscentrum angst en stress werkt hierbij samen met het LUBEC, waar het programma zal draaien.
+#### Over ISA programma
+De interventie voor sociale angst, oftewel ISA, is een interventie waarbij kind en ouder(s) beiden, afzonderlijk van elkaar, een programma volgen om het kind te helpen met zijn/haar sociale angst. Uw kind zal 12 weken deelnemen aan de cognitieve gedragstherapie ‘Denken Doen is Durven’ (DDD) waarbij hij/zij nieuw gedrag zal leren om de angst te overwinnen. Ouders zullen 12 weken deelnemen aan de interventie ‘Supportive Parenting for Anxious Childhood Emotions’ (SPACE) waarbij samen wordt gekeken wat ouders kunnen doen om hun angstige kind het beste te ondersteunen. Met ISA gaan jullie samen de sociale angst van het kind aan.  
 <br>
 <br>
 
 #### Voor wie?
-Het Leer te durven! programma is speciaal ontwikkeld voor kinderen tussen de 8 en 12 jaar die zich angstig voelen of angstig gedragen, situaties vermijden die ze niet durven aan te gaan, bang zijn om dingen fout te doen, schrikachtig of gestrest overkomen, negatief over zichzelf zijn, erg verlegen zijn en veel piekeren. 
+Kinderen van 8 t/m 14 jaar met sociale angst en van wie ten minste één van de ouders wil meedoen aan het behandelprogramma. Het is van belang dat het kind momenteel niet onder behandeling is voor angstproblematiek.
 
 <br>
 
+#### Jullie doen dit als onderdeel van onderzoek, wat houdt dat in? 
+Wanneer jullie deelnemen aan dit behandeltraject dan doen jullie ook mee aan onderzoek. Dit betekent dat er een interview en vragenlijsten bij ouder(s) en kind zullen worden afgenomen voor, tijdens en na het behandeltraject. Daarnaast vragen we ouder(s) en kind om dagelijks op hun eigen telefoon een paar korte vragen te beantwoorden (max. 1 min per dag). Dankzij jullie antwoorden kunnen wij de effectiviteit meten van het gelijktijdig aanbieden van beide programma’s.  
+ 
+#### Hoe gaan we van start? 
+Voordat u samen met uw kind kan meedoen, zal er een intake plaatsvinden. Gebaseerd op de intake bekijken we samen of het programma passend is.
 
-#### Wat kost het?
-We kunnen dit programma met behulp van een schenking uit het H.M. Derwort Fonds gratis aanbieden. 
+#### Waar wordt de interventie gegeven en wat kost het? 
+Het Kenniscentrum Angst en Stress is geen behandelinstelling,maar werkt samen met het Leids Universitair Behandel en Expertise Centrum in Leiden, daar zal de interventie plaatsvinden. Er zijn geen kosten verbonden, het programma valt onder reguliere jeugdzorg. 
+
 
 <br> 
 
 
-#### Meer informatie of aanmelden?
-Voor meer informatie of voor het aanmelden zijn we dagelijks telefonisch of per email bereikbaar. 
-<br>
-telefoonnummer: 071 527 5464
-<br>
+#### Meer informatie of aanmelden? 
+Voor meer informatie of voor het aanmelden zijn we dagelijks telefonisch of per email bereikbaar.  
+Telefoonnummer: 071 527 5464  
 E-Mail: kas@fsw.leidenuniv.nl
+
