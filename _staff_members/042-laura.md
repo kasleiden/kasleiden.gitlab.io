@@ -5,7 +5,7 @@ name: LAURA BAARS
 title: Coordinator KAS / Dagelijks projectleider ISA
 group: team
 summary: Laura en Ilja coordineren samen KAS. Daarnaast is Laura de dagelijks projectleider van ISA.
-image: /img/Laura.jpg
+image: /img/Laura.jpeg
 ---
 
 
