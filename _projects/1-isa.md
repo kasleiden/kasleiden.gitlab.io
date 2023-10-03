@@ -24,17 +24,22 @@ De interventie voor sociale angst, oftewel ISA, is een interventie waarbij kind 
 Kinderen van 8 t/m 14 jaar met sociale angst en van wie ten minste één van de ouders wil meedoen aan het behandelprogramma. Het is van belang dat het kind momenteel niet onder behandeling is voor angstproblematiek.
 
 <br>
+<br>
 
 #### Jullie doen dit als onderdeel van onderzoek, wat houdt dat in? 
 Wanneer jullie deelnemen aan dit behandeltraject dan doen jullie ook mee aan onderzoek. Dit betekent dat er een interview en vragenlijsten bij ouder(s) en kind zullen worden afgenomen voor, tijdens en na het behandeltraject. Daarnaast vragen we ouder(s) en kind om dagelijks op hun eigen telefoon een paar korte vragen te beantwoorden (max. 1 min per dag). Dankzij jullie antwoorden kunnen wij de effectiviteit meten van het gelijktijdig aanbieden van beide programma’s.  
+ <br>
+ <br>
  
 #### Hoe gaan we van start? 
 Voordat u samen met uw kind kan meedoen, zal er een intake plaatsvinden. Gebaseerd op de intake bekijken we samen of het programma passend is.
+<br>
+<br>
 
 #### Waar wordt de interventie gegeven en wat kost het? 
 Het Kenniscentrum Angst en Stress is geen behandelinstelling,maar werkt samen met het Leids Universitair Behandel en Expertise Centrum in Leiden, daar zal de interventie plaatsvinden. Er zijn geen kosten verbonden, het programma valt onder reguliere jeugdzorg. 
 
-
+<br>
 <br> 
 
 
