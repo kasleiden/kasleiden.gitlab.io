@@ -4,7 +4,7 @@ title: Kinderen bedwingen Angst - Het KibA project
 summary: Heb je last van een specifiek angst, bijvoorbeeld een angst voor honden, hoogtes, injecties, onweer, het donker, spinnen of andere dieren? Dan is de KibA training misschien wel iets voor jou!
 permalink: /projects/kiba
 category: project
-image: /img/kiba-logo2.jpg
+image: /img/kiba22.jpg
 members: [michiel, anke, annelieke, jasmin, amber, merel, britt, laura]
 ---
 
