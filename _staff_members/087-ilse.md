@@ -2,9 +2,9 @@
 nameid: Ilse
 layout: teammember
 name: ILSE SCHOT
-title: Stagiaire KibA
+title: Assistent KIBA
 group: team
-summary: Ilse is masterstudent bij de opleiding Schoolpsychologie aan de Universiteit Leiden en loopt stage bij het KibA project.
+summary: Ilse is assistent bij het KIBA project
 image: /img/Ilse.jpg
 ---
 
