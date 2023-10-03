@@ -20,5 +20,5 @@ Laura heeft in 2023 de master Kinder- en Jeugdpsychologie cum laude afgerond aan
 
 Linkedin: linkedin.com/in/laura-baars-739477175
 <br>
-Contact: l.a.baars@umail.leidenuniv.nl
+Contact: l.a.baars@fsw.leidenuniv.nl
 
