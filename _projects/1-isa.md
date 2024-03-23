@@ -21,7 +21,7 @@ De interventie voor sociale angst, oftewel ISA, is een interventie waarbij kind 
 <br>
 
 #### Voor wie?
-Kinderen van 8 t/m 14 jaar met sociale angst en van wie ten minste één van de ouders wil meedoen aan het behandelprogramma. Het is van belang dat het kind momenteel niet onder behandeling is voor angstproblematiek.
+Kinderen van 8 t/m 16 jaar met sociale angst en van wie ten minste één van de ouders wil meedoen aan het behandelprogramma. Het is van belang dat het kind momenteel niet onder behandeling is voor angstproblematiek.
 
 <br>
 <br>
