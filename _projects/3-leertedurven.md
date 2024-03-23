@@ -21,7 +21,7 @@ Het 'Leer te Durven!' programma (Simon & Bögels, 2014) heeft als doel kinderen 
 <br>
 
 #### Voor wie?
-Het Leer te durven! programma is speciaal ontwikkeld voor kinderen tussen de 8 en 12 jaar die zich angstig voelen of angstig gedragen, situaties vermijden die ze niet durven aan te gaan, bang zijn om dingen fout te doen, schrikachtig of gestrest overkomen, negatief over zichzelf zijn, erg verlegen zijn en veel piekeren. 
+Het Leer te durven! programma is speciaal ontwikkeld voor kinderen tussen de 8 en 17 jaar die zich angstig voelen of angstig gedragen, situaties vermijden die ze niet durven aan te gaan, bang zijn om dingen fout te doen, schrikachtig of gestrest overkomen, negatief over zichzelf zijn, erg verlegen zijn en veel piekeren. 
 
 <br>
 
