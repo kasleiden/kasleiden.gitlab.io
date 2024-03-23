@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Leer te durven!
-summary: Vanaf september 2023 start elk kwartaal een nieuwe <b>Leer te durven!</b> training via onze partner <a href="https://www.universiteitleiden.nl/lubec">LUBEC</a> 
+summary: Vanaf mei 2024 bieden we een nieuwe <b>Leer te durven!</b> training via onze partner <a href="https://www.universiteitleiden.nl/lubec">LUBEC</a> 
 permalink: /news/leertedurven
 project-url: /projects/leertedurven
 category: news
