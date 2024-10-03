@@ -16,12 +16,12 @@ members: [michiel, anke, anika, marieke, bonny]
 <br>
 
 #### Over het Leer the durven! programma
-Het 'Leer te Durven!' programma (Simon & Bögels, 2014) heeft als doel kinderen met lichte angstklachten zo vroeg mogelijk te kunnen helpen. Het programma wordt gegeven in een groep en bestaat uit 8 bijeenkomsten van 1,5 uur. Tijdens de training oefenen kinderen met situaties die zij spannend vinden (exposure), leren zij meer zelfvertrouwen te krijgen en meer positief (helpend) te denken. Daarnaast doen de kinderen in de groep ontspannings- en sociale vaardigheidsoefeningen. Het Kenniscentrum angst en stress werkt hierbij samen met het LUBEC, waar het programma zal draaien.
+Het 'Leer te Durven!' programma (Simon & Bögels, 2014) heeft als doel kinderen met lichte angstklachten zo vroeg mogelijk te kunnen helpen. Het programma wordt gegeven in een groep en bestaat uit 8 bijeenkomsten van 1,5 uur. Tijdens de training oefenen kinderen met situaties die zij spannend vinden (exposure), leren zij meer zelfvertrouwen te krijgen en meer positief (helpend) te denken. Daarnaast doen de kinderen in de groep ontspannings- en sociale vaardigheidsoefeningen. 
 <br>
 <br>
 
 #### Voor wie?
-Het Leer te durven! programma is speciaal ontwikkeld voor kinderen tussen de 8 en 17 jaar die zich angstig voelen of angstig gedragen, situaties vermijden die ze niet durven aan te gaan, bang zijn om dingen fout te doen, schrikachtig of gestrest overkomen, negatief over zichzelf zijn, erg verlegen zijn en veel piekeren. 
+Het Leer te durven! programma is speciaal ontwikkeld voor kinderen tussen de 8 en 18 jaar die zich angstig voelen of angstig gedragen, situaties vermijden die ze niet durven aan te gaan, bang zijn om dingen fout te doen, schrikachtig of gestrest overkomen, negatief over zichzelf zijn, erg verlegen zijn en veel piekeren. 
 
 <br>
 
