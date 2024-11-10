@@ -8,7 +8,7 @@ summary: Anika is verantwoordelijk voor de zorglijnen binnen het kenniscentrum e
 image: /img/Anika.jpg
 ---
 
-Anika is verantwoordelijk voor alle zorg binnen het kenniscentrum en is medeoprichter van het Kenniscentrum. Ze is verantwoordelijk voor alle zorg binnen het kenniscentrum. Daarnaast is ze universitair hoofddocent bij de afdeling Ontwikkelings- en Onderwijspychologie van het Instituut Psychologie aan de Universiteit Leiden en klinisch psycholoog bij GGZ Delfland.
+Anika is verantwoordelijk voor alle zorg binnen het kenniscentrum en is medeoprichter van het Kenniscentrum. Ze is verantwoordelijk voor alle zorg binnen het kenniscentrum. Daarnaast is ze hoogleraar bij de afdeling Ontwikkelings- en Onderwijspychologie van het Instituut Psychologie aan de Universiteit Leiden en klinisch psycholoog bij GGZ Delfland.
 
 <br>
 
