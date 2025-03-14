@@ -5,7 +5,7 @@ summary: Is uw kind bang om in het middelpunt van de aandacht te staan of stom g
 permalink: /projects/isa
 category: project
 image: /img/isa1.jpg
-members: [anke, anika, laura, lynn]
+members: [anke, anika, lynn]
 ---
 
 
