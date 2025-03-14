@@ -39,7 +39,14 @@ Voordat u samen met uw kind kan meedoen, zal er een intake plaatsvinden. Gebasee
 
 
 #### Waar wordt de interventie gegeven en wat kost het? 
-Het Kenniscentrum Angst en Stress is geen behandelinstelling,maar werkt samen met het Leids Universitair Behandel en Expertise Centrum in Leiden, daar zal de interventie plaatsvinden. Er zijn geen kosten verbonden, het programma valt onder reguliere jeugdzorg. 
+Het Kenniscentrum Angst en Stress is geen behandelinstelling, maar werkt samen behandelinstellingen waar het programma uitgevoerd zal worden. Er zijn geen kosten verbonden, het programma valt onder reguliere jeugdzorg.  
+
+Voor deze interventie werken we samen met:
+- Leids Universitair Behandel en Expertise Centrum (LUBEC) in Leiden. 
+- UvaMinds in Amsterdam
+- GGZ Delfland locatie De Klaver in Bergschenhoek
+
+
 
 <br>
 <br> 
